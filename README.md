@@ -32,8 +32,8 @@ Focus is on the specific task.
 	- [ORM and Datamapping](#orm-and-datamapping)
 	- [NoSQL](#nosql)
 	- [Queue](#queue)
-	- [Search](#search)
-	- [Authentication](#authentication)
+	- [](#)
+	- [Authentication and Authorization](#authentication-and-authorization)
 	- [Markup](#markup)
 	- [Filtering and Validation](#filtering-and-validation)
 	- [REST and API](#rest-and-api)
@@ -90,6 +90,7 @@ Focus is on the specific task.
 - ~~[CTK plugin](https://github.com/jameswatts/cake-toolkit) - Allows views to be defined as a class.~~
 - ~~[CakeFactory plugin](https://github.com/jameswatts/cake-factory) - A factory for the Cake Toolkit (CTK), which provides configurable objects.~~
 - ~~[CML plugin](https://github.com/jameswatts/cake-markup-language) -  Provides further abstraction of the View layer by replacing the procedural PHP code with an XML based markup.~~
+- ~~[Wysiwyg plugin](https://github.com/josegonzalez/cakephp-wysiwyg) - Support for various wysiwyg editors.~~
 
 ## Email
 *Plugins for sending and parsing email.*
@@ -149,6 +150,8 @@ Focus is on the specific task.
 
 - ~~[DatabaseLog plugin](https://github.com/webtechnick/CakePHP-DatabaseLogger-Plugin) - Logging to the DB instead of filesystem.~~
 - ~~[Monolog plugin](https://github.com/Seldaek/monolog) - A comprehensive logger.~~
+- ~~[AuditLog](https://github.com/jippi/cakephp-audit-log) - Records changes made to an object during CRUD operations.~~
+- ~~[Tools:WhoDidIt](https://github.com/dereuromark/tools) - Containing WhoDidIt behavior to record changes made to an object during CRUD operations.~~
 
 ## E-commerce
 *Plugins and applications for taking payments and building online e-commerce stores.*
@@ -180,15 +183,15 @@ Focus is on the specific task.
 - ~~[Queue plugin](https://github.com/dereuromark/cakephp-queue) - A minimal dependency-free CakePHP only plugin around Queue.~~
 - ~~[CakeResque plugin](https://github.com/kamisama/Cake-Resque) - A plugin for Resque, a library for creating background jobs~~
 
-## Search
-*Plugins and software for indexing and performing search queries on data.*
+## 
+*Plugins and software for indexing and performing  queries on data.*
 
 - ~~[Tags plugin](https://github.com/CakeDC/tags) - Tagging records the easy way.~~
-- ~~[Search plugin](https://github.com/CakeDC/search) - De-facto search form standard built on RPG pattern.~~
-- ~~[Elastic](https://github.com/dkullmann/CakePHP-Elastic-Search-DataSource) - Connecting models to Elastic Search types.~~
-- ~~[OpenSearch plugin](https://github.com/dereuromark/cakephp-opensearch) - For creating installable search plugins for IE, Firefox and Chrome.~~
+- ~~[ plugin](https://github.com/CakeDC/) - De-facto  form standard built on RPG pattern.~~
+- ~~[Elastic](https://github.com/dkullmann/CakePHP-Elastic--DataSource) - Connecting models to Elastic  types.~~
+- ~~[Open plugin](https://github.com/dereuromark/cakephp-open) - For creating installable  plugins for IE, Firefox and Chrome.~~
 
-## Authentication
+## Authentication and Authorization
 *Plugins and libraries for implementing authentication and authorization.*
 
 - ~~[Authenticate plugin](https://github.com/FriendsOfCake/Authenticate) - Authentication classes for AuthComponent.~~
@@ -243,14 +246,14 @@ Focus is on the specific task.
 - ~~[Feedback plugin](https://github.com/lecterror/cakephp-feedback-plugin) - Providing feedback.~~
 - ~~[Like plugin](https://github.com/aschelch/cakephp-like-plugin) - Provides a feature similar to Facebook "Like".~~
 - ~~[Comments plugin](https://github.com/CakeDC/comments) - Allows users to comment records.~~
+- ~~[Facebook plugin](https://github.com/webtechnick/CakePHP-Facebook-Plugin) - Facebook plugin.~~
 
 ## SEO
-*Search Engine Optimization*
+* Engine Optimization*
 
 - ~~[Sitemap plugin](http://plugins.cakephp.org/p/1681-CakePHP-Sitemap) - Generates HTML and XML sitemaps for your CakePHP application.~~
 - ~~[Seo plugin](https://github.com/webtechnick/CakePHP-Seo-Plugin) - SEO plugin.~~
-- ~~[Facebook plugin](https://github.com/webtechnick/CakePHP-Facebook-Plugin) - Facebook plugin.~~
-
+- [Tools:Slugged](https://github.com/dereuromark/tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
 ## Third Party APIs
 *Plugins for accessing third party APIs.*
 
@@ -282,6 +285,7 @@ Focus is on the specific task.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 - [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension - used in CakePHP3.x anyway.
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library -  - used in CakePHP3.x anyway.
+- [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Deployment
 
 # Software
 *Software for creating a development environment.*
@@ -316,7 +320,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 - [CakeDC](http://www.cakedc.com/articles) - Articles around CakePHP.
 
 ## CakePHP Books
-*Fantastic CakePHP-related books.*
+*Fantastic CakePHP-related (e)books.*
 
 - ?
 
