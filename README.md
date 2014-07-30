@@ -12,8 +12,8 @@ a subpart of a plugin - instead of only the whole plugin/repo itself. The groupi
 Focus is on the specific task.
 
 - [Awesome CakePHP](#awesome-cakephp)
-  - [Skeleton](#skeleton)
-  - [Environment](#environment)
+	- [Skeleton](#skeleton)
+	- [Environment](#environment)
 	- [Debugging](#debugging)
 	- [Templating](#templating)
 	- [Dependency Injection](#dependency-injection)
