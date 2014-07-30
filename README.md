@@ -150,7 +150,7 @@ Focus is on the specific task.
 
 - [DatabaseLog plugin](https://github.com/webtechnick/CakePHP-DatabaseLogger-Plugin)
 - [Monolog plugin](https://github.com/Seldaek/monolog) - A comprehensive logger.
-- [AuditLog](https://github.com/jippi/cakephp-audit-log) - Records changes made to an object during CRUD operations.
+- [AuditLog plugin](https://github.com/jippi/cakephp-audit-log) - Records changes made to an object during CRUD operations.
 - [Tools:WhoDidIt](https://github.com/dereuromark/tools) - Containing WhoDidIt behavior to record changes made to an object during CRUD operations.
 
 ## E-commerce
@@ -276,6 +276,7 @@ Focus is on the specific task.
 - [Travis](https://github.com/FriendsOfCake/travis) - Easy travis setup for CakePHP plugins.
 - [AJAX](https://github.com/dereuromark/cakephp-tools/wiki/www.dereuromark.de/2014/01/09/ajax-and-cakephp/) - AJAX and CakePHP.
 - [Users plugin](https://github.com/CakeDC/users) - For allowing users to register and login manage their profile.
+- [MobileDetect plugin](https://github.com/chronon/CakePHP-MobileDetectComponent-Plugin) - Identifying mobile devices using the Mobile_Detect project.
 
 ## Libs
 *Useful libraries or tools that don't fit in the categories above.*
