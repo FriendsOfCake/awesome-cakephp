@@ -47,11 +47,11 @@ Focus is on the specific task.
 	- [Development Environment](#development-environment)
 	- [Web Applications](#web-applications)
 - [Resources](#resources)
-	- [CakePHP Websites](#php-websites)
-	- [CakePHP Books](#php-books)
-	- [CakePHP Videos](#php-videos)
-	- [CakePHP Reading](#php-reading)
-	- [CakePHP Internals Reading](#php-internals-reading)
+	- [CakePHP Websites](#cakephp-websites)
+	- [CakePHP Books](#cakephp-books)
+	- [CakePHP Videos](#cakephp-videos)
+	- [CakePHP Reading](#cakephp-reading)
+	- [CakePHP Internals Reading](#cakephp-internals-reading)
 - [Contributing](#contributing)
 
 ## Skeleton
