@@ -309,8 +309,8 @@ Focus is on the specific task.
 
 ## CMS and applications built on CakePHP
 
+- [QuickApps-CMS](https://github.com/QuickAppsCMS/QuickApps-CMS) (tree 2.0) - Open source content management system.
 - ~~[Croogo](https://github.com/croogo/croogo) - Open source content management system.~~
-- ~~[QuickApps-CMS](https://github.com/QuickAppsCMS/QuickApps-CMS) - Open source content management system.~~
 - ~~[Infititas CMS](https://github.com/infinitas) - Open source content management framework.~~
 
 ## Demo
