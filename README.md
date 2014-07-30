@@ -213,6 +213,7 @@ Focus is on the specific task.
 *Plugins for filtering and validating data.*
 
 - [HtmlPurifier plugin](https://github.com/burzum/cakephp-html-purifier) - A standards compliant HTML filter.
+- [Tidy plugin](https://github.com/cikorka/CakePHP-HTML-Tidy-Plugin) - Validate and generate tided HTML output.
 
 ## REST and API
 *Plugins and web tools for developing REST-ful APIs.*
