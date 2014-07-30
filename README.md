@@ -200,6 +200,7 @@ Focus is on the specific task.
 - ~~[GoogleAuthenticate plugin](https://github.com/ceeram/GoogleAuthenticate) - Containing Google 2 step authenticate class for AuthComponent.~~
 - ~~[Tools:Passwordable](https://github.com/dereuromark/tools) - Containing [Passwordable behavior](http://www.dereuromark.de/2011/08/25/working-with-passwords-in-cakephp/) for a DRY approach von modern password hashing.~~
 - ~~[Sanction plugin](https://github.com/josegonzalez/cakephp-sanction) - Centralize all of those permissions in a single file.~~
+- [MultiTenant](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.
 
 ## Markup
 *Plugins for working with markup.*
