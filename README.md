@@ -358,6 +358,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 *Documentation and CakePHP-releated reading materials.*
 
 - [Cookbook(!)](http://book.cakephp.org/2.0/en/index.html) - The official documentation.
+- [Cheat Sheet](http://cakephpcheatsheet.com) - Lot of Code Snippets for the CakePHP Framework.
 
 ## CakePHP Internals Reading
 *Reading materials related to the CakePHP internals and decisions.*
