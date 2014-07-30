@@ -362,7 +362,8 @@ Various resources, such as books, websites and articles, for improving your Cake
 ## CakePHP Internals Reading
 *Reading materials related to the CakePHP internals and decisions.*
 
-- [Core Google Group](http://groups.google.com/group/cakephp-core/topics)
+- [Core Google Group](http://groups.google.com/group/cakephp-core/topics) - Discussions around the CakePHP core.
+- [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) - Give 'em a hand.
 
 # Conferences
 
