@@ -116,7 +116,7 @@ Focus is on the specific task.
 ## Testing
 *Plugins for testing codebases and generating test data.*
 
-- ~~[CakePHP CodeSniffer rules](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
+- [CakePHP CodeSniffer rules](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
 
 ## Security
 *Plugins for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
@@ -219,20 +219,20 @@ Focus is on the specific task.
 ## Caching
 *Plugins for caching data.*
 
-- ~~[AutoCache plugin](https://github.com/ndejong/CakephpAutocachePlugin) - A plugin that makes query caching easy.
-- ~~[Cacher plugin](https://github.com/jeremyharris/cacher) - A plugin that caches query results.
-- ~~[UrlCache plugin](https://github.com/dereuromark/url_cache) - Automatically cache the results of calls to Router.
+- ~~[AutoCache plugin](https://github.com/ndejong/CakephpAutocachePlugin) - A plugin that makes query caching easy.~~
+- ~~[Cacher plugin](https://github.com/jeremyharris/cacher) - A plugin that caches query results.~~
+- ~~[UrlCache plugin](https://github.com/dereuromark/url_cache) - Automatically cache the results of calls to Router.~~
 
 ## Notifications
 *Plugins for working with notification software.*
 
-- ~~[Notification plugin](https://github.com/aschelch/cakephp-notification-plugin) - A plugin that provides an notification system.
+- ~~[Notification plugin](https://github.com/aschelch/cakephp-notification-plugin) - A plugin that provides an notification system.~~
 
 ## I18n
 *Plugins for I18n (Internationalization) and L10n (Localization)*
 
-- ~~[Localized plugin](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files.
-- ~~[Transifex plugin](https://github.com/dereuromark/cakephp-transifex) - Imports locales via Transifex API.
+- ~~[Localized plugin](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files.~~
+- ~~[Transifex plugin](https://github.com/dereuromark/cakephp-transifex) - Imports locales via Transifex API.~~
 
 ## Social
 *Plugins around social features*
