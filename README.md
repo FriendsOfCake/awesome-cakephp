@@ -288,9 +288,12 @@ Focus is on the specific task.
 * [Puppet](http://puppetlabs.com/) - A server automation framework and application.
 
 ## Web Applications
-*Web-based applications and tools.*
+*Web-based (demo) applications and tools.*
 
-* ?
+* [CakePHP Sandbox](http://sandbox.dereuromark.de) - A sandbox CakePHP application.
+* [CakeFest](http://cakefest.dereuromark.de/) - Demo application around the annual CakePHP Conference "CakeFest".
+
+Based on CakePHP2.x.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your CakePHP development skills and knowledge.
