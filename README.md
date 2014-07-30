@@ -87,7 +87,7 @@ Focus is on the specific task.
 - [Mustache plugin](https://github.com/Dismounted/MustacheCake) - A Mustache plugin.
 - [CTK plugin](https://github.com/jameswatts/cake-toolkit) - Allows views to be defined as a class.
 - [CakeFactory plugin](https://github.com/jameswatts/cake-factory) - A factory for the Cake Toolkit (CTK), which provides configurable objects.
-- [CML plugin](https://github.com/jameswatts/cake-markup-language) -  Provides further abstraction of the View layer by replacing the procedural PHP code with an XML based markup.
+- [CML plugin](https://github.com/jameswatts/cake-markup-language) - Provides further abstraction of the View layer by replacing the procedural PHP code with an XML based markup.
 - [Wysiwyg plugin](https://github.com/josegonzalez/cakephp-wysiwyg) - Support for various wysiwyg editors.
 
 ## Email
@@ -281,12 +281,12 @@ Focus is on the specific task.
 *Useful libraries or tools that don't fit in the categories above.*
 
 - [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - A package and dependency manager.
-- [Composer Installers](https://github.com/composer/installers) - A  multi framework Composer library installer.
+- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer.
 - [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 - [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension - used in CakePHP3.x anyway.
-- [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library -  - used in CakePHP3.x anyway.
+- [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - - used in CakePHP3.x anyway.
 - [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Deployment
 
 # Software
