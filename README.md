@@ -197,13 +197,14 @@ Focus is on the specific task.
 ## Authentication and Authorization
 *Plugins and libraries for implementing authentication and authorization.*
 
+- [Acl plugin](https://github.com/cakephp/acl) - Access Controll List plugin (extracted from the CakePHP2.x core into a plugin).
+- [MultiTenant plugin](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.
 - ~~[Authenticate plugin](https://github.com/FriendsOfCake/Authenticate) - Authentication classes for AuthComponent.~~
 - ~~[Authorize plugin](https://github.com/FriendsOfCake/Authorize) - Authorize classes for AuthComponent.~~
 - ~~[Tools:TinyAuth](https://github.com/dereuromark/tools) - Containing TinyAuth for a very lightweight (single/multi) role based access.~~
 - ~~[GoogleAuthenticate plugin](https://github.com/ceeram/GoogleAuthenticate) - Containing Google 2 step authenticate class for AuthComponent.~~
 - ~~[Tools:Passwordable](https://github.com/dereuromark/tools) - Containing [Passwordable behavior](http://www.dereuromark.de/2011/08/25/working-with-passwords-in-cakephp/) for a DRY approach von modern password hashing.~~
 - ~~[Sanction plugin](https://github.com/josegonzalez/cakephp-sanction) - Centralize all of those permissions in a single file.~~
-- [MultiTenant](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.
 
 ## Markup
 *Plugins for working with markup.*
@@ -269,6 +270,7 @@ Focus is on the specific task.
 ## Migration
 *Plugins and resources around migrationa and upgrading*
 
+- [Migrations plugin](https://github.com/lorenzo/cakephp-migrations) - (DB) Migration plugin.
 - ~~[Migrations plugin](https://github.com/CakeDC/migrations) - (DB) Migration plugin.~~
 - ~~[Upgrade/Migration Guide](http://book.cakephp.org/2.0/en/appendices.html) - Official migration guide.~~
 - ~~[Upgrade plugin](https://github.com/dereuromark/cakephp-upgrade) - The most extensive 1.x=>2.x and partly =>3.x upgrade shells.~~
