@@ -32,7 +32,7 @@ Focus is on the specific task.
 	- [ORM and Datamapping](#orm-and-datamapping)
 	- [NoSQL](#nosql)
 	- [Queue](#queue)
-	- [](#)
+	- [Search](#search)
 	- [Authentication and Authorization](#authentication-and-authorization)
 	- [Markup](#markup)
 	- [Filtering and Validation](#filtering-and-validation)
@@ -89,7 +89,7 @@ Focus is on the specific task.
 - ~~[Mustache plugin](https://github.com/Dismounted/MustacheCake) - A Mustache plugin.~~
 - ~~[CTK plugin](https://github.com/jameswatts/cake-toolkit) - Allows views to be defined as a class.~~
 - ~~[CakeFactory plugin](https://github.com/jameswatts/cake-factory) - A factory for the Cake Toolkit (CTK), which provides configurable objects.~~
-- ~~[CML plugin](https://github.com/jameswatts/cake-markup-language) -  Provides further abstraction of the View layer by replacing the procedural PHP code with an XML based markup.~~
+- ~~[CML plugin](https://github.com/jameswatts/cake-markup-language) - Provides further abstraction of the View layer by replacing the procedural PHP code with an XML based markup.~~
 - ~~[Wysiwyg plugin](https://github.com/josegonzalez/cakephp-wysiwyg) - Support for various wysiwyg editors.~~
 
 ## Email
@@ -183,13 +183,13 @@ Focus is on the specific task.
 - ~~[Queue plugin](https://github.com/dereuromark/cakephp-queue) - A minimal dependency-free CakePHP only plugin around Queue.~~
 - ~~[CakeResque plugin](https://github.com/kamisama/Cake-Resque) - A plugin for Resque, a library for creating background jobs~~
 
-## 
-*Plugins and software for indexing and performing  queries on data.*
+## Search
+*Plugins and software for indexing and performing search queries on data.*
 
 - ~~[Tags plugin](https://github.com/CakeDC/tags) - Tagging records the easy way.~~
-- ~~[ plugin](https://github.com/CakeDC/) - De-facto  form standard built on RPG pattern.~~
-- ~~[Elastic](https://github.com/dkullmann/CakePHP-Elastic--DataSource) - Connecting models to Elastic  types.~~
-- ~~[Open plugin](https://github.com/dereuromark/cakephp-open) - For creating installable  plugins for IE, Firefox and Chrome.~~
+- [Search plugin](https://github.com/CakeDC/) - De-facto search form standard built on RPG pattern.
+- ~~[Elastic plugin](https://github.com/dkullmann/CakePHP-Elastic--DataSource) - Connecting models to Elastic search types.~~
+- ~~[OpenSearch plugin](https://github.com/dereuromark/cakephp-opensearch) - For creating installable search plugins for IE, Firefox and Chrome.~~
 
 ## Authentication and Authorization
 *Plugins and libraries for implementing authentication and authorization.*
@@ -249,11 +249,12 @@ Focus is on the specific task.
 - ~~[Facebook plugin](https://github.com/webtechnick/CakePHP-Facebook-Plugin) - Facebook plugin.~~
 
 ## SEO
-* Engine Optimization*
+* Search Engine Optimization*
 
 - ~~[Sitemap plugin](http://plugins.cakephp.org/p/1681-CakePHP-Sitemap) - Generates HTML and XML sitemaps for your CakePHP application.~~
 - ~~[Seo plugin](https://github.com/webtechnick/CakePHP-Seo-Plugin) - SEO plugin.~~
 - [Tools:Slugged](https://github.com/dereuromark/tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
+
 ## Third Party APIs
 *Plugins for accessing third party APIs.*
 
@@ -279,12 +280,12 @@ Focus is on the specific task.
 *Useful libraries or tools that don't fit in the categories above.*
 
 - [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - A package and dependency manager.
-- [Composer Installers](https://github.com/composer/installers) - A  multi framework Composer library installer.
+- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer.
 - [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 - [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension - used in CakePHP3.x anyway.
-- [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library -  - used in CakePHP3.x anyway.
+- [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - - used in CakePHP3.x anyway.
 - [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Deployment
 
 # Software
