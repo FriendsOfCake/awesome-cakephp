@@ -45,6 +45,7 @@ Focus is on the specific task.
 	- [Libs](#libs)
 - [Software](#software)
 	- [Development Environment](#development-environment)
+- [Demo](#demo)
 	- [Web Applications](#web-applications)
 - [Resources](#resources)
 	- [CakePHP Websites](#cakephp-websites)
@@ -286,6 +287,8 @@ Focus is on the specific task.
 
 * [Vagrant](http://www.vagrantup.com/) - A portable development environment utility.
 * [Puppet](http://puppetlabs.com/) - A server automation framework and application.
+
+# Demo
 
 ## Web Applications
 *Web-based (demo) applications and tools.*
