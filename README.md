@@ -331,5 +331,16 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 * [Core Google Group](http://groups.google.com/group/cakephp-core/topics)
 
+
+# Conferences
+
+## Official conference
+
+* [cakefest.org](http://cakefest.org/) - Annual CakePHP Conference.
+
+## MeetUps
+
+* ?
+
 # Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
