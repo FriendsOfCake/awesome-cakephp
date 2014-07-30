@@ -186,6 +186,8 @@ Focus is on the specific task.
 ## Search
 *Plugins and software for indexing and performing search queries on data.*
 
+- [SimpleScope](https://github.com/josegonzalez/cakephp-simple-scope) - For scoping finds.
+- [Tools:NamedScope](https://github.com/dereuromark/tools) - Containing [NamedScope behavior](http://www.dereuromark.de/2014/02/15/cakephp-and-namedscope-for-dry-conditions/) for DRY find conditions.
 - [Tags plugin](https://github.com/CakeDC/tags) - Tagging records the easy way.
 - [Search plugin](https://github.com/CakeDC/search) - De-facto search form standard built on RPG pattern.
 - [Elastic](https://github.com/dkullmann/CakePHP-Elastic-Search-DataSource) - Connecting models to Elastic Search types.
