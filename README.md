@@ -53,6 +53,7 @@ Focus is on the specific task.
 	- [CakePHP Videos](#cakephp-videos)
 	- [CakePHP Reading](#cakephp-reading)
 	- [CakePHP Internals Reading](#cakephp-internals-reading)
+- [Conferences](#conferences)
 - [Contributing](#contributing)
 
 ## Skeleton
