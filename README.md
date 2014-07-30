@@ -84,9 +84,10 @@ Focus is on the specific task.
 - [TwigView plugin](https://github.com/predominant/TwigView) - A plugin to use the Twig Templating Language for views.
 - [CsvView plugin](https://github.com/josegonzalez/cakephp-csvview) - A view to easily generate CSV.
 - [Tools:RssView](https://github.com/dereuromark/cakephp-tools) - Containing [RssView](http://www.dereuromark.de/2013/10/03/rss-feeds-in-cakephp/) to easily generate (complex) RSS.
-- [CakeMarkupLanguage plugin](https://github.com/jameswatts/cake-markup-language) -  Provides further abstraction of the View layer by replacing the procedural PHP code with an XML based markup.
-- [CakeFactory plugin](https://github.com/jameswatts/cake-factory) - A factory for the Cake Toolkit (CTK), which provides configurable objects.
 - [Mustache plugin](https://github.com/Dismounted/MustacheCake) - A Mustache plugin.
+- [CTK plugin](https://github.com/jameswatts/cake-toolkit) - Allows views to be defined as a class.
+- [CakeFactory plugin](https://github.com/jameswatts/cake-factory) - A factory for the Cake Toolkit (CTK), which provides configurable objects.
+- [CML plugin](https://github.com/jameswatts/cake-markup-language) -  Provides further abstraction of the View layer by replacing the procedural PHP code with an XML based markup.
 
 ## Email
 *Plugins for sending and parsing email.*
@@ -218,6 +219,7 @@ Focus is on the specific task.
 *Plugins for caching data.*
 
 - [AutoCache plugin](https://github.com/ndejong/CakephpAutocachePlugin) - A plugin that makes query caching easy.
+- [Cacher plugin](https://github.com/jeremyharris/cacher) - A plugin that caches query results.
 - [UrlCache plugin](https://github.com/dereuromark/url_cache) - Automatically cache the results of calls to Router.
 
 ## Notifications
