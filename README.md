@@ -50,6 +50,7 @@ Focus is on the specific task.
 	- [CMS and applications built on CakePHP](#cms-and-applications-built-on-cakephp)
 	- [Demo](#demo)
 - [Resources](#resources)
+	- [Help](#help)
 	- [CakePHP Websites](#cakephp-websites)
 	- [CakePHP Books](#cakephp-books)
 	- [CakePHP Videos](#cakephp-videos)
@@ -323,6 +324,13 @@ Based on CakePHP2.x.
 # Resources
 Various resources, such as books, websites and articles, for improving your CakePHP development skills and knowledge.
 
+## Help
+*Where to get help*
+
+- [Google Group](https://groups.google.com/forum/#!forum/cake-php) - This is for generic questions and alike.
+- [stackoverflow.com/questions/tagged/cakephp](http://stackoverflow.com/questions/tagged/cakephp) - This is for specific questions, ideally along with some example code.
+- [IRC Channel](http://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) - Live chat/discussion with other devs and core devs.
+
 ## CakePHP Websites
 *Useful and current CakePHP-related websites and blogs.*
 
@@ -352,7 +360,6 @@ Various resources, such as books, websites and articles, for improving your Cake
 *Reading materials related to the CakePHP internals and decisions.*
 
 - [Core Google Group](http://groups.google.com/group/cakephp-core/topics)
-
 
 # Conferences
 
