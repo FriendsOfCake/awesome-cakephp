@@ -4,7 +4,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 Also see http://plugins.cakephp.org/packages/categories as a categorized list
 and maybe check out the PHP list at https://github.com/ziadoz/awesome-php as well.
 
-This list is specifically for **CakePHP2.x**. For *CakePHP3.x* please see the *cake3* branch.
+This list is specifically for **CakePHP3.x**.
 It is a recommendation for good plugins and solutions for this major CakePHP version.
 
 The main advantage of this list compared to plugins.cakephp.org is, that here it can also be
@@ -297,10 +297,10 @@ Focus is on the specific task.
 ## Web Applications
 *Web-based (demo) applications and tools.*
 
-- [CakePHP Sandbox](http://sandbox.dereuromark.de) - A sandbox CakePHP application.
-- [CakeFest](http://cakefest.dereuromark.de/) - Demo application around the annual CakePHP Conference "CakeFest".
+- ~~[CakePHP Sandbox](http://sandbox.dereuromark.de) - A sandbox CakePHP application.~~
+- [~~CakeFest~~](http://cakefest.dereuromark.de/) - Demo application around the annual CakePHP Conference "CakeFest".
 
-Based on CakePHP2.x.
+Based on CakePHP3.x.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your CakePHP development skills and knowledge.
@@ -328,7 +328,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 ## CakePHP Reading
 *Documentation and CakePHP-releated reading materials.*
 
-- [Cookbook(!)](http://book.cakephp.org/2.0/en/index.html) - The official documentation.
+- [Cookbook(!)](http://book.cakephp.org/3.0/en/index.html) - The official documentation.
 
 ## CakePHP Internals Reading
 *Reading materials related to the CakePHP internals and decisions.*
