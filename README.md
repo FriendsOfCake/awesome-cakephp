@@ -243,13 +243,14 @@ Focus is on the specific task.
 - [Feedback plugin](https://github.com/lecterror/cakephp-feedback-plugin) - Providing feedback.
 - [Like plugin](https://github.com/aschelch/cakephp-like-plugin) - Provides a feature similar to Facebook "Like".
 - [Comments plugin](https://github.com/CakeDC/comments) - Allows users to comment records.
+- [Facebook plugin](https://github.com/webtechnick/CakePHP-Facebook-Plugin) - Facebook plugin.
 
 ## SEO
 *Search Engine Optimization*
 
 - [Sitemap plugin](http://plugins.cakephp.org/p/1681-CakePHP-Sitemap) - Generates HTML and XML sitemaps for your CakePHP application.
 - [Seo plugin](https://github.com/webtechnick/CakePHP-Seo-Plugin) - SEO plugin.
-- [Facebook plugin](https://github.com/webtechnick/CakePHP-Facebook-Plugin) - Facebook plugin.
+- [Tools:Slugged](https://github.com/dereuromark/tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
 
 ## Third Party APIs
 *Plugins for accessing third party APIs.*
