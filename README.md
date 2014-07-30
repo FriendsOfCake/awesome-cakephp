@@ -346,7 +346,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 ## CakePHP Books
 *Fantastic CakePHP-related (e)books.*
 
-- ?
+- [Instant Starter](http://www.amazon.com/Instant-CakePHP-Starter-Robert-Henderson-ebook/dp/B00CITNQP2/) - CakePHP2.x book (not for total PHP beginners).
 
 ## CakePHP Videos
 *Fantastic CakePHP-related videos.*
