@@ -31,7 +31,7 @@ Focus is on the specific task.
 	- [NoSQL](#nosql)
 	- [Queue](#queue)
 	- [Search](#search)
-	- [Authentication](#authentication)
+	- [Authentication and Authorization](#authentication-and-authorization)
 	- [Markup](#markup)
 	- [Filtering and Validation](#filtering-and-validation)
 	- [REST and API](#rest-and-api)
@@ -150,6 +150,8 @@ Focus is on the specific task.
 
 - [DatabaseLog plugin](https://github.com/webtechnick/CakePHP-DatabaseLogger-Plugin)
 - [Monolog plugin](https://github.com/Seldaek/monolog) - A comprehensive logger.
+- [AuditLog](https://github.com/jippi/cakephp-audit-log) - Records changes made to an object during CRUD operations.
+- [Tools:WhoDidIt](https://github.com/dereuromark/tools) - Containing WhoDidIt behavior to record changes made to an object during CRUD operations.
 
 ## E-commerce
 *Plugins and applications for taking payments and building online e-commerce stores.*
@@ -189,7 +191,7 @@ Focus is on the specific task.
 - [Elastic](https://github.com/dkullmann/CakePHP-Elastic-Search-DataSource) - Connecting models to Elastic Search types.
 - [OpenSearch plugin](https://github.com/dereuromark/cakephp-opensearch) - For creating installable search plugins for IE, Firefox and Chrome.
 
-## Authentication
+## Authentication and Authorization
 *Plugins and libraries for implementing authentication and authorization.*
 
 - [Authenticate plugin](https://github.com/FriendsOfCake/Authenticate) - Authentication classes for AuthComponent.
@@ -285,6 +287,7 @@ Focus is on the specific task.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 - [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension - used in CakePHP3.x anyway.
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library -  - used in CakePHP3.x anyway.
+- [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Deployment
 
 # Software
 *Software for creating a development environment.*
@@ -319,7 +322,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 - [CakeDC](http://www.cakedc.com/articles) - Articles around CakePHP.
 
 ## CakePHP Books
-*Fantastic CakePHP-related books.*
+*Fantastic CakePHP-related (e)books.*
 
 - ?
 
