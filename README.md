@@ -1,9 +1,9 @@
 # Awesome CakePHP
 A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
-Also see http://plugins.cakephp.org/packages/categories as a categorized list.
-You may also want to check out the PHP list at https://github.com/ziadoz/awesome-php as well as the generic
-https://github.com/bayandin/awesome-awesomeness list.
+Also see [plugins.cakephp.org/packages/categories](http://plugins.cakephp.org/packages/categories) as a categorized list.
+You may also want to check out the PHP list at [awesome-php](https://github.com/ziadoz/awesome-php) as well as the generic
+[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 This list is specifically for **CakePHP2.x**. For *CakePHP3.x* please see the *cake3* branch.
 It is a recommendation for good plugins and solutions for this major CakePHP version.
