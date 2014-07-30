@@ -55,7 +55,7 @@ Focus is on the specific task.
 - [Contributing](#contributing)
 
 ## Skeleton
-* Plugins and repositories around app skeletons*
+*Plugins and repositories around app skeletons*
 
 * [App template](https://github.com/FriendsOfCake/app-template) - An empty CakePHP project for use with composer.
 * [setup bake template](https://github.com/dereuromark/cakephp-setup/tree/master/Console/Templates/setup) - An example template on how customization of bake templates is possible.
