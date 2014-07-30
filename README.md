@@ -1,8 +1,9 @@
 # Awesome CakePHP
 A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
-Also see http://plugins.cakephp.org/packages/categories as a categorized list
-and maybe check out the PHP list at https://github.com/ziadoz/awesome-php as well.
+Also see [plugins.cakephp.org/packages/categories](http://plugins.cakephp.org/packages/categories) as a categorized list.
+You may also want to check out the PHP list at [awesome-php](https://github.com/ziadoz/awesome-php) as well as the generic
+[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 This list is specifically for **CakePHP3.x**.
 It is a recommendation for good plugins and solutions for this major CakePHP version.
@@ -47,9 +48,11 @@ Focus is on the specific task.
 	- [Libs](#libs)
 - [Software](#software)
 	- [Development Environment](#development-environment)
-- [Demo](#demo)
-	- [Web Applications](#web-applications)
+- [Web Applications](#web-applications)
+	- [CMS and applications built on CakePHP](#cms-and-applications-built-on-cakephp)
+	- [Demo](#demo)
 - [Resources](#resources)
+	- [Help](#help)
 	- [CakePHP Websites](#cakephp-websites)
 	- [CakePHP Books](#cakephp-books)
 	- [CakePHP Videos](#cakephp-videos)
@@ -150,7 +153,7 @@ Focus is on the specific task.
 
 - ~~[DatabaseLog plugin](https://github.com/webtechnick/CakePHP-DatabaseLogger-Plugin) - Logging to the DB instead of filesystem.~~
 - ~~[Monolog plugin](https://github.com/Seldaek/monolog) - A comprehensive logger.~~
-- ~~[AuditLog](https://github.com/jippi/cakephp-audit-log) - Records changes made to an object during CRUD operations.~~
+- ~~[AuditLog plugin](https://github.com/jippi/cakephp-audit-log) - Records changes made to an object during CRUD operations.~~
 - ~~[Tools:WhoDidIt](https://github.com/dereuromark/tools) - Containing WhoDidIt behavior to record changes made to an object during CRUD operations.~~
 
 ## E-commerce
@@ -208,12 +211,13 @@ Focus is on the specific task.
 - ~~[MarkupParsers plugin](https://github.com/CakeDC/markup_parsers) - A collection of parsers.~~
 - ~~[Decoda plugin](https://github.com/milesj/decoda) - A lightweight bbcode parser plugin.~~
 - ~~[Markdown plugin](https://github.com/chronon/CakePHP-Markdown-Plugin) - A Markdown parser plugin.~~
-- ~~[Geshi plugin](https://github.com/dereuromark/cakephp_geshi) - For adding GeSHI syntax highlighting.~~
+- ~~[Geshi plugin](https://github.com/markstory/cakephp_geshi) - For adding GeSHI syntax highlighting.~~
 
 ## Filtering and Validation
 *Plugins for filtering and validating data.*
 
 - ~~[HtmlPurifier plugin](https://github.com/burzum/cakephp-html-purifier) - A standards compliant HTML filter.~~
+- ~~[Tidy plugin](https://github.com/cikorka/CakePHP-HTML-Tidy-Plugin) - Validate and generate tided HTML output.~~
 
 ## REST and API
 *Plugins and web tools for developing REST-ful APIs.*
@@ -276,6 +280,7 @@ Focus is on the specific task.
 - ~~[Dotcake](https://github.com/dotcake/dotcake) - Provides CakePHP project info for editor's cakephp plugins.~~
 - ~~[Travis](https://github.com/FriendsOfCake/travis) - Easy travis setup for CakePHP plugins.~~
 - ~~[Users plugin](https://github.com/CakeDC/users) - For allowing users to register and login manage their profile.~~
+- ~~[MobileDetect plugin](https://github.com/chronon/CakePHP-MobileDetectComponent-Plugin) - Identifying mobile devices using the Mobile_Detect project.~~
 
 ## Libs
 *Useful libraries or tools that don't fit in the categories above.*
@@ -298,9 +303,15 @@ Focus is on the specific task.
 - [Vagrant](http://www.vagrantup.com/) - A portable development environment utility.
 - [Puppet](http://puppetlabs.com/) - A server automation framework and application.
 
-# Demo
-
 ## Web Applications
+
+## CMS and applications built on CakePHP
+
+- ~~[Croogo](https://github.com/croogo/croogo) - Open source content management system.~~
+- ~~[QuickApps-CMS](https://github.com/QuickAppsCMS/QuickApps-CMS) - Open source content management system.~~
+- ~~[Infititas CMS](https://github.com/infinitas) - Open source content management framework.~~
+
+## Demo
 *Web-based (demo) applications and tools.*
 
 - ~~[CakePHP Sandbox](http://sandbox.dereuromark.de) - A sandbox CakePHP application.~~
@@ -310,6 +321,13 @@ Based on CakePHP3.x.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your CakePHP development skills and knowledge.
+
+## Help
+*Where to get help*
+
+- [Google Group](https://groups.google.com/forum/#!forum/cake-php) - This is for generic questions and alike.
+- [stackoverflow.com/questions/tagged/cakephp](http://stackoverflow.com/questions/tagged/cakephp) - This is for specific questions, ideally along with some example code.
+- [IRC Channel](http://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) - Live chat/discussion with other devs and core devs.
 
 ## CakePHP Websites
 *Useful and current CakePHP-related websites and blogs.*
@@ -340,7 +358,6 @@ Various resources, such as books, websites and articles, for improving your Cake
 *Reading materials related to the CakePHP internals and decisions.*
 
 - [Core Google Group](http://groups.google.com/group/cakephp-core/topics)
-
 
 # Conferences
 
