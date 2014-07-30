@@ -313,6 +313,8 @@ Focus is on the specific task.
 - [QuickApps-CMS](https://github.com/QuickAppsCMS/QuickApps-CMS) - Open source content management system.
 - [Infititas CMS](https://github.com/infinitas) - Open source content management framework.
 
+Based on CakePHP2.x.
+
 ## Demo
 *Web-based (demo) applications and tools.*
 
