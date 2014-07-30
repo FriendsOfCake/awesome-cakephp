@@ -260,7 +260,7 @@ Focus is on the specific task.
 - [Sitemap plugin](http://plugins.cakephp.org/p/1681-CakePHP-Sitemap) - Generates HTML and XML sitemaps for your CakePHP application.
 - [Seo plugin](https://github.com/webtechnick/CakePHP-Seo-Plugin) - SEO plugin.
 - [Tools:Slugged](https://github.com/dereuromark/tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
-- [Slugger](https://github.com/jeremyharris/slugger) - Automatically slug URLs.
+- [Slugger plugin](https://github.com/jeremyharris/slugger) - Automatically slugs URLs.
 
 ## Third Party APIs
 *Plugins for accessing third party APIs.*
