@@ -46,8 +46,9 @@ Focus is on the specific task.
 	- [Libs](#libs)
 - [Software](#software)
 	- [Development Environment](#development-environment)
-- [Demo](#demo)
-	- [Web Applications](#web-applications)
+- [Web Applications](#web-applications)
+	- [CMS and applications built on CakePHP](#cms-and-applications-built-on-cakephp)
+	- [Demo](#demo)
 - [Resources](#resources)
 	- [CakePHP Websites](#cakephp-websites)
 	- [CakePHP Books](#cakephp-books)
@@ -303,9 +304,14 @@ Focus is on the specific task.
 - [Vagrant](http://www.vagrantup.com/) - A portable development environment utility.
 - [Puppet](http://puppetlabs.com/) - A server automation framework and application.
 
-# Demo
-
 ## Web Applications
+
+## CMS and applications built on CakePHP
+
+- [Croogo](https://github.com/croogo/croogo) - Open source content management system.
+- [Infititas CMS](https://github.com/infinitas) - Open source content management framework.
+
+## Demo
 *Web-based (demo) applications and tools.*
 
 - [CakePHP Sandbox](http://sandbox.dereuromark.de) - A sandbox CakePHP application.
