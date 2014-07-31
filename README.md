@@ -64,7 +64,7 @@ Focus is on the specific task.
 ## Skeleton
 *Plugins and repositories around app skeletons*
 
-- ~~[App template](https://github.com/FriendsOfCake/app-template) - An empty CakePHP project for use with composer.~~
+- [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
 - ~~[Bake template "setup"](https://github.com/dereuromark/cakephp-setup/tree/master/Console/Templates/setup) - An example template on how customization of bake templates is possible.~~
 - [Crud plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code.
 
