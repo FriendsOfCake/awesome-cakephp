@@ -260,6 +260,7 @@ Focus is on the specific task.
 - ~~[Sitemap plugin](http://plugins.cakephp.org/p/1681-CakePHP-Sitemap) - Generates HTML and XML sitemaps for your CakePHP application.~~
 - ~~[Seo plugin](https://github.com/webtechnick/CakePHP-Seo-Plugin) - SEO plugin.~~
 - [Tools:Slugged](https://github.com/dereuromark/tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
+- ~~[Slugger plugin](https://github.com/jeremyharris/slugger) - Automatically slugs URLs.~~
 
 ## Third Party APIs
 *Plugins for accessing third party APIs.*
@@ -313,6 +314,8 @@ Focus is on the specific task.
 - ~~[Croogo](https://github.com/croogo/croogo) - Open source content management system.~~
 - ~~[Infititas CMS](https://github.com/infinitas) - Open source content management framework.~~
 
+Based on CakePHP3.x.
+
 ## Demo
 *Web-based (demo) applications and tools.*
 
@@ -344,7 +347,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 ## CakePHP Books
 *Fantastic CakePHP-related (e)books.*
 
-- ?
+- ~~[Instant Starter](http://www.amazon.com/Instant-CakePHP-Starter-Robert-Henderson-ebook/dp/B00CITNQP2/) - CakePHP2.x book (not for total PHP beginners).~~
 
 ## CakePHP Videos
 *Fantastic CakePHP-related videos.*
@@ -355,11 +358,13 @@ Various resources, such as books, websites and articles, for improving your Cake
 *Documentation and CakePHP-releated reading materials.*
 
 - [Cookbook(!)](http://book.cakephp.org/3.0/en/index.html) - The official documentation.
+- ~~[Cheat Sheet](http://cakephpcheatsheet.com) - Lot of Code Snippets for the CakePHP Framework.~~
 
 ## CakePHP Internals Reading
 *Reading materials related to the CakePHP internals and decisions.*
 
-- [Core Google Group](http://groups.google.com/group/cakephp-core/topics)
+- [Core Google Group](http://groups.google.com/group/cakephp-core/topics) - Discussions around the CakePHP core.
+- [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) - Give 'em a hand.
 
 # Conferences
 
