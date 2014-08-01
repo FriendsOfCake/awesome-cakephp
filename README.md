@@ -86,6 +86,7 @@ Focus is on the specific task.
 *Plugins for templating and lexing.*
 
 - [Js plugin](https://github.com/oldskool/cakephp-js) - A library containing JS helper and alike (extracted from CakePHP2.x core).
+- [Chocolate plugin](https://github.com/commercial-hippie/chocolate) - Front-End Framework FormHelpers
 - ~~[BoostCake plugin](https://github.com/slywalker/cakephp-plugin-boost_cake) - A Twitter Bootstrap plugin.~~
 - ~~[TwigView plugin](https://github.com/predominant/TwigView) - A plugin to use the Twig Templating Language for views.~~
 - ~~[CsvView plugin](https://github.com/josegonzalez/cakephp-csvview) - A view to easily generate CSV.~~
