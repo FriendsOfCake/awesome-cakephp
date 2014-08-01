@@ -78,6 +78,7 @@ Focus is on the specific task.
 *Plugins for debugging*
 
 - ~~[DebugKit plugin](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.~~
+- ~~[Airbrake plugin](https://github.com/morrislaptop/AirbrakeCake) - Integrate Airbrake for CakePHP exceptions and errors~~
 - ~~[Setup plugin](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing setup tabs at the bottom.~~
 - ~~[GraphVizModels plugin](https://github.com/mamchenkov/CakePHP-GraphViz-Models) - Display your model relations graphically.~~
 - ~~[ClearCache plugin](https://github.com/ceeram/clear_cache) - For easily clearing the app cache(s).~~
@@ -345,6 +346,8 @@ Various resources, such as books, websites and articles, for improving your Cake
 - [florian-kraemer.net](http://florian-kraemer.net) - A CakePHP related core dev blog.
 - [jedistirfry.co.uk](http://jedistirfry.co.uk) - A CakePHP related dev blog.
 - [CakeDC](http://www.cakedc.com/articles) - Articles around CakePHP.
+
+Very few but increasing CakePHP3.x articles.
 
 ## CakePHP Books
 *Fantastic CakePHP-related (e)books.*
