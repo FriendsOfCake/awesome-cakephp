@@ -157,7 +157,7 @@ Focus is on the specific task.
 - ~~[DatabaseLog plugin](https://github.com/webtechnick/CakePHP-DatabaseLogger-Plugin) - Logging to the DB instead of filesystem.~~
 - ~~[Monolog plugin](https://github.com/Seldaek/monolog) - A comprehensive logger.~~
 - ~~[AuditLog plugin](https://github.com/jippi/cakephp-audit-log) - Records changes made to an object during CRUD operations.~~
-- ~~[Tools:WhoDidIt](https://github.com/dereuromark/tools) - Containing WhoDidIt behavior to record changes made to an object during CRUD operations.~~
+- ~~[Tools:WhoDidIt](https://github.com/dereuromark/cakephp-tools) - Containing WhoDidIt behavior to record changes made to an object during CRUD operations.~~
 
 ## E-commerce
 *Plugins and applications for taking payments and building online e-commerce stores.*
@@ -192,8 +192,10 @@ Focus is on the specific task.
 ## Search
 *Plugins and software for indexing and performing search queries on data.*
 
-- ~~[Tags plugin](https://github.com/CakeDC/tags) - Tagging records the easy way.~~
 - [Search plugin](https://github.com/CakeDC/) - De-facto search form standard built on RPG pattern.
+- ~~[SimpleScope](https://github.com/josegonzalez/cakephp-simple-scope) - For scoping finds.~~
+- ~~[Tools:NamedScope](https://github.com/dereuromark/cakephp-tools) - Containing [NamedScope behavior](http://www.dereuromark.de/2014/02/15/cakephp-and-namedscope-for-dry-conditions/) for DRY find conditions.~~
+- ~~[Tags plugin](https://github.com/CakeDC/tags) - Tagging records the easy way.~~
 - ~~[Elastic plugin](https://github.com/dkullmann/CakePHP-Elastic--DataSource) - Connecting models to Elastic search types.~~
 - ~~[OpenSearch plugin](https://github.com/dereuromark/cakephp-opensearch) - For creating installable search plugins for IE, Firefox and Chrome.~~
 
@@ -204,9 +206,9 @@ Focus is on the specific task.
 - [MultiTenant plugin](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.
 - ~~[Authenticate plugin](https://github.com/FriendsOfCake/Authenticate) - Authentication classes for AuthComponent.~~
 - ~~[Authorize plugin](https://github.com/FriendsOfCake/Authorize) - Authorize classes for AuthComponent.~~
-- ~~[Tools:TinyAuth](https://github.com/dereuromark/tools) - Containing TinyAuth for a very lightweight (single/multi) role based access.~~
+- ~~[Tools:TinyAuth](https://github.com/dereuromark/cakephp-tools) - Containing TinyAuth for a very lightweight (single/multi) role based access.~~
 - ~~[GoogleAuthenticate plugin](https://github.com/ceeram/GoogleAuthenticate) - Containing Google 2 step authenticate class for AuthComponent.~~
-- ~~[Tools:Passwordable](https://github.com/dereuromark/tools) - Containing [Passwordable behavior](http://www.dereuromark.de/2011/08/25/working-with-passwords-in-cakephp/) for a DRY approach von modern password hashing.~~
+- ~~[Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior](http://www.dereuromark.de/2011/08/25/working-with-passwords-in-cakephp/) for a DRY approach von modern password hashing.~~
 - ~~[Sanction plugin](https://github.com/josegonzalez/cakephp-sanction) - Centralize all of those permissions in a single file.~~
 
 ## Markup
@@ -262,7 +264,7 @@ Focus is on the specific task.
 
 - ~~[Sitemap plugin](http://plugins.cakephp.org/p/1681-CakePHP-Sitemap) - Generates HTML and XML sitemaps for your CakePHP application.~~
 - ~~[Seo plugin](https://github.com/webtechnick/CakePHP-Seo-Plugin) - SEO plugin.~~
-- [Tools:Slugged](https://github.com/dereuromark/tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
+- [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
 - ~~[Slugger plugin](https://github.com/jeremyharris/slugger) - Automatically slugs URLs.~~
 
 ## Third Party APIs
@@ -282,11 +284,11 @@ Focus is on the specific task.
 ## Miscellaneous
 *Misc plugins and libraries*
 
+- [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells, ...
 - ~~[Jsonrpc plugin](https://github.com/jameswatts/cake-jsonrpc) - Provides server and client implementations of JSON-RPC.~~
 - ~~[Dotcake](https://github.com/dotcake/dotcake) - Provides CakePHP project info for editor's cakephp plugins.~~
 - ~~[Travis](https://github.com/FriendsOfCake/travis) - Easy travis setup for CakePHP plugins.~~
 - ~~[Users plugin](https://github.com/CakeDC/users) - For allowing users to register and login manage their profile.~~
-- ~~[MobileDetect plugin](https://github.com/chronon/CakePHP-MobileDetectComponent-Plugin) - Identifying mobile devices using the Mobile_Detect project.~~
 
 ## Libs
 *Useful libraries or tools that don't fit in the categories above.*
