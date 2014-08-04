@@ -153,7 +153,7 @@ Focus is on the specific task.
 *Plugins for generating and working with log files.*
 
 - [DatabaseLog plugin](https://github.com/webtechnick/CakePHP-DatabaseLogger-Plugin)
-- [Monolog plugin](https://github.com/Seldaek/monolog) - A comprehensive logger.
+- [Monolog plugin](https://github.com/jadb/cakephp-monolog) - Use the comprehensive logger capabilities of Monolog.
 - [AuditLog plugin](https://github.com/jippi/cakephp-audit-log) - Records changes made to an object during CRUD operations.
 - [Tools:WhoDidIt](https://github.com/dereuromark/cakephp-tools) - Containing WhoDidIt behavior to record changes made to an object during CRUD operations.
 
