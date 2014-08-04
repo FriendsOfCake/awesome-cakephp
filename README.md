@@ -2,8 +2,8 @@
 A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 Also see [plugins.cakephp.org/packages/categories](http://plugins.cakephp.org/packages/categories) as a categorized list.
-You may also want to check out the PHP list at [awesome-php](https://github.com/ziadoz/awesome-php) as well as the generic
-[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+You may also want to check out the PHP list at [awesome-php](https://github.com/dereuromark/awesome-php) as well as the generic
+[awesome-awesomeness](https://github.com/dereuromark/awesome-awesomeness) list.
 
 This list is specifically for **CakePHP3.x**.
 It is a recommendation for good plugins and solutions for this major CakePHP version.
@@ -155,7 +155,7 @@ Focus is on the specific task.
 *Plugins for generating and working with log files.*
 
 - ~~[DatabaseLog plugin](https://github.com/webtechnick/CakePHP-DatabaseLogger-Plugin) - Logging to the DB instead of filesystem.~~
-- ~~[Monolog plugin](https://github.com/Seldaek/monolog) - A comprehensive logger.~~
+- ~~[Monolog plugin](https://github.com/jadb/cakephp-monolog) - Use the comprehensive logger capabilities of Monolog.~~
 - ~~[AuditLog plugin](https://github.com/jippi/cakephp-audit-log) - Records changes made to an object during CRUD operations.~~
 - ~~[Tools:WhoDidIt](https://github.com/dereuromark/cakephp-tools) - Containing WhoDidIt behavior to record changes made to an object during CRUD operations.~~
 
@@ -354,7 +354,10 @@ Very few but increasing CakePHP3.x articles.
 ## CakePHP Books
 *Fantastic CakePHP-related (e)books.*
 
+- ~~[Rapid Application Development with CakePHP 2](http://josediazgonzalez.com/cakephp-book/) - CakePHP 2.x book by CakePHP Core Developer @josegonzalez~~
 - ~~[Instant Starter](http://www.amazon.com/Instant-CakePHP-Starter-Robert-Henderson-ebook/dp/B00CITNQP2/) - CakePHP2.x book (not for total PHP beginners).~~
+
+Written for CakePHP3.x.
 
 ## CakePHP Videos
 *Fantastic CakePHP-related videos.*
