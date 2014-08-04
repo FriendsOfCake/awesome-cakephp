@@ -298,6 +298,7 @@ Focus is on the specific task.
 - [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension - used in CakePHP3.x anyway.
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - - used in CakePHP3.x anyway.
 - [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Deployment
+- [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano
 
 # Software
 *Software for creating a development environment.*
