@@ -206,6 +206,7 @@ Focus is on the specific task.
 - [GoogleAuthenticate plugin](https://github.com/ceeram/GoogleAuthenticate) - Containing Google 2 step authenticate class for AuthComponent.
 - [Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior](http://www.dereuromark.de/2011/08/25/working-with-passwords-in-cakephp/) for a DRY approach von modern password hashing.
 - [Sanction plugin](https://github.com/josegonzalez/cakephp-sanction) - Centralize all of those permissions in a single file.
+- [OpAuth](https://github.com/uzyn/cakephp-opauth) - Opauth provides a standardized method for PHP applications to interface with authentication providers.
 
 ## Markup
 *Plugins for working with markup.*
