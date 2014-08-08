@@ -44,7 +44,6 @@ Focus is on the specific task.
 	- [Migration](#migration)
 	- [Miscellaneous](#miscellaneous)
 	- [Libs](#libs)
-	- [SMS](#sms)
 - [Software](#software)
 	- [Development Environment](#development-environment)
 - [Web Applications](#web-applications)
@@ -270,6 +269,7 @@ Focus is on the specific task.
 
 - [AmazonSdk plugin](https://github.com/mcallisto/cakephp-amazon-aws-sdk) - A plugin around PHP AWS SDK library.
 - [Twitter plugin](https://github.com/mishudark/CakePHP-2.x-Twitter-Plugin) - A library to interface with Twitter and its OAuth workflow.
+- [SMSFly plugin](https://github.com/imsamurai/cakephp-sms-fly-datasource) - Data source for sending SMS via sms-fly.
 
 ## Migration
 *Plugins and resources around migrationa and upgrading*
@@ -301,10 +301,6 @@ Focus is on the specific task.
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - - used in CakePHP3.x anyway.
 - [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Deployment
 - [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano
-
-## SMS
-*Plugins for handling sms*
-- [SMSFly plugin](https://github.com/imsamurai/cakephp-sms-fly-datasource) - Data source for sending sms via http://sms-fly.com.
 
 # Software
 *Software for creating a development environment.*
