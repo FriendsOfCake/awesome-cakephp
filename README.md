@@ -44,6 +44,7 @@ Focus is on the specific task.
 	- [Migration](#migration)
 	- [Miscellaneous](#miscellaneous)
 	- [Libs](#libs)
+	- [SMS](#sms)
 - [Software](#software)
 	- [Development Environment](#development-environment)
 - [Web Applications](#web-applications)
@@ -300,6 +301,10 @@ Focus is on the specific task.
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - - used in CakePHP3.x anyway.
 - [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Deployment
 - [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano
+
+## SMS
+*Plugins for handling sms*
+- [SMSFly plugin](https://github.com/imsamurai/cakephp-sms-fly-datasource) - Data source for sending sms via http://sms-fly.com.
 
 # Software
 *Software for creating a development environment.*
