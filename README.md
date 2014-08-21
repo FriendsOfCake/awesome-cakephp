@@ -339,6 +339,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 - [Google Group](https://groups.google.com/forum/#!forum/cake-php) - This is for generic questions and alike.
 - [stackoverflow.com/questions/tagged/cakephp](http://stackoverflow.com/questions/tagged/cakephp) - This is for specific questions, ideally along with some example code.
 - [IRC Channel](http://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) - Live chat/discussion with other devs and core devs.
+- [CakePHP.ir](http://cakephp.ir) - discussion with other devs and generic questions for Persian community.
 
 ## CakePHP Websites
 *Useful and current CakePHP-related websites and blogs.*
@@ -367,6 +368,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 - [Cookbook(!)](http://book.cakephp.org/2.0/en/index.html) - The official documentation.
 - [Cheat Sheet](http://cakephpcheatsheet.com) - Lot of Code Snippets for the CakePHP Framework.
+- [CakePHP Reporter](http://www.scoop.it/t/cakephp-reporter) - a newspaper of collection  new entries about CakePHP.
 
 ## CakePHP Internals Reading
 *Reading materials related to the CakePHP internals and decisions.*
