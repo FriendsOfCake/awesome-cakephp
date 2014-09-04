@@ -54,6 +54,7 @@ Focus is on the specific task.
 	- [CakePHP Websites](#cakephp-websites)
 	- [CakePHP Books](#cakephp-books)
 	- [CakePHP Videos](#cakephp-videos)
+	- [CakePHP Tutorials](#cakephp-tutorials)
 	- [CakePHP Reading](#cakephp-reading)
 	- [CakePHP Internals Reading](#cakephp-internals-reading)
 - [Conferences](#conferences)
@@ -334,7 +335,7 @@ Based on CakePHP2.x.
 Various resources, such as books, websites and articles, for improving your CakePHP development skills and knowledge.
 
 ## Help
-*Where to get help*
+*Where to get help.*
 
 - [Google Group](https://groups.google.com/forum/#!forum/cake-php) - This is for generic questions and alike.
 - [stackoverflow.com/questions/tagged/cakephp](http://stackoverflow.com/questions/tagged/cakephp) - This is for specific questions, ideally along with some example code.
@@ -363,6 +364,12 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 - [CakePHP](https://www.youtube.com/user/CakePHP) - Channel about CakePHP videos.
 
+
+## CakePHP Tutorials
+*Must-do tutorials.*
+
+- [Official Blog tutorial](http://book.cakephp.org/2.0/en/tutorials-and-examples/blog/blog.html)
+
 ## CakePHP Reading
 *Documentation and CakePHP-releated reading materials.*
 
@@ -379,12 +386,12 @@ Various resources, such as books, websites and articles, for improving your Cake
 # Conferences
 
 ## Official
-*International conference*
+*International conference.*
 
 - [cakefest.org](http://cakefest.org/) - Annual CakePHP Conference.
 
 ## MeetUps
-*Regional meet-ups*
+*Regional meet-ups.*
 
 - [CakePHP-NL](http://www.meetup.com/CakePHP-NL) - MeetUps in Netherlands.
 
