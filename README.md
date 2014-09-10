@@ -90,7 +90,7 @@ Focus is on the specific task.
 - [Js plugin](https://github.com/oldskool/cakephp-js) - A library containing JS helper and alike (extracted from CakePHP2.x core).
 - [Chocolate plugin](https://github.com/commercial-hippie/chocolate) - Front-End Framework FormHelpers
 - ~~[BoostCake plugin](https://github.com/slywalker/cakephp-plugin-boost_cake) - A Twitter Bootstrap plugin.~~
-- ~~[TwigView plugin](https://github.com/predominant/TwigView) - A plugin to use the Twig Templating Language for views.~~
+- ~~[TwigView plugin](https://github.com/WyriHaximus/TwigView) - A plugin to use the Twig Templating Language for views.~~
 - ~~[CsvView plugin](https://github.com/josegonzalez/cakephp-csvview) - A view to easily generate CSV.~~
 - ~~[Tools:RssView](https://github.com/dereuromark/cakephp-tools) - Containing [RssView](http://www.dereuromark.de/2013/10/03/rss-feeds-in-cakephp/) to easily generate (complex) RSS.~~
 - ~~[Mustache plugin](https://github.com/Dismounted/MustacheCake) - A Mustache plugin.~~
@@ -146,6 +146,7 @@ Focus is on the specific task.
 *Tools for managing, compressing and minifying website assets.*
 
 - ~~[AssetCompress plugin](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.~~
+- [MinifyHtml plugin](https://github.com/WyriHaximus/MinifyHtml) - Compress HTML output.
 
 ## Geolocation
 *Plugins for geocoding addresses and working with latitudes and longitudes.*
@@ -276,6 +277,7 @@ Focus is on the specific task.
 - ~~[AmazonSdk plugin](https://github.com/mcallisto/cakephp-amazon-aws-sdk) - A plugin around PHP AWS SDK library.~~
 - ~~[Twitter plugin](https://github.com/mishudark/CakePHP-2.x-Twitter-Plugin) - A library to interface with Twitter and its OAuth workflow.~~
 - ~~[SMSFly plugin](https://github.com/imsamurai/cakephp-sms-fly-datasource) - Data source for sending SMS via sms-fly.~~
+- [Ratchet plugin](https://github.com/WyriHaximus/Ratchet) - Brings the Ratchet websocket package to CakePHP.
 
 ## Migration
 *Plugins and resources around migrationa and upgrading*
