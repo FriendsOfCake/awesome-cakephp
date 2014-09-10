@@ -56,6 +56,7 @@ Focus is on the specific task.
 	- [CakePHP Websites](#cakephp-websites)
 	- [CakePHP Books](#cakephp-books)
 	- [CakePHP Videos](#cakephp-videos)
+	- [CakePHP Tutorials](#cakephp-tutorials)
 	- [CakePHP Reading](#cakephp-reading)
 	- [CakePHP Internals Reading](#cakephp-internals-reading)
 - [Conferences](#conferences)
@@ -134,6 +135,7 @@ Focus is on the specific task.
 *Plugins for analysing, parsing and manipulation codebases.*
 
 - ~~[NewRelic plugin](https://github.com/jippi/cakephp-newrelic) - Using New Relic for analysis and monitoring.~~
+- ~~[NewRelic plugin](https://github.com/jeremyharris/cakephp-newrelic) - Makes analyzing your CakePHP app in New Relic easier.~~
 
 ## Navigation
 *Tools for building navigation structures.*
@@ -154,7 +156,7 @@ Focus is on the specific task.
 ## Logging
 *Plugins for generating and working with log files.*
 
-- ~~[DatabaseLog plugin](https://github.com/webtechnick/CakePHP-DatabaseLogger-Plugin) - Logging to the DB instead of filesystem.~~
+- ~~[DatabaseLog plugin](https://github.com/dereuromark/CakePHP-DatabaseLog) - Logging to the DB instead of filesystem.~~
 - ~~[Monolog plugin](https://github.com/jadb/cakephp-monolog) - Use the comprehensive logger capabilities of Monolog.~~
 - ~~[AuditLog plugin](https://github.com/jippi/cakephp-audit-log) - Records changes made to an object during CRUD operations.~~
 - ~~[Tools:WhoDidIt](https://github.com/dereuromark/cakephp-tools) - Containing WhoDidIt behavior to record changes made to an object during CRUD operations.~~
@@ -210,6 +212,7 @@ Focus is on the specific task.
 - ~~[GoogleAuthenticate plugin](https://github.com/ceeram/GoogleAuthenticate) - Containing Google 2 step authenticate class for AuthComponent.~~
 - ~~[Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior](http://www.dereuromark.de/2011/08/25/working-with-passwords-in-cakephp/) for a DRY approach von modern password hashing.~~
 - ~~[Sanction plugin](https://github.com/josegonzalez/cakephp-sanction) - Centralize all of those permissions in a single file.~~
+- ~~[OpAuth](https://github.com/uzyn/cakephp-opauth) - Opauth provides a standardized method for PHP applications to interface with authentication providers.~~
 
 ## Markup
 *Plugins for working with markup.*
@@ -272,6 +275,7 @@ Focus is on the specific task.
 
 - ~~[AmazonSdk plugin](https://github.com/mcallisto/cakephp-amazon-aws-sdk) - A plugin around PHP AWS SDK library.~~
 - ~~[Twitter plugin](https://github.com/mishudark/CakePHP-2.x-Twitter-Plugin) - A library to interface with Twitter and its OAuth workflow.~~
+- ~~[SMSFly plugin](https://github.com/imsamurai/cakephp-sms-fly-datasource) - Data source for sending SMS via sms-fly.~~
 
 ## Migration
 *Plugins and resources around migrationa and upgrading*
@@ -301,6 +305,7 @@ Focus is on the specific task.
 - [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension - used in CakePHP3.x anyway.
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - - used in CakePHP3.x anyway.
 - [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Deployment
+- [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano
 
 # Software
 *Software for creating a development environment.*
@@ -333,11 +338,12 @@ Based on CakePHP3.x.
 Various resources, such as books, websites and articles, for improving your CakePHP development skills and knowledge.
 
 ## Help
-*Where to get help*
+*Where to get help.*
 
 - [Google Group](https://groups.google.com/forum/#!forum/cake-php) - This is for generic questions and alike.
 - [stackoverflow.com/questions/tagged/cakephp](http://stackoverflow.com/questions/tagged/cakephp) - This is for specific questions, ideally along with some example code.
 - [IRC Channel](http://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) - Live chat/discussion with other devs and core devs.
+- [CakePHP.ir](http://cakephp.ir) - discussion with other devs and generic questions for Persian community.
 
 ## CakePHP Websites
 *Useful and current CakePHP-related websites and blogs.*
@@ -354,7 +360,8 @@ Very few but increasing CakePHP3.x articles.
 ## CakePHP Books
 *Fantastic CakePHP-related (e)books.*
 
-- ~~[Rapid Application Development with CakePHP 2](http://josediazgonzalez.com/cakephp-book/) - CakePHP 2.x book by CakePHP Core Developer @josegonzalez~~
+- ~~[Rapid Application Development with CakePHP 2](http://josediazgonzalez.com/cakephp-book/) - CakePHP 2.x book by CakePHP Core Developer @josegonzalez.~~
+- ~~[CakePHP 2 Application Cookbook](http://www.packtpub.com/web-development/cakephp-2-application-cookbook) - CakePHP 2.x book by two core developers.~~
 - ~~[Instant Starter](http://www.amazon.com/Instant-CakePHP-Starter-Robert-Henderson-ebook/dp/B00CITNQP2/) - CakePHP2.x book (not for total PHP beginners).~~
 
 Written for CakePHP3.x.
@@ -364,11 +371,18 @@ Written for CakePHP3.x.
 
 - [CakePHP](https://www.youtube.com/user/CakePHP) - Channel about CakePHP videos.
 
+
+## CakePHP Tutorials
+*Must-do tutorials.*
+
+- [Official Blog tutorial](http://book.cakephp.org/3.0/en/tutorials-and-examples/blog/blog.html)
+
 ## CakePHP Reading
 *Documentation and CakePHP-releated reading materials.*
 
 - [Cookbook(!)](http://book.cakephp.org/3.0/en/index.html) - The official documentation.
 - ~~[Cheat Sheet](http://cakephpcheatsheet.com) - Lot of Code Snippets for the CakePHP Framework.~~
+- [CakePHP Reporter](http://www.scoop.it/t/cakephp-reporter) - a newspaper of collection  new entries about CakePHP.
 
 ## CakePHP Internals Reading
 *Reading materials related to the CakePHP internals and decisions.*
@@ -379,14 +393,15 @@ Written for CakePHP3.x.
 # Conferences
 
 ## Official
-*International conference*
+*International conference.*
 
 - [cakefest.org](http://cakefest.org/) - Annual CakePHP Conference.
 
 ## MeetUps
-*Regional meet-ups*
+*Regional meet-ups.*
 
 - [CakePHP-NL](http://www.meetup.com/CakePHP-NL) - MeetUps in Netherlands.
+- [CakePHP-DE](http://www.meetup.com/CakePHP-DE) - MeetUps in Germany.
 
 # Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
