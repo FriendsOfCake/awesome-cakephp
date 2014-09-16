@@ -174,7 +174,7 @@ Focus is on the specific task.
 ## PDF
 *Plugins and software for working with PDF files.*
 
-- ~~[CakePdf plugin](https://github.com/ceeram/CakePdf) - A plugin around PDF generation.~~
+- [CakePdf plugin](https://github.com/ceeram/CakePdf) - A plugin around PDF generation.
 
 ## ORM and Datamapping
 *Plugins that implement object-relational mapping or datamapping techniques.*
