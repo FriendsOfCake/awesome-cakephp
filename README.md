@@ -357,6 +357,8 @@ Various resources, such as books, websites and articles, for improving your Cake
 - [florian-kraemer.net](http://florian-kraemer.net) - A CakePHP related core dev blog.
 - [jedistirfry.co.uk](http://jedistirfry.co.uk) - A CakePHP related dev blog.
 - [CakeDC](http://www.cakedc.com/articles) - Articles around CakePHP.
+- [AD7six.com](http://AD7six.com) - A CakePHP core dev blog.
+
 
 Very few but increasing CakePHP3.x articles.
 
