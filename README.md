@@ -125,6 +125,7 @@ Focus is on the specific task.
 *Plugins for testing codebases and generating test data.*
 
 - [CakePHP CodeSniffer rules](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
+- [CodeSniffer plugin](https://github.com/dereuromark/cakephp-codesniffer) - Auto-find code issues/smells and auto-fix CS errors.
 
 ## Security
 *Plugins for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
@@ -358,7 +359,6 @@ Various resources, such as books, websites and articles, for improving your Cake
 - [jedistirfry.co.uk](http://jedistirfry.co.uk) - A CakePHP related dev blog.
 - [CakeDC](http://www.cakedc.com/articles) - Articles around CakePHP.
 - [AD7six.com](http://AD7six.com) - A CakePHP core dev blog.
-
 
 Very few but increasing CakePHP3.x articles.
 
