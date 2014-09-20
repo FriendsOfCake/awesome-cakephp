@@ -126,6 +126,7 @@ Focus is on the specific task.
 
 - [CakePHP CodeSniffer rules](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
 - [CodeSniffer plugin](https://github.com/dereuromark/cakephp-codesniffer) - Auto-find code issues/smells and auto-fix CS errors.
+- [CodeSniffer plugin sniffs](https://github.com/dereuromark/codesniffer-rules) - Sniff packages/rules compatible with phpcs-fixer branch and the CodeSniffer plugin.
 
 ## Security
 *Plugins for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
