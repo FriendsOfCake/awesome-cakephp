@@ -119,7 +119,7 @@ Focus is on the specific task.
 ## Imagery
 *Plugins for manipulating images.*
 
-- ~~[Imagine plugin](https://github.com/burzum/cakephp-imagine-plugin) - A plugin around Imagine.~~
+- [Imagine plugin](https://github.com/burzum/cakephp-imagine-plugin) - A plugin around Imagine.
 
 ## Testing
 *Plugins/Tools for testing codebases and generating test data.*
