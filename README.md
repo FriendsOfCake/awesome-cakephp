@@ -122,7 +122,7 @@ Focus is on the specific task.
 - ~~[Imagine plugin](https://github.com/burzum/cakephp-imagine-plugin) - A plugin around Imagine.~~
 
 ## Testing
-*Plugins for testing codebases and generating test data.*
+*Plugins/Tools for testing codebases and generating test data.*
 
 - [CakePHP CodeSniffer rules](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
 - [CodeSniffer plugin](https://github.com/dereuromark/cakephp-codesniffer) - Auto-find code issues/smells and auto-fix CS errors.
@@ -153,17 +153,17 @@ Focus is on the specific task.
 ## Geolocation
 *Plugins for geocoding addresses and working with latitudes and longitudes.*
 
-- ~~[Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing [Geocoder behavior](http://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) and [GoogleMapsV3 helper](http://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).~~
+- [Geo plugin](https://github.com/dereuromark/cakephp-geo) - Containing [Geocoder behavior](http://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) and [GoogleMapsV3 helper](http://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/) as CakePHP 3 versions.
 - ~~[Geocoder plugin](https://github.com/martinbean/cakephp-geocoding-plugin) - A lightweight geocoding plugin.~~
 
 ## Logging
 *Plugins for generating and working with log files.*
 
+- [Blame plugin](https://github.com/ceeram/blame) - Plugin to update created_by and modified_by fields with logged in user id.
 - ~~[DatabaseLog plugin](https://github.com/dereuromark/CakePHP-DatabaseLog) - Logging to the DB instead of filesystem.~~
 - ~~[Monolog plugin](https://github.com/jadb/cakephp-monolog) - Use the comprehensive logger capabilities of Monolog.~~
 - ~~[AuditLog plugin](https://github.com/jippi/cakephp-audit-log) - Records changes made to an object during CRUD operations.~~
 - ~~[Tools:WhoDidIt](https://github.com/dereuromark/cakephp-tools) - Containing WhoDidIt behavior to record changes made to an object during CRUD operations.~~
-- [Blame plugin](https://github.com/ceeram/blame) - Plugin to update created_by and modified_by fields with logged in user id.
 
 ## E-commerce
 *Plugins and applications for taking payments and building online e-commerce stores.*
@@ -209,10 +209,10 @@ Focus is on the specific task.
 *Plugins and libraries for implementing authentication and authorization.*
 
 - [Acl plugin](https://github.com/cakephp/acl) - Access Controll List plugin (extracted from the CakePHP2.x core into a plugin).
-- [MultiTenant plugin](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.
 - [Authenticate plugin](https://github.com/FriendsOfCake/Authenticate) - Authentication classes for AuthComponent.
+- [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) - Role based (single/multi) authentication as very light-weight approach.
+- [MultiTenant plugin](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.
 - ~~[Authorize plugin](https://github.com/FriendsOfCake/Authorize) - Authorize classes for AuthComponent.~~
-- ~~[Tools:TinyAuth](https://github.com/dereuromark/cakephp-tools) - Containing TinyAuth for a very lightweight (single/multi) role based access.~~
 - ~~[GoogleAuthenticate plugin](https://github.com/ceeram/GoogleAuthenticate) - Containing Google 2 step authenticate class for AuthComponent.~~
 - ~~[Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior](http://www.dereuromark.de/2011/08/25/working-with-passwords-in-cakephp/) for a DRY approach von modern password hashing.~~
 - ~~[Sanction plugin](https://github.com/josegonzalez/cakephp-sanction) - Centralize all of those permissions in a single file.~~
