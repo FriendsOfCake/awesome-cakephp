@@ -91,7 +91,7 @@ Focus is on the specific task.
 - [Chocolate plugin](https://github.com/commercial-hippie/chocolate) - Front-End Framework FormHelpers
 - ~~[BoostCake plugin](https://github.com/slywalker/cakephp-plugin-boost_cake) - A Twitter Bootstrap plugin.~~
 - [TwigView plugin](https://github.com/WyriHaximus/TwigView) - A plugin to use the Twig Templating Language for views.
-- ~~[CsvView plugin](https://github.com/josegonzalez/cakephp-csvview) - A view to easily generate CSV.~~
+- ~~[CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) - A view to easily generate CSV.~~
 - ~~[Tools:RssView](https://github.com/dereuromark/cakephp-tools) - Containing [RssView](http://www.dereuromark.de/2013/10/03/rss-feeds-in-cakephp/) to easily generate (complex) RSS.~~
 - ~~[Mustache plugin](https://github.com/Dismounted/MustacheCake) - A Mustache plugin.~~
 - ~~[CTK plugin](https://github.com/jameswatts/cake-toolkit) - Allows views to be defined as a class.~~
@@ -176,7 +176,7 @@ Focus is on the specific task.
 ## PDF
 *Plugins and software for working with PDF files.*
 
-- [CakePdf plugin](https://github.com/ceeram/CakePdf) - A plugin around PDF generation.
+- [CakePdf plugin](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
 
 ## ORM and Datamapping
 *Plugins that implement object-relational mapping or datamapping techniques.*
