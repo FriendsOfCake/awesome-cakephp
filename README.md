@@ -224,7 +224,7 @@ Focus is on the specific task.
 - ~~[MarkupParsers plugin](https://github.com/CakeDC/markup_parsers) - A collection of parsers.~~
 - ~~[Decoda plugin](https://github.com/milesj/decoda) - A lightweight bbcode parser plugin.~~
 - ~~[Markdown plugin](https://github.com/chronon/CakePHP-Markdown-Plugin) - A Markdown parser plugin.~~
-- ~~[Geshi plugin](https://github.com/markstory/cakephp_geshi) - For adding GeSHI syntax highlighting.~~
+- [Geshi plugin](https://github.com/markstory/cakephp_geshi) - For adding GeSHI syntax highlighting.
 
 ## Filtering and Validation
 *Plugins for filtering and validating data.*
