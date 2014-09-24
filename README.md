@@ -19,6 +19,7 @@ Focus is on the specific task.
 	- [Templating](#templating)
 	- [Dependency Injection](#dependency-injection)
 	- [Imagery](#imagery)
+	- [Video](#video)
 	- [Testing](#testing)
 	- [Security](#security)
 	- [Code Analysis](#code-analysis)
@@ -116,6 +117,11 @@ Focus is on the specific task.
 *Plugins for manipulating images.*
 
 - [Imagine plugin](https://github.com/burzum/cakephp-imagine-plugin) - A plugin around Imagine.
+
+## Video
+*Plugins for working with videos.*
+
+- [VideoEmbed plugin](https://github.com/drmonkeyninja/cakephp-video-helper) - Helper for embedding YouTube, Vimeo and Dailymotion videos.
 
 ## Testing
 *Plugins for testing codebases and generating test data.*
