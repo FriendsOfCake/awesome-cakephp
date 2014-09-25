@@ -318,6 +318,7 @@ Focus is on the specific task.
 
 - [Vagrant](http://www.vagrantup.com/) - A portable development environment utility.
 - [Puppet](http://puppetlabs.com/) - A server automation framework and application.
+- [PuPHPet](https://puphpet.com/) - Web interface for building a Vagrant + Puppet box.
 
 ## Web Applications
 
