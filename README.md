@@ -325,7 +325,7 @@ Focus is on the specific task.
 
 - [Croogo](https://github.com/croogo/croogo) - Open source content management system.
 - [QuickApps-CMS](https://github.com/QuickAppsCMS/QuickApps-CMS) - Open source content management system.
-- [Infititas CMS](https://github.com/infinitas) - Open source content management framework.
+- [Infinitas CMS](https://github.com/infinitas) - Open source content management framework.
 
 Based on CakePHP2.x.
 
