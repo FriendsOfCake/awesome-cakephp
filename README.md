@@ -19,7 +19,6 @@ Focus is on the specific task.
 	- [Templating](#templating)
 	- [Dependency Injection](#dependency-injection)
 	- [Imagery](#imagery)
-	- [Video](#video)
 	- [Testing](#testing)
 	- [Security](#security)
 	- [Code Analysis](#code-analysis)
@@ -96,6 +95,7 @@ Focus is on the specific task.
 - [CML plugin](https://github.com/jameswatts/cake-markup-language) - Provides further abstraction of the View layer by replacing the procedural PHP code with an XML based markup.
 - [Wysiwyg plugin](https://github.com/josegonzalez/cakephp-wysiwyg) - Support for various wysiwyg editors.
 - [Address plugin](https://github.com/drmonkeyninja/cakephp-address) - An address helper that outputs a marked up address.
+- [VideoEmbed plugin](https://github.com/drmonkeyninja/cakephp-video-helper) - Helper for embedding YouTube, Vimeo and Dailymotion videos.
 
 ## Email
 *Plugins for sending and parsing email.*
@@ -118,11 +118,6 @@ Focus is on the specific task.
 *Plugins for manipulating images.*
 
 - [Imagine plugin](https://github.com/burzum/cakephp-imagine-plugin) - A plugin around Imagine.
-
-## Video
-*Plugins for working with videos.*
-
-- [VideoEmbed plugin](https://github.com/drmonkeyninja/cakephp-video-helper) - Helper for embedding YouTube, Vimeo and Dailymotion videos.
 
 ## Testing
 *Plugins for testing codebases and generating test data.*
