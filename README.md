@@ -89,7 +89,7 @@ Focus is on the specific task.
 
 - [Js plugin](https://github.com/oldskool/cakephp-js) - A library containing JS helper and alike (extracted from CakePHP2.x core).
 - [Chocolate plugin](https://github.com/commercial-hippie/chocolate) - Front-End Framework FormHelpers
-- [Twitter Bootstrap](https://github.com/gourmet/twitter_bootstrap) - Twitter Bootsrap 3 integration
+- [Twitter Bootstrap plugin](https://github.com/gourmet/twitter_bootstrap) - Twitter Bootsrap 3 integration
 - ~~[BoostCake plugin](https://github.com/slywalker/cakephp-plugin-boost_cake) - A Twitter Bootstrap plugin.~~
 - [TwigView plugin](https://github.com/WyriHaximus/TwigView) - A plugin to use the Twig Templating Language for views.
 - ~~[CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) - A view to easily generate CSV.~~
