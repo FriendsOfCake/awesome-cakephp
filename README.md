@@ -285,7 +285,7 @@ Focus is on the specific task.
 ## Migration
 *Plugins and resources around migrationa and upgrading*
 
-- [Migrations plugin](https://github.com/lorenzo/cakephp-migrations) - (DB) Migration plugin.
+- [Migrations plugin](https://github.com/cakephp/migrations) - (DB) Migration plugin.
 - [Upgrade/Migration Guide](http://book.cakephp.org/3.0/en/appendices.html) - Official migration guide.
 - [Upgrade app](https://github.com/cakephp/upgrade) - Official upgrade app for 2.x=>3.x.
 - ~~[Upgrade plugin](https://github.com/dereuromark/cakephp-upgrade) - The most extensive 1.x=>2.x and partly =>3.x upgrade shells.~~
