@@ -95,6 +95,8 @@ Focus is on the specific task.
 - [CakeFactory plugin](https://github.com/jameswatts/cake-factory) - A factory for the Cake Toolkit (CTK), which provides configurable objects.
 - [CML plugin](https://github.com/jameswatts/cake-markup-language) - Provides further abstraction of the View layer by replacing the procedural PHP code with an XML based markup.
 - [Wysiwyg plugin](https://github.com/josegonzalez/cakephp-wysiwyg) - Support for various wysiwyg editors.
+- [Address plugin](https://github.com/drmonkeyninja/cakephp-address) - An address helper that outputs a marked up address.
+- [VideoEmbed plugin](https://github.com/drmonkeyninja/cakephp-video-helper) - Helper for embedding YouTube, Vimeo and Dailymotion videos.
 
 ## Email
 *Plugins for sending and parsing email.*
@@ -117,11 +119,6 @@ Focus is on the specific task.
 *Plugins for manipulating images.*
 
 - [Imagine plugin](https://github.com/burzum/cakephp-imagine-plugin) - A plugin around Imagine.
-
-## Video
-*Plugins for working with videos.*
-
-- [VideoEmbed plugin](https://github.com/drmonkeyninja/cakephp-video-helper) - Helper for embedding YouTube, Vimeo and Dailymotion videos.
 
 ## Testing
 *Plugins for testing codebases and generating test data.*
@@ -318,6 +315,7 @@ Focus is on the specific task.
 
 - [Vagrant](http://www.vagrantup.com/) - A portable development environment utility.
 - [Puppet](http://puppetlabs.com/) - A server automation framework and application.
+- [PuPHPet](https://puphpet.com/) - Web interface for building a Vagrant + Puppet box.
 
 ## Web Applications
 
