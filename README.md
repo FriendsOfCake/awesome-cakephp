@@ -79,7 +79,7 @@ Focus is on the specific task.
 *Plugins for debugging*
 
 - [DebugKit plugin](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
-- [Whoops plugin](https://github.com/gourmet/whoops) - PHP error for cool kids with [filp/whoops](https://github.com/filp/whoops)
+- [Whoops plugin](https://github.com/gourmet/whoops) - PHP error for cool kids with [filp/whoops](https://github.com/filp/whoops).
 - ~~[Airbrake plugin](https://github.com/morrislaptop/AirbrakeCake) - Integrate Airbrake for CakePHP exceptions and errors~~
 - ~~[Setup plugin](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing setup tabs at the bottom.~~
 - ~~[GraphVizModels plugin](https://github.com/mamchenkov/CakePHP-GraphViz-Models) - Display your model relations graphically.~~
@@ -89,8 +89,8 @@ Focus is on the specific task.
 *Plugins for templating and lexing.*
 
 - [Js plugin](https://github.com/oldskool/cakephp-js) - A library containing JS helper and alike (extracted from CakePHP2.x core).
-- [Chocolate plugin](https://github.com/commercial-hippie/chocolate) - Front-End Framework FormHelpers
-- [Twitter Bootstrap plugin](https://github.com/gourmet/twitter_bootstrap) - Twitter Bootsrap 3 integration
+- [Chocolate plugin](https://github.com/commercial-hippie/chocolate) - Front-End framework FormHelper extensions.
+- [TwitterBootstrap plugin](https://github.com/gourmet/twitter_bootstrap) - Twitter Bootsrap 3 integration.
 - ~~[BoostCake plugin](https://github.com/slywalker/cakephp-plugin-boost_cake) - A Twitter Bootstrap plugin.~~
 - [TwigView plugin](https://github.com/WyriHaximus/TwigView) - A plugin to use the Twig Templating Language for views.
 - ~~[CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) - A view to easily generate CSV.~~
