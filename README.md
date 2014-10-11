@@ -168,6 +168,7 @@ Focus is on the specific task.
 - [Payments plugin](https://github.com/burzum/cakephp-payments-plugin) - Generic Payment Interface.
 - [Stripe](https://github.com/chronon/CakePHP-StripeComponent-Plugin) - A Stripe component.
 - [Paypal plugin](https://github.com/robmcvey/cakephp-paypal) - To interact with Paypal's "classic" and new REST APIs.
+- [Paypal REST Plugin](https://github.com/jlkaufman/cakephp-paypal-rest-client) - A Paypal REST Client Plugin
 
 ## PDF
 *Plugins and software for working with PDF files.*
