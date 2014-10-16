@@ -301,7 +301,7 @@ Focus is on the specific task.
 - ~~[Dotcake](https://github.com/dotcake/dotcake) - Provides CakePHP project info for editor's cakephp plugins.~~
 - ~~[Travis](https://github.com/FriendsOfCake/travis) - Easy travis setup for CakePHP plugins.~~
 - ~~[Users plugin](https://github.com/CakeDC/users) - For allowing users to register and login manage their profile.~~
-
+- ~~[Yaml Config](chobo1210.github.io/Cake-Yaml) - for using Yaml config files instead of php arrays
 ## Libs
 *Useful libraries or tools that don't fit in the categories above.*
 
