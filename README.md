@@ -103,6 +103,8 @@ Focus is on the specific task.
 - [EmailQueue plugin](https://github.com/nodesagency/cakephp-email-queue) - An email queue solution.
 - [Postmark plugin](https://github.com/maurymmarques/postmark-cakephp) - Makes email delivery using Postmark.
 - [Mailchimp plugin](https://github.com/dereuromark/cakephp-mailchimp) - The Mailchimp and Mandrill plugin.
+- [Mandrill plugin](https://github.com/a2design-company/Mandrill-CakePHP-plugin) - Sending Email using Mandrill.
+- [SendGrid plugin](https://github.com/a2design-company/sendgrid-webapi-cakephp-plugin) - CakePHP plugin for SendGrid WebAPI.
 
 ## Files
 *Plugins for file manipulation.*
