@@ -261,6 +261,7 @@ Focus is on the specific task.
 - [Like plugin](https://github.com/aschelch/cakephp-like-plugin) - Provides a feature similar to Facebook "Like".
 - [Comments plugin](https://github.com/CakeDC/comments) - Allows users to comment records.
 - [Facebook plugin](https://github.com/webtechnick/CakePHP-Facebook-Plugin) - Facebook plugin.
+- [Twitter plugin](https://github.com/mishudark/CakePHP-2.x-Twitter-Plugin) - A library to interface with Twitter and its OAuth workflow.
 
 ## SEO
 *Search Engine Optimization*
@@ -274,7 +275,6 @@ Focus is on the specific task.
 *Plugins for accessing third party APIs.*
 
 - [AmazonSdk plugin](https://github.com/mcallisto/cakephp-amazon-aws-sdk) - A plugin around PHP AWS SDK library.
-- [Twitter plugin](https://github.com/mishudark/CakePHP-2.x-Twitter-Plugin) - A library to interface with Twitter and its OAuth workflow.
 - [SMSFly plugin](https://github.com/imsamurai/cakephp-sms-fly-datasource) - Data source for sending SMS via sms-fly.
 
 ## Migration
