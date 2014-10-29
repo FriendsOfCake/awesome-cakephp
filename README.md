@@ -100,6 +100,8 @@ Focus is on the specific task.
 - ~~[CakeFactory plugin](https://github.com/jameswatts/cake-factory) - A factory for the Cake Toolkit (CTK), which provides configurable objects.~~
 - ~~[CML plugin](https://github.com/jameswatts/cake-markup-language) - Provides further abstraction of the View layer by replacing the procedural PHP code with an XML based markup.~~
 - ~~[Wysiwyg plugin](https://github.com/josegonzalez/cakephp-wysiwyg) - Support for various wysiwyg editors.~~
+- [Address plugin](https://github.com/drmonkeyninja/cakephp-address) - An address helper that outputs a marked up address.
+- [VideoEmbed plugin](https://github.com/drmonkeyninja/cakephp-video-helper) - Helper for embedding YouTube, Vimeo and Dailymotion videos.
 
 ## Email
 *Plugins for sending and parsing email.*
@@ -107,6 +109,8 @@ Focus is on the specific task.
 - ~~[EmailQueue plugin](https://github.com/nodesagency/cakephp-email-queue) - An email queue solution.~~
 - ~~[Postmark plugin](https://github.com/maurymmarques/postmark-cakephp) - Makes email delivery using Postmark.~~
 - ~~[Mailchimp plugin](https://github.com/dereuromark/cakephp-mailchimp) - The Mailchimp and Mandrill plugin.~~
+- [Mandrill plugin](https://github.com/a2design-company/Mandrill-CakePHP-plugin) - Sending Email using Mandrill.
+- [SendGrid plugin](https://github.com/a2design-company/sendgrid-webapi-cakephp-plugin) - CakePHP plugin for SendGrid WebAPI.
 
 ## Files
 *Plugins for file manipulation.*
@@ -283,7 +287,7 @@ Focus is on the specific task.
 - ~~[AmazonSdk plugin](https://github.com/mcallisto/cakephp-amazon-aws-sdk) - A plugin around PHP AWS SDK library.~~
 - ~~[Twitter plugin](https://github.com/mishudark/CakePHP-2.x-Twitter-Plugin) - A library to interface with Twitter and its OAuth workflow.~~
 - ~~[SMSFly plugin](https://github.com/imsamurai/cakephp-sms-fly-datasource) - Data source for sending SMS via sms-fly.~~
-- [Ratchet plugin](https://github.com/WyriHaximus/Ratchet) - Brings the Ratchet websocket package to CakePHP.
+- ~~[Ratchet plugin](https://github.com/WyriHaximus/Ratchet) - Brings the Ratchet websocket package to CakePHP.~~
 
 ## Migration
 *Plugins and resources around migrationa and upgrading*
@@ -324,12 +328,13 @@ Focus is on the specific task.
 
 - [Vagrant](http://www.vagrantup.com/) - A portable development environment utility.
 - [Puppet](http://puppetlabs.com/) - A server automation framework and application.
+- [PuPHPet](https://puphpet.com/) - Web interface for building a Vagrant + Puppet box.
 
 ## Web Applications
 
 ## CMS and applications built on CakePHP
 
-- [QuickApps-CMS](https://github.com/QuickAppsCMS/QuickApps-CMS) (tree 2.0) - Open source content management system.
+- [QuickApps-CMS](https://github.com/QuickAppsCMS/QuickApps-CMS) - Open source content management system.
 - ~~[Croogo](https://github.com/croogo/croogo) - Open source content management system.~~
 - ~~[Infititas CMS](https://github.com/infinitas) - Open source content management framework.~~
 
