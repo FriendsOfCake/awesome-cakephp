@@ -342,7 +342,7 @@ Based on CakePHP3.x.
 
 ## Demo
 *Web-based (demo) applications and tools.*
-
+- [Blog Resource](https://github.com/Xety/Xeta) - A resource to help people starting with Cake3.
 - ~~[CakePHP Sandbox](http://sandbox.dereuromark.de) - A sandbox CakePHP application.~~
 - ~~[CakeFest](http://cakefest.dereuromark.de/) - Demo application around the annual CakePHP Conference "CakeFest".~~
 
