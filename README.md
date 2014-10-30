@@ -381,7 +381,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 - [Cookbook(!)](http://book.cakephp.org/2.0/en/index.html) - The official documentation.
 - [CakePHP Podcast](http://podcast.cakephp.org/) - The official CakePHP podcasts.
 - [Cheat Sheet](http://cakephpcheatsheet.com) - Lot of Code Snippets for the CakePHP Framework.
-- [CakePHP Reporter](http://www.scoop.it/t/cakephp-reporter) - a newspaper of collection  new entries about CakePHP.
+- [CakePHP Reporter](http://www.scoop.it/t/cakephp-reporter) - a newspaper and collection of material about CakePHP.
 
 ## CakePHP Internals Reading
 *Reading materials related to the CakePHP internals and decisions.*
