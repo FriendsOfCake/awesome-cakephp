@@ -55,7 +55,7 @@ Focus is on the specific task.
 	- [CakePHP Books](#cakephp-books)
 	- [CakePHP Videos](#cakephp-videos)
 	- [CakePHP Tutorials](#cakephp-tutorials)
-	- [CakePHP Reading](#cakephp-reading)
+	- [CakePHP Reading and Listening](#cakephp-reading-and-listening)
 	- [CakePHP Internals Reading](#cakephp-internals-reading)
 - [Conferences](#conferences)
 - [Contributing](#contributing)
@@ -375,10 +375,11 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 - [Official Blog tutorial](http://book.cakephp.org/2.0/en/tutorials-and-examples/blog/blog.html)
 
-## CakePHP Reading
-*Documentation and CakePHP-releated reading materials.*
+## CakePHP Reading and Listening
+*Documentation and CakePHP-releated reading and listening materials.*
 
 - [Cookbook(!)](http://book.cakephp.org/2.0/en/index.html) - The official documentation.
+- [CakePHP Podcast](http://podcast.cakephp.org/) - The official CakePHP podcasts.
 - [Cheat Sheet](http://cakephpcheatsheet.com) - Lot of Code Snippets for the CakePHP Framework.
 - [CakePHP Reporter](http://www.scoop.it/t/cakephp-reporter) - a newspaper of collection  new entries about CakePHP.
 
