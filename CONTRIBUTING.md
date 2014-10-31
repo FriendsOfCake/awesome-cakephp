@@ -11,6 +11,7 @@ Please ensure your pull request adheres to the following guidelines:
 * Check your spelling and grammar.
 * Make sure your text editor is set to remove trailing whitespace.
 * Proposed libraries should ideally have 10+ stars.
+* Please keep the lists in alphabetical order.
 
 Thank you for your suggestions!
 
