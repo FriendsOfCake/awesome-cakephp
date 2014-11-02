@@ -115,6 +115,7 @@ Focus is on the specific task.
 ## Files
 *Plugins for file manipulation.*
 
+- [Upload plugin](https://github.com/Xety/Cake3-Upload) - A little plugin to upload file.
 - ~~[FileStorage plugin](https://github.com/burzum/cakephp-file-storage) - Abstract file storage and upload plugin.~~
 
 ## Dependency Injection
