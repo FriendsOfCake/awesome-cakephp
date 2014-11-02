@@ -19,6 +19,8 @@ Focus is on the specific task.
 	- [Environment](#environment)
 	- [Debugging](#debugging)
 	- [Templating](#templating)
+	- [Email](#email)
+	- [Files](#files)
 	- [Dependency Injection](#dependency-injection)
 	- [Imagery](#imagery)
 	- [Testing](#testing)
