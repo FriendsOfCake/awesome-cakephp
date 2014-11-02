@@ -19,6 +19,8 @@ Focus is on the specific task.
 	- [Environment](#environment)
 	- [Debugging](#debugging)
 	- [Templating](#templating)
+	- [Email](#email)
+	- [Files](#files)
 	- [Dependency Injection](#dependency-injection)
 	- [Imagery](#imagery)
 	- [Testing](#testing)
@@ -41,8 +43,9 @@ Focus is on the specific task.
 	- [Caching](#caching)
 	- [Notifications](#notifications)
 	- [I18n](#i18n)
-	- [Third Party APIs](#third-party-apis)
+	- [Social](#social)
 	- [SEO](#seo)
+	- [Third Party APIs](#third-party-apis)
 	- [Migration](#migration)
 	- [Miscellaneous](#miscellaneous)
 	- [Libs](#libs)
@@ -115,6 +118,7 @@ Focus is on the specific task.
 ## Files
 *Plugins for file manipulation.*
 
+- [Upload plugin](https://github.com/Xety/Cake3-Upload) - A little plugin to upload file.
 - ~~[FileStorage plugin](https://github.com/burzum/cakephp-file-storage) - Abstract file storage and upload plugin.~~
 
 ## Dependency Injection
