@@ -70,6 +70,7 @@ Focus is on the specific task.
 
 - [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
 - [Crud plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code.
+- [Plugin Skeleton](https://github.com/Xety/Cake3-PluginSkeleton) - A skeleton example to create a Cake3 plugin.
 - ~~[Bake template "setup"](https://github.com/dereuromark/cakephp-setup/tree/master/Console/Templates/setup) - An example template on how customization of bake templates is possible.~~
 
 ## Environment
@@ -220,6 +221,7 @@ Focus is on the specific task.
 
 - [Acl plugin](https://github.com/cakephp/acl) - Access Controll List plugin (extracted from the CakePHP2.x core into a plugin).
 - [Authenticate plugin](https://github.com/FriendsOfCake/Authenticate) - Authentication classes for AuthComponent.
+- [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) - A simple Cake 3 plugin to automatically authenticate users with Cookies.
 - [HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) - A plugin which allows using the [HybridAuth](https://github.com/hybridauth/hybridauth) social sign on library with CakePHP.
 - [MultiTenant plugin](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.
 - [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) - Role based (single/multi) authentication as very light-weight approach.
@@ -278,9 +280,10 @@ Focus is on the specific task.
 - ~~[Ratings plugin](https://github.com/CakeDC/ratings) - Allows users to rate records.~~
 
 ## SEO
-* Search Engine Optimization*
+*Search Engine Optimization*
 
 - [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
+- [Sluggable plugin](https://github.com/Xety/Cake3-Sluggable) - A simple Cake3 plugin to slug fields and find records by slug.
 - ~~[Seo plugin](https://github.com/webtechnick/CakePHP-Seo-Plugin) - SEO plugin.~~
 - ~~[Sitemap plugin](http://plugins.cakephp.org/p/1681-CakePHP-Sitemap) - Generates HTML and XML sitemaps for your CakePHP application.~~
 - ~~[Slugger plugin](https://github.com/jeremyharris/slugger) - Automatically slugs URLs.~~
