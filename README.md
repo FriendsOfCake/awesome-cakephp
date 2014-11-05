@@ -169,6 +169,7 @@ Focus is on the specific task.
 - [Cart plugin](https://github.com/burzum/cakephp-cart-plugin) - A shopping cart plugin.
 - [Payments plugin](https://github.com/burzum/cakephp-payments-plugin) - Generic Payment Interface.
 - [Paypal plugin](https://github.com/robmcvey/cakephp-paypal) - To interact with Paypal's "classic" and new REST APIs.
+- [PaypalSource plugin](https://github.com/jlkaufman/cakephp-paypal-rest-client) - A Paypal REST client plugin.
 - [Stripe](https://github.com/chronon/CakePHP-StripeComponent-Plugin) - A Stripe component.
 
 ## PDF
