@@ -171,6 +171,7 @@ Focus is on the specific task.
 *Plugins for generating and working with log files.*
 
 - [Blame plugin](https://github.com/ceeram/blame) - Plugin to update created_by and modified_by fields with logged in user id.
+- [Version plugin](https://github.com/josegonzalez/cakephp-version) - A plugin that facilitates versioned database entities.
 - ~~[AuditLog plugin](https://github.com/jippi/cakephp-audit-log) - Records changes made to an object during CRUD operations.~~
 - ~~[DatabaseLog plugin](https://github.com/dereuromark/CakePHP-DatabaseLog) - Logging to the DB instead of filesystem.~~
 - ~~[Monolog plugin](https://github.com/jadb/cakephp-monolog) - Use the comprehensive logger capabilities of Monolog.~~
