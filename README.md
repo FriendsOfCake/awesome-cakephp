@@ -315,7 +315,7 @@ Focus is on the specific task.
 - ~~[Jsonrpc plugin](https://github.com/jameswatts/cake-jsonrpc) - Provides server and client implementations of JSON-RPC.~~
 - ~~[Travis](https://github.com/FriendsOfCake/travis) - Easy travis setup for CakePHP plugins.~~
 - ~~[Users plugin](https://github.com/CakeDC/users) - For allowing users to register and login manage their profile.~~
-
+- ~~[CakeYaml plugin](chobo1210.github.io/Cake-Yaml) - For using Yaml config files instead of php arrays
 ## Libs
 *Useful libraries or tools that don't fit in the categories above.*
 
