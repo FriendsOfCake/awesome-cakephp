@@ -319,6 +319,7 @@ Focus is on the specific task.
 - [PuPHPet](https://puphpet.com/) - Web interface for building a Vagrant + Puppet box.
 - [Puppet](http://puppetlabs.com/) - A server automation framework and application.
 - [Vagrant](http://www.vagrantup.com/) - A portable development environment utility.
+- [CakePHP.gitignore](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - The .gitignore file proposals.
 
 ## Web Applications
 
