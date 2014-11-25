@@ -122,6 +122,7 @@ Focus is on the specific task.
 
 - [Upload plugin](https://github.com/Xety/Cake3-Upload) - A little plugin to upload file.
 - ~~[FileStorage plugin](https://github.com/burzum/cakephp-file-storage) - Abstract file storage and upload plugin.~~
+- [FlyPie plugin](https://github.com/WyriHaximus/FlyPie) - Abstract filesystem access using Flysystem.
 
 ## Dependency Injection
 *Plugins that implement the dependency injection design pattern.*
