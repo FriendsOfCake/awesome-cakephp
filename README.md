@@ -128,6 +128,7 @@ Focus is on the specific task.
 - [CakePHP CodeSniffer rules](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
 - [CodeSniffer plugin](https://github.com/dereuromark/cakephp-codesniffer) - A plugin to auto-find and auto-fix almost all CS errors.
 - [PHPUnit plugin](https://github.com/dereuromark/cakephp-phpunit) - An easy way to install PHPUnit if you are not using composer.
+- [Behat Shell](https://github.com/Wolg/CakePHP-Behat) - Shell for testing CakePHP Application using Behat.
 
 ## Security
 *Plugins for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
