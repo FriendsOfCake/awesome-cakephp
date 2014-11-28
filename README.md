@@ -35,6 +35,7 @@ Focus is on the specific task.
 	- [Notifications](#notifications)
 	- [ORM and Datamapping](#orm-and-datamapping)
 	- [PDF](#pdf)
+	- [PhoneNumbers](#phonenumbers)
 	- [Queue](#queue)
 	- [REST and API](#rest-and-api)
 	- [SEO](#seo)
@@ -177,6 +178,11 @@ Focus is on the specific task.
 *Plugins and software for working with PDF files.*
 
 - [CakePdf plugin](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
+
+##phonenumbers
+*For International phone number validation.*
+
+-[LibPhoneNumberValidation from country name](https://github.com/sviveks/cakephp-international-phone-validation) - An API for international phone number validation by country name and phone number.
 
 ## ORM and Datamapping
 *Plugins that implement object-relational mapping or datamapping techniques.*
