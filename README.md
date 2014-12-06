@@ -113,8 +113,8 @@ Focus is on the specific task.
 *Plugins for sending and parsing email.*
 
 - [Email plugin](https://github.com/gourmet/email) - Email helper, layout and more.
-- [Mandrill plugin](https://github.com/a2design-company/Mandrill-CakePHP-plugin) - Sending Email using Mandrill.
-- [SendGrid plugin](https://github.com/a2design-company/sendgrid-webapi-cakephp-plugin) - CakePHP plugin for SendGrid WebAPI.
+- ~~[Mandrill plugin](https://github.com/a2design-company/Mandrill-CakePHP-plugin) - Sending Email using Mandrill.~~
+- ~~[SendGrid plugin](https://github.com/a2design-company/sendgrid-webapi-cakephp-plugin) - CakePHP plugin for SendGrid WebAPI.~~
 - ~~[EmailQueue plugin](https://github.com/nodesagency/cakephp-email-queue) - An email queue solution.~~
 - ~~[Mailchimp plugin](https://github.com/dereuromark/cakephp-mailchimp) - The Mailchimp and Mandrill plugin.~~
 - ~~[Postmark plugin](https://github.com/maurymmarques/postmark-cakephp) - Makes email delivery using Postmark.~~
