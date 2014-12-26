@@ -230,6 +230,7 @@ Focus is on the specific task.
 - [Authenticate plugin](https://github.com/FriendsOfCake/Authenticate) - Authentication classes for AuthComponent.
 - [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) - A simple Cake 3 plugin to automatically authenticate users with Cookies.
 - [HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) - A plugin which allows using the [HybridAuth](https://github.com/hybridauth/hybridauth) social sign on library with CakePHP.
+- [JwtAuth plugin](https://github.com/ADmad/cakephp-jwt-auth) - A CakePHP 3.x plugin for authenticating using JSON Web Tokens.
 - [MultiTenant plugin](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.
 - [Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior](https://github.com/dereuromark/cakephp-tools/blob/cake3/docs/Passwordable.md) for a DRY approach on password hashing.
 - [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) - Role based (single/multi) authentication as very light-weight approach.
@@ -272,6 +273,7 @@ Focus is on the specific task.
 ## I18n
 *Plugins for I18n (Internationalization) and L10n (Localization)*
 
+- [I18n Messages plugin](https://github.com/ADmad/cakephp-i18n-messages) - A CakePHP 3.x plugin for storing translation string in database instead of PO files.
 - ~~[Localized plugin](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files.~~
 - ~~[Transifex plugin](https://github.com/dereuromark/cakephp-transifex) - Imports locales via Transifex API.~~
 
