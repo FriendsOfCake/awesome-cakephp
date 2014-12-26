@@ -296,6 +296,7 @@ Focus is on the specific task.
 - [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells, ...
 - [Travis](https://github.com/FriendsOfCake/travis) - Easy travis setup for CakePHP plugins.
 - [Users plugin](https://github.com/CakeDC/users) - For allowing users to register and login manage their profile.
+- [Maintenance Mode](https://github.com/awebdeveloper/cakephp-maintenance-mode) - Show a custom template for all request when in maintainance to all except thyself 
 
 ## Libs
 *Useful libraries or tools that don't fit in the categories above.*
