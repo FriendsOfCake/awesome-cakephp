@@ -115,7 +115,7 @@ Focus is on the specific task.
 
 - [Email plugin](https://github.com/gourmet/email) - Email helper, layout and more.
 - ~~[Mandrill plugin](https://github.com/a2design-company/Mandrill-CakePHP-plugin) - Sending Email using Mandrill.~~
-- ~~[SendGrid plugin](https://github.com/a2design-company/sendgrid-webapi-cakephp-plugin) - CakePHP plugin for SendGrid WebAPI.~~
+- ~~[SendGrid plugin](https://github.com/a2design-company/sendgrid-webapi-cakephp-plugin) - Plugin for SendGrid WebAPI.~~
 - ~~[EmailQueue plugin](https://github.com/nodesagency/cakephp-email-queue) - An email queue solution.~~
 - ~~[Mailchimp plugin](https://github.com/dereuromark/cakephp-mailchimp) - The Mailchimp and Mandrill plugin.~~
 - ~~[Postmark plugin](https://github.com/maurymmarques/postmark-cakephp) - Makes email delivery using Postmark.~~
@@ -217,8 +217,9 @@ Focus is on the specific task.
 ## Search
 *Plugins and software for indexing and performing search queries on data.*
 
+- [ElasticSearch plugin](https://github.com/cakephp/elastic-search) - Alternative ORM using Elastic Search as its backend.
 - [Search plugin](https://github.com/CakeDC/) - De-facto search form standard built on RPG pattern.
-- ~~[Elastic plugin](https://github.com/dkullmann/CakePHP-Elastic--DataSource) - Connecting models to Elastic search types.~~
+- ~~[Elastic plugin](https://github.com/dkullmann/CakePHP-Elastic-Search-DataSource) - Connecting models to Elastic search types.~~
 - ~~[OpenSearch plugin](https://github.com/dereuromark/cakephp-opensearch) - For creating installable search plugins for IE, Firefox and Chrome.~~
 - ~~[SimpleScope](https://github.com/josegonzalez/cakephp-simple-scope) - For scoping finds.~~
 - ~~[Tags plugin](https://github.com/CakeDC/tags) - Tagging records the easy way.~~
