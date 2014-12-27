@@ -362,6 +362,8 @@ Based on CakePHP3.x.
 ## Demo
 *Web-based (demo) applications and tools.*
 - [Blog Resource](https://github.com/Xety/Xeta) - A resource to help people starting with Cake3.
+- [Bookmarkr](https://github.com/lorenzo/cakephp3-bookmarkr) A bookmarking application built with the CRUD plugin.
+- [Query Examples](https://github.com/lorenzo/cakephp3-examples) Advanced query building examples.
 - ~~[CakeFest](http://cakefest.dereuromark.de/) - Demo application around the annual CakePHP Conference "CakeFest".~~
 - ~~[CakePHP Sandbox](http://sandbox.dereuromark.de) - A sandbox CakePHP application.~~
 
