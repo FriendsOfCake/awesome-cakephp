@@ -292,11 +292,12 @@ Focus is on the specific task.
 - [AJAX](https://github.com/dereuromark/cakephp-tools/wiki/www.dereuromark.de/2014/01/09/ajax-and-cakephp/) - AJAX and CakePHP.
 - [Dotcake](https://github.com/dotcake/dotcake) - Provides CakePHP project info for editor's cakephp plugins.
 - [Jsonrpc plugin](https://github.com/jameswatts/cake-jsonrpc) - Provides server and client implementations of JSON-RPC.
+- [MaintenanceMode plugin](https://github.com/awebdeveloper/cakephp-maintenance-mode) - Show a custom template for all requests when in maintainance with optional IP whitelisting.
+- [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 - [MobileDetect plugin](https://github.com/chronon/CakePHP-MobileDetectComponent-Plugin) - Identifying mobile devices using the Mobile_Detect project.
 - [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells, ...
 - [Travis](https://github.com/FriendsOfCake/travis) - Easy travis setup for CakePHP plugins.
 - [Users plugin](https://github.com/CakeDC/users) - For allowing users to register and login manage their profile.
-- [Maintenance Mode](https://github.com/awebdeveloper/cakephp-maintenance-mode) - Show a custom template for all request when in maintainance to all except thyself 
 
 ## Libs
 *Useful libraries or tools that don't fit in the categories above.*
