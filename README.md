@@ -160,6 +160,7 @@ Focus is on the specific task.
 *Tools for building navigation structures.*
 
 - [Knp Menu](https://github.com/gourmet/knp-menu) - A menu plugin based on then [Knp Menu Library](https://github.com/KnpLabs/KnpMenu).
+- ~~[MenuBuilder plugin](https://github.com/torifat/cake-menu_builder) - A menu plugin.~~
 
 ## Asset Management
 *Tools for managing, compressing and minifying website assets.*
