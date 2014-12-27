@@ -100,11 +100,11 @@ Focus is on the specific task.
 - [TwigView plugin](https://github.com/WyriHaximus/TwigView) - A plugin to use the Twig Templating Language for views.
 - [TwitterBootstrap plugin](https://github.com/gourmet/twitter_bootstrap) - Twitter Bootsrap 3 integration.
 - [Bootstrap plugin](https://github.com/elboletaire/twbs-cake-plugin) - Another Bootstrap 3 plugin with support for LESS.
+- [CakeExcel plugin](https://github.com/dakota/CakeExcel/tree/3.0) - An Excel view to generate XLSX files.
 - ~~[VideoEmbed plugin](https://github.com/drmonkeyninja/cakephp-video-helper) - Helper for embedding YouTube, Vimeo and Dailymotion videos.~~
 - ~~[BoostCake plugin](https://github.com/slywalker/cakephp-plugin-boost_cake) - A Twitter Bootstrap plugin.~~
 - ~~[CML plugin](https://github.com/jameswatts/cake-markup-language) - Provides further abstraction of the View layer by replacing the procedural PHP code with an XML based markup.~~
 - ~~[CTK plugin](https://github.com/jameswatts/cake-toolkit) - Allows views to be defined as a class.~~
-- ~~[CakeExcel plugin](https://github.com/dakota/CakeExcel) - An Excel view to generate XLSX files.~~
 - ~~[CakeFactory plugin](https://github.com/jameswatts/cake-factory) - A factory for the Cake Toolkit (CTK), which provides configurable objects.~~
 - ~~[CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) - A view to easily generate CSV.~~
 - ~~[Mustache plugin](https://github.com/Dismounted/MustacheCake) - A Mustache plugin.~~
