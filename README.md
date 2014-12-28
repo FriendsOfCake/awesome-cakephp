@@ -96,7 +96,7 @@ Focus is on the specific task.
 - [Chocolate plugin](https://github.com/commercial-hippie/chocolate) - Front-End framework FormHelper extensions.
 - [Js plugin](https://github.com/oldskool/cakephp-js) - A library containing JS helper and alike (extracted from CakePHP2.x core).
 - [Liquid plugin](https://github.com/gourmet/liquid) - A plugin to use the Liquid templating language for views.
-- [Tools:RssView](https://github.com/dereuromark/cakephp-tools) - Containing [RssView](http://www.dereuromark.de/2013/10/03/rss-feeds-in-cakephp/) to easily generate (complex) RSS.
+- [Tools:RssView](https://github.com/dereuromark/cakephp-tools) - Containing [RssView](http://www.dereuromark.de/2013/10/03/rss-feeds-in-cakephp/) to easily generate (complex) RSS feeds.
 - [TwigView plugin](https://github.com/WyriHaximus/TwigView) - A plugin to use the Twig Templating Language for views.
 - [TwitterBootstrap plugin](https://github.com/gourmet/twitter_bootstrap) - Bootstrap 3 integration.
 - [Bootstrap plugin](https://github.com/elboletaire/twbs-cake-plugin) - A Bootstrap 3 plugin with support for LESS.
@@ -212,7 +212,7 @@ Focus is on the specific task.
 ## Queue
 *Plugins for working with event and task queues.*
 
-- ~~[CakeResque plugin](https://github.com/kamisama/Cake-Resque) - A plugin for Resque, a library for creating background jobs~~
+- ~~[CakeResque plugin](https://github.com/kamisama/Cake-Resque) - A plugin for Resque, a library for creating background jobs.~~
 - ~~[Queue plugin](https://github.com/dereuromark/cakephp-queue) - A minimal dependency-free CakePHP only plugin around Queue.~~
 
 ## Search
@@ -333,13 +333,13 @@ Focus is on the specific task.
 *Useful libraries or tools that don't fit in the categories above.*
 
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - - used in CakePHP3.x anyway.
-- [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano
+- [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano.
 - [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension - used in CakePHP3.x anyway.
 - [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer.
 - [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - A package and dependency manager.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
-- [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Deployment
+- [Rocketeer](https://github.com/Anahkiasen/rocketeer) - PHP task runner and deployment package.
 - [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
 
 # Software
