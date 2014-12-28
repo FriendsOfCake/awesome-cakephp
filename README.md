@@ -98,9 +98,9 @@ Focus is on the specific task.
 - [Liquid plugin](https://github.com/gourmet/liquid) - A plugin to use the Liquid templating language for views.
 - [Tools:RssView](https://github.com/dereuromark/cakephp-tools) - Containing [RssView](http://www.dereuromark.de/2013/10/03/rss-feeds-in-cakephp/) to easily generate (complex) RSS.
 - [TwigView plugin](https://github.com/WyriHaximus/TwigView) - A plugin to use the Twig Templating Language for views.
-- [Bootstrap plugin](https://github.com/elboletaire/twbs-cake-plugin) - A Twitter Bootstrap 3 plugin with support for LESS.
+- [TwitterBootstrap plugin](https://github.com/gourmet/twitter_bootstrap) - Bootstrap 3 integration.
+- [Bootstrap plugin](https://github.com/elboletaire/twbs-cake-plugin) - A Bootstrap 3 plugin with support for LESS.
 - [CakeExcel plugin](https://github.com/dakota/CakeExcel/tree/3.0) - An Excel view to generate XLSX files.
-- ~~[TwitterBootstrap plugin](https://github.com/gourmet/twitter_bootstrap) - Twitter Bootstrap 3 integration.~~ (needs fixing)
 - ~~[VideoEmbed plugin](https://github.com/drmonkeyninja/cakephp-video-helper) - Helper for embedding YouTube, Vimeo and Dailymotion videos.~~
 - ~~[BoostCake plugin](https://github.com/slywalker/cakephp-plugin-boost_cake) - A Twitter Bootstrap plugin.~~
 - ~~[CML plugin](https://github.com/jameswatts/cake-markup-language) - Provides further abstraction of the View layer by replacing the procedural PHP code with an XML based markup.~~
