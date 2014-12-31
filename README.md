@@ -94,6 +94,7 @@ Focus is on the specific task.
 
 - [Address plugin](https://github.com/drmonkeyninja/cakephp-address) - An address helper that outputs a marked up address.
 - [Chocolate plugin](https://github.com/commercial-hippie/chocolate) - Front-End framework FormHelper extensions.
+- [CommonMark plugin](https://github.com/gourmet/common-mark) - Adds [CommonMark](http://commonmark.org) (markdown) support to models and views.
 - [Js plugin](https://github.com/oldskool/cakephp-js) - A library containing JS helper and alike (extracted from CakePHP2.x core).
 - [Liquid plugin](https://github.com/gourmet/liquid) - A plugin to use the Liquid templating language for views.
 - [Tools:RssView](https://github.com/dereuromark/cakephp-tools) - Containing [RssView](http://www.dereuromark.de/2013/10/03/rss-feeds-in-cakephp/) to easily generate (complex) RSS feeds.
