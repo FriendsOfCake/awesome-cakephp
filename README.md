@@ -208,6 +208,7 @@ Focus is on the specific task.
 ## Authentication and Authorization
 *Plugins and libraries for implementing authentication and authorization.*
 
+- [AnnotationControlList pluin](https://github.com/josegonzalez/cakephp-annotation-control-list) - Lightweight annotation-based ACL as plugin.
 - [Authenticate plugin](https://github.com/FriendsOfCake/Authenticate) - Authentication classes for AuthComponent.
 - [Authorize plugin](https://github.com/FriendsOfCake/Authorize) - Authorize classes for AuthComponent.
 - [GoogleAuthenticate plugin](https://github.com/ceeram/GoogleAuthenticate) - Containing Google 2 step authenticate class for AuthComponent.
