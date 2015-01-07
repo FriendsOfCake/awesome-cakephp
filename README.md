@@ -95,8 +95,15 @@ Focus is on the specific task.
 - [Address plugin](https://github.com/drmonkeyninja/cakephp-address) - An address helper that outputs a marked up address.
 - [Chocolate plugin](https://github.com/commercial-hippie/chocolate) - Front-End framework FormHelper extensions.
 - [CommonMark plugin](https://github.com/gourmet/common-mark) - Adds [CommonMark](http://commonmark.org) (markdown) support to models and views.
+- [Editorial](https://github.com/mindforce/cakephp-editorial) - Base plugin for WYSiWYG editors intrgration
+- [Editorial Summernote](https://github.com/mindforce/cakephp-editorial-summernote) - [Summernote](http://summernote.org) editor implementation for CakePHP projects
+- [Editorial Codemirror](https://github.com/mindforce/cakephp-editorial-codemirror) - [Codemirror](http://codemirror.net) editor implementation for CakePHP projects
+- [Garderobe](https://github.com/mindforce/cakephp-garderobe) - Base plugin for various JS and CSS frameworks an libraries.
+- [Garderobe Bootstrap3](https://github.com/mindforce/cakephp-garderobe-bootstrap3) - [Bootstrap 3](http://getbootstrap.com) plugin for popular CSS framework. Very helpful for fast interfaces creation.
 - [Js plugin](https://github.com/oldskool/cakephp-js) - A library containing JS helper and alike (extracted from CakePHP2.x core).
 - [Liquid plugin](https://github.com/gourmet/liquid) - A plugin to use the Liquid templating language for views.
+- [Passengers](https://github.com/mindforce/cakephp-passengers) - CakePHP plugin that provides basic users management including authentication and authorization.
+- [RearEngine](https://github.com/mindforce/cakephp-rear-engine) - CakePHP plugin that provides an easy-to-use backend interface for managing your data in projects.
 - [SocialMeta plugin](https://github.com/gourmet/social-meta) - Adds support for Facebook's OpenGraph and Twitter's Card meta tags.
 - [Tools:RssView](https://github.com/dereuromark/cakephp-tools) - Containing [RssView](http://www.dereuromark.de/2013/10/03/rss-feeds-in-cakephp/) to easily generate (complex) RSS feeds.
 - [TwigView plugin](https://github.com/WyriHaximus/TwigView) - A plugin to use the Twig Templating Language for views.
