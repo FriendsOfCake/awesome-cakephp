@@ -232,6 +232,7 @@ Focus is on the specific task.
 ## Authentication and Authorization
 *Plugins and libraries for implementing authentication and authorization.*
 
+- [AnnotationControlList pluin](https://github.com/josegonzalez/cakephp-annotation-control-list) - Lightweight annotation-based ACL as plugin.
 - [Acl plugin](https://github.com/cakephp/acl) - Access Controll List plugin (extracted from the CakePHP2.x core into a plugin).
 - [Authenticate plugin](https://github.com/FriendsOfCake/Authenticate) - Authentication classes for AuthComponent.
 - [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) - A simple Cake 3 plugin to automatically authenticate users with Cookies.
