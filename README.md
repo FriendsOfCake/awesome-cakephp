@@ -281,7 +281,7 @@ Focus is on the specific task.
 - [SMSFly plugin](https://github.com/imsamurai/cakephp-sms-fly-datasource) - Data source for sending SMS via sms-fly.
 
 ## Migration
-*Plugins and resources around migrationa and upgrading*
+*Plugins and resources around migration and upgrading*
 
 - [Migrations plugin](https://github.com/CakeDC/migrations) - (DB) Migration plugin.
 - [Upgrade plugin](https://github.com/dereuromark/cakephp-upgrade) - The most extensive 1.x=>2.x and partly =>3.x upgrade shells.
