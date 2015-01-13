@@ -70,8 +70,8 @@ Focus is on the specific task.
 ## Environment
 *Plugins for enviroment*
 
-- [Enviroments plugin](https://github.com/josegonzalez/cakephp-environments) - Plugin to handle enviroments.
-- [Setup plugin](https://github.com/dereuromark/cakephp-setup) - Plugin to handle very basic enviroments.
+- [Enviroments plugin](https://github.com/josegonzalez/cakephp-environments) - Plugin to handle environments.
+- [Setup plugin](https://github.com/dereuromark/cakephp-setup) - Plugin to handle very basic environments.
 
 ## Debugging
 *Plugins for debugging*
@@ -96,7 +96,7 @@ Focus is on the specific task.
 - [Tools:RssView](https://github.com/dereuromark/cakephp-tools) - Containing [RssView](http://www.dereuromark.de/2013/10/03/rss-feeds-in-cakephp/) to easily generate (complex) RSS.
 - [TwigView plugin](https://github.com/predominant/TwigView) - A plugin to use the Twig Templating Language for views.
 - [VideoEmbed plugin](https://github.com/drmonkeyninja/cakephp-video-helper) - Helper for embedding YouTube, Vimeo and Dailymotion videos.
-- [Wysiwyg plugin](https://github.com/josegonzalez/cakephp-wysiwyg) - Support for various wysiwyg editors.
+- [Wysiwyg plugin](https://github.com/josegonzalez/cakephp-wysiwyg) - Support for various WYSIWYG editors.
 
 ## Email
 *Plugins for sending and parsing email.*
@@ -169,8 +169,8 @@ Focus is on the specific task.
 
 - [Cart plugin](https://github.com/burzum/cakephp-cart-plugin) - A shopping cart plugin.
 - [Payments plugin](https://github.com/burzum/cakephp-payments-plugin) - Generic Payment Interface.
-- [Paypal plugin](https://github.com/robmcvey/cakephp-paypal) - To interact with Paypal's "classic" and new REST APIs.
-- [PaypalSource plugin](https://github.com/jlkaufman/cakephp-paypal-rest-client) - A Paypal REST client plugin.
+- [Paypal plugin](https://github.com/robmcvey/cakephp-paypal) - To interact with PayPal's "classic" and new REST APIs.
+- [PaypalSource plugin](https://github.com/jlkaufman/cakephp-paypal-rest-client) - A PayPal REST client plugin.
 - [Stripe](https://github.com/chronon/CakePHP-StripeComponent-Plugin) - A Stripe component.
 
 ## PDF
@@ -179,7 +179,7 @@ Focus is on the specific task.
 - [CakePdf plugin](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
 
 ## ORM and Datamapping
-*Plugins that implement object-relational mapping or datamapping techniques.*
+*Plugins that implement object-relational mapping or data-mapping techniques.*
 
 - [Datasources plugin](https://github.com/cakephp/datasources) - Lots of different datasources.
 
@@ -187,7 +187,7 @@ Focus is on the specific task.
 *Plugins for working with "NoSQL" backends.*
 
 - [MongoQB plugin](https://github.com/ichikaway/cakephp-mongodb/) - MongoDB database driver.
-- [NoSql](https://github.com/kamisama/CakePHP-NoSQL-Datasource) - A low-lever interface to interact with nosql datasource.
+- [NoSql](https://github.com/kamisama/CakePHP-NoSQL-Datasource) - A low-lever interface to interact with NoSQL datasource.
 
 ## Queue
 *Plugins for working with event and task queues.*
@@ -214,7 +214,7 @@ Focus is on the specific task.
 - [GoogleAuthenticate plugin](https://github.com/ceeram/GoogleAuthenticate) - Containing Google 2 step authenticate class for AuthComponent.
 - [OpAuth](https://github.com/uzyn/cakephp-opauth) - Opauth provides a standardized method for PHP applications to interface with authentication providers.
 - [Sanction plugin](https://github.com/josegonzalez/cakephp-sanction) - Centralize all of those permissions in a single file.
-- [Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior](http://www.dereuromark.de/2011/08/25/working-with-passwords-in-cakephp/) for a DRY approach von modern password hashing.
+- [Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior](http://www.dereuromark.de/2011/08/25/working-with-passwords-in-cakephp/) for a DRY approach to modern password hashing.
 - [Tools:TinyAuth](https://github.com/dereuromark/cakephp-tools) - Containing TinyAuth for a very lightweight (single/multi) role based access.
 
 ## Markup
@@ -293,8 +293,8 @@ Focus is on the specific task.
 - [AJAX](https://github.com/dereuromark/cakephp-tools/wiki/www.dereuromark.de/2014/01/09/ajax-and-cakephp/) - AJAX and CakePHP.
 - [Dotcake](https://github.com/dotcake/dotcake) - Provides CakePHP project info for editor's cakephp plugins.
 - [Jsonrpc plugin](https://github.com/jameswatts/cake-jsonrpc) - Provides server and client implementations of JSON-RPC.
-- [MaintenanceMode plugin](https://github.com/awebdeveloper/cakephp-maintenance-mode) - Show a custom template for all requests when in maintainance with optional IP whitelisting.
-- [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
+- [MaintenanceMode plugin](https://github.com/awebdeveloper/cakephp-maintenance-mode) - Show a custom template for all requests when in maintainance with optional IP white-listing.
+- [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup) - Maintenance shell to go into maintenance mode for all requests with optional IP white-listing.
 - [MobileDetect plugin](https://github.com/chronon/CakePHP-MobileDetectComponent-Plugin) - Identifying mobile devices using the Mobile_Detect project.
 - [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells, ...
 - [Travis](https://github.com/FriendsOfCake/travis) - Easy travis setup for CakePHP plugins.
