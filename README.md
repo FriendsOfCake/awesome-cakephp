@@ -290,7 +290,7 @@ Focus is on the specific task.
 ## Miscellaneous
 *Misc plugins and libraries*
 
-- [AJAX](https://github.com/dereuromark/cakephp-tools/wiki/www.dereuromark.de/2014/01/09/ajax-and-cakephp/) - AJAX and CakePHP.
+- [AJAX](http://www.dereuromark.de/2014/01/09/ajax-and-cakephp) - AJAX and CakePHP.
 - [Dotcake](https://github.com/dotcake/dotcake) - Provides CakePHP project info for editor's cakephp plugins.
 - [Jsonrpc plugin](https://github.com/jameswatts/cake-jsonrpc) - Provides server and client implementations of JSON-RPC.
 - [MaintenanceMode plugin](https://github.com/awebdeveloper/cakephp-maintenance-mode) - Show a custom template for all requests when in maintainance with optional IP whitelisting.
