@@ -168,8 +168,8 @@ Focus is on the specific task.
 ## Asset Management
 *Tools for managing, compressing and minifying website assets.*
 
+- [AssetCompress plugin](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
 - [MinifyHtml plugin](https://github.com/WyriHaximus/MinifyHtml) - Compress HTML output.
-- ~~[AssetCompress plugin](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.~~
 
 ## Geolocation
 *Plugins for geocoding addresses and working with latitudes and longitudes.*
