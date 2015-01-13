@@ -77,17 +77,16 @@ Focus is on the specific task.
 *Plugins for enviroment*
 
 - ~~[Enviroments plugin](https://github.com/josegonzalez/cakephp-environments) - Plugin to handle enviroments.~~
-- ~~[Setup plugin](https://github.com/dereuromark/cakephp-setup) - Plugin to handle very basic enviroments.~~
 
 ## Debugging
 *Plugins for debugging*
 
 - [DebugKit plugin](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
+- [Setup plugin](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
 - [Whoops plugin](https://github.com/gourmet/whoops) - PHP error for cool kids with [filp/whoops](https://github.com/filp/whoops).
 - ~~[Airbrake plugin](https://github.com/morrislaptop/AirbrakeCake) - Integrate Airbrake for CakePHP exceptions and errors~~
 - ~~[ClearCache plugin](https://github.com/ceeram/clear_cache) - For easily clearing the app cache(s).~~
 - ~~[GraphVizModels plugin](https://github.com/mamchenkov/CakePHP-GraphViz-Models) - Display your model relations graphically.~~
-- ~~[Setup plugin](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing setup tabs at the bottom.~~
 
 ## Templating
 *Plugins for templating and lexing.*
@@ -227,7 +226,6 @@ Focus is on the specific task.
 - ~~[OpenSearch plugin](https://github.com/dereuromark/cakephp-opensearch) - For creating installable search plugins for IE, Firefox and Chrome.~~
 - ~~[SimpleScope](https://github.com/josegonzalez/cakephp-simple-scope) - For scoping finds.~~
 - ~~[Tags plugin](https://github.com/CakeDC/tags) - Tagging records the easy way.~~
-- ~~[Tools:NamedScope](https://github.com/dereuromark/cakephp-tools) - Containing [NamedScope behavior](http://www.dereuromark.de/2014/02/15/cakephp-and-namedscope-for-dry-conditions/) for DRY find conditions.~~
 
 ## Authentication and Authorization
 *Plugins and libraries for implementing authentication and authorization.*
@@ -365,7 +363,6 @@ Focus is on the specific task.
 
 - [QuickApps-CMS](https://github.com/QuickAppsCMS/QuickApps-CMS) - Open source content management system.
 - ~~[Croogo](https://github.com/croogo/croogo) - Open source content management system.~~
-- ~~[Infititas CMS](https://github.com/infinitas) - Open source content management framework.~~
 
 Based on CakePHP3.x.
 
