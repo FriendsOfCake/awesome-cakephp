@@ -409,6 +409,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 - [CakePHP-DE](http://www.meetup.com/CakePHP-DE) - MeetUps in Germany.
 - [CakePHP-NL](http://www.meetup.com/CakePHP-NL) - MeetUps in Netherlands.
 - [CakePHP-Paris](http://www.meetup.com/CakePHP-Paris/) - [CakePHP-Toulouse](http://www.meetup.com/CakePHP-Toulouse/) - MeetUps in France.
+- [CakePHP-NewYork](http://www.meetup.com/nyc-cakephp/) - MeetUps in the New York Metropolitan Area
 
 # Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
