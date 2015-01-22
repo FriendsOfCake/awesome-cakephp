@@ -292,6 +292,7 @@ Focus is on the specific task.
 
 - [AJAX](http://www.dereuromark.de/2014/01/09/ajax-and-cakephp) - AJAX and CakePHP.
 - [Dotcake](https://github.com/dotcake/dotcake) - Provides CakePHP project info for editor's cakephp plugins.
+- [Ftp plugin](https://github.com/fotografde/cakephp-ftp) - FTP/SFTP plugin.
 - [Jsonrpc plugin](https://github.com/jameswatts/cake-jsonrpc) - Provides server and client implementations of JSON-RPC.
 - [MaintenanceMode plugin](https://github.com/awebdeveloper/cakephp-maintenance-mode) - Show a custom template for all requests when in maintainance with optional IP whitelisting.
 - [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
