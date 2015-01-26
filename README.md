@@ -77,6 +77,7 @@ Focus is on the specific task.
 *Plugins for enviroment*
 
 - ~~[Enviroments plugin](https://github.com/josegonzalez/cakephp-environments) - Plugin to handle enviroments.~~
+- ~~[Setup plugin](https://github.com/dereuromark/cakephp-setup) - Plugin to handle very basic environments.~~
 
 ## Debugging
 *Plugins for debugging*
@@ -137,7 +138,7 @@ Focus is on the specific task.
 ## Imagery
 *Plugins for manipulating images.*
 
-- [Imagine plugin](https://github.com/burzum/cakephp-imagine-plugin) - A plugin around Imagine.
+- [Imagine plugin](https://github.com/burzum/cakephp-imagine-plugin) - An image manipulation plugin and wrapper around [Imagine](https://github.com/avalanche123/Imagine).
 
 ## Testing
 *Plugins/Tools for testing codebases and generating test data.*
@@ -201,7 +202,7 @@ Focus is on the specific task.
 - [CakePdf plugin](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
 
 ## ORM and Datamapping
-*Plugins that implement object-relational mapping or datamapping techniques.*
+*Plugins that implement object-relational mapping or data-mapping techniques.*
 
 - ~~[Datasources plugin](https://github.com/cakephp/datasources) - Lots of different datasources.~~
 
@@ -230,8 +231,6 @@ Focus is on the specific task.
 ## Authentication and Authorization
 *Plugins and libraries for implementing authentication and authorization.*
 
-- [AnnotationControlList pluin](https://github.com/josegonzalez/cakephp-annotation-control-list) - Lightweight annotation-based ACL as plugin.
-- [Acl plugin](https://github.com/cakephp/acl) - Access Controll List plugin (extracted from the CakePHP2.x core into a plugin).
 - [Authenticate plugin](https://github.com/FriendsOfCake/Authenticate) - Authentication classes for AuthComponent.
 - [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) - A simple Cake 3 plugin to automatically authenticate users with Cookies.
 - [HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) - A plugin which allows using the [HybridAuth](https://github.com/hybridauth/hybridauth) social sign on library with CakePHP.
@@ -448,8 +447,13 @@ Written for CakePHP3.x.
 *Regional meet-ups.*
 
 - [CakePHP-DE](http://www.meetup.com/CakePHP-DE) - MeetUps in Germany.
+- [CakePHP-NewYork](http://www.meetup.com/nyc-cakephp/) - MeetUps in the New York Metropolitan Area.
 - [CakePHP-NL](http://www.meetup.com/CakePHP-NL) - MeetUps in Netherlands.
 - [CakePHP-Paris](http://www.meetup.com/CakePHP-Paris/) - [CakePHP-Toulouse](http://www.meetup.com/CakePHP-Toulouse/) - MeetUps in France.
 
+
 # Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+
+## Credits
+awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark) and is currently maintained by him and the FriendsOfCake group. Thank you to all [contributors](https://github.com/FriendsOfCake/awesome-cakephp/contributors), too.
