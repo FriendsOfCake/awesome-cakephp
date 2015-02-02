@@ -130,9 +130,9 @@ Focus is on the specific task.
 - [PHPUnit plugin](https://github.com/dereuromark/cakephp-phpunit) - An easy way to install PHPUnit if you are not using composer.
 
 ## Security
-*Plugins for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
+*Plugins and information around security, vulnerabilities and protection against XSS and alike.*
 
-- ?
+- (Saving model data and security)[http://www.dereuromark.de/2010/09/21/saving-model-data-and-security/] - Information on what to be careful about in 2.x when using CRUD forms and saving data.
 
 ## Code Analysis
 *Plugins for analysing, parsing and manipulation codebases.*
