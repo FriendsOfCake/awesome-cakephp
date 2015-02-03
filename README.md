@@ -205,6 +205,7 @@ Focus is on the specific task.
 *Plugins that implement object-relational mapping or data-mapping techniques.*
 
 - ~~[Datasources plugin](https://github.com/cakephp/datasources) - Lots of different datasources.~~
+- [Soft delete plugin](https://github.com/PGBI/cakephp3-soft-delete) - Soft delete for CakePHP models.
 
 ## NoSQL
 *Plugins for working with "NoSQL" backends.*
