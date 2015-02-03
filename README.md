@@ -204,6 +204,7 @@ Focus is on the specific task.
 ## ORM and Datamapping
 *Plugins that implement object-relational mapping or data-mapping techniques.*
 
+- [SoftDelete plugin](https://github.com/PGBI/cakephp3-soft-delete) - Soft delete for CakePHP models.
 - ~~[Datasources plugin](https://github.com/cakephp/datasources) - Lots of different datasources.~~
 
 ## NoSQL
