@@ -355,6 +355,7 @@ Focus is on the specific task.
 ## Development Environment
 *Software and tools for creating a sandboxed development environment.*
 
+- [Cakebox](https://github.com/alt3/cakebox) - A Vagrant development environment powered by the CakePHP 3.x Console.
 - [PuPHPet](https://puphpet.com/) - Web interface for building a Vagrant + Puppet box.
 - [Puppet](http://puppetlabs.com/) - A server automation framework and application.
 - [Vagrant](http://www.vagrantup.com/) - A portable development environment utility.
