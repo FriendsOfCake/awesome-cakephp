@@ -132,6 +132,7 @@ Focus is on the specific task.
 ## Security
 *Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*
 
+- [Xcrypto](https://github.com/Simbacode/xcrypto) -  Allows excyption of request to and from cakephp server using DES,AES,PHP,HASH,RC4,RSA,Rijndael,TripleDES
 - [Saving model data and security](http://www.dereuromark.de/2010/09/21/saving-model-data-and-security/) - Information on what to be careful about in 2.x when using CRUD forms and saving data.
 
 ## Code Analysis
