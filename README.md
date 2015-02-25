@@ -82,6 +82,11 @@ Focus is on the specific task.
 - [GraphVizModels plugin](https://github.com/mamchenkov/CakePHP-GraphViz-Models) - Display your model relations graphically.
 - [Setup plugin](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing setup tabs at the bottom.
 
+## Admin interface
+*Plugins for your admin-area and managing*
+
+- [CakeManager plugin](https://github.com/cakemanager/cakephp-cakemanager) - Manager your app: User-Management, use the admin-area and many components and behaviors available for your app.
+
 ## Templating
 *Plugins for templating and lexing.*
 
@@ -301,6 +306,7 @@ Focus is on the specific task.
 - [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells, ...
 - [Travis](https://github.com/FriendsOfCake/travis) - Easy travis setup for CakePHP plugins.
 - [Users plugin](https://github.com/CakeDC/users) - For allowing users to register and login manage their profile.
+- [CakeManager plugin](https://github.com/cakemanager/cakephp-cakemanager) -Basic User-Management system with multiple roles like admin, moderators and normal users.
 
 ## Libs
 *Useful libraries or tools that don't fit in the categories above.*
