@@ -18,6 +18,7 @@ Focus is on the specific task.
 	- [Skeleton](#skeleton)
 	- [Environment](#environment)
 	- [Debugging](#debugging)
+	- [Admin Interface](#admin-interface-and-utilities)
 	- [Templating](#templating)
 	- [Email](#email)
 	- [Files](#files)
@@ -88,6 +89,11 @@ Focus is on the specific task.
 - ~~[Airbrake plugin](https://github.com/morrislaptop/AirbrakeCake) - Integrate Airbrake for CakePHP exceptions and errors~~
 - ~~[ClearCache plugin](https://github.com/ceeram/clear_cache) - For easily clearing the app cache(s).~~
 - ~~[GraphVizModels plugin](https://github.com/mamchenkov/CakePHP-GraphViz-Models) - Display your model relations graphically.~~
+
+## Admin Interface and Utilities
+*Plugins for your admin-area and managing*
+
+- [CakeManager plugin](https://github.com/cakemanager/cakephp-cakemanager) - Manage your app: User-Management, built in admin-area and many components and behaviors available for your app.
 
 ## Templating
 *Plugins for templating and lexing.*
