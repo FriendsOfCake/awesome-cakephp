@@ -18,7 +18,6 @@ Focus is on the specific task.
 	- [Skeleton](#skeleton)
 	- [Environment](#environment)
 	- [Debugging](#debugging)
-	- [Admin Interface](#admin-interface-and-utilities)
 	- [Templating](#templating)
 	- [Email](#email)
 	- [Files](#files)
@@ -89,11 +88,6 @@ Focus is on the specific task.
 - ~~[Airbrake plugin](https://github.com/morrislaptop/AirbrakeCake) - Integrate Airbrake for CakePHP exceptions and errors~~
 - ~~[ClearCache plugin](https://github.com/ceeram/clear_cache) - For easily clearing the app cache(s).~~
 - ~~[GraphVizModels plugin](https://github.com/mamchenkov/CakePHP-GraphViz-Models) - Display your model relations graphically.~~
-
-## Admin Interface and Utilities
-*Plugins for your admin-area and managing*
-
-- [CakeManager plugin](https://github.com/cakemanager/cakephp-cakemanager) - Manage your app: User-Management, built in admin-area and many components and behaviors available for your app.
 
 ## Templating
 *Plugins for templating and lexing.*
@@ -343,6 +337,7 @@ Focus is on the specific task.
 - ~~[Jsonrpc plugin](https://github.com/jameswatts/cake-jsonrpc) - Provides server and client implementations of JSON-RPC.~~
 - ~~[Users plugin](https://github.com/CakeDC/users) - For allowing users to register and login manage their profile.~~
 - ~~[MaintenanceMode plugin](https://github.com/awebdeveloper/cakephp-maintenance-mode) - Show a custom template for all requests when in maintainance with optional IP whitelisting.~~
+- [CakeManager plugin](https://github.com/cakemanager/cakephp-cakemanager) - Manage your app: User-Management, built in admin-area and many components and behaviors available for your app.
 
 ## Libs
 *Useful libraries or tools that don't fit in the categories above.*
