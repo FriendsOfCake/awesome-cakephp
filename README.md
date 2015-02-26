@@ -325,6 +325,7 @@ Focus is on the specific task.
 *Misc plugins and libraries*
 
 - [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
+- [CakeManager plugin](https://github.com/cakemanager/cakephp-cakemanager) - Manage your app: User-Management, built in admin-area and many components and behaviors available for your app.
 - [Dashboard plugin](https://github.com/gourmet/dashboard) - Build beautiful dashboards for your cakes!
 - [Sequence plugin](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
 - [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/cake3/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
