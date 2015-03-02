@@ -41,6 +41,7 @@ Focus is on the specific task.
 	- [Search](#search)
 	- [Security](#security)
 	- [Skeleton](#skeleton)
+	- [Social](#social)
 	- [Templating](#templating)
 	- [Testing](#testing)
 	- [Third Party APIs](#third-party-apis)
