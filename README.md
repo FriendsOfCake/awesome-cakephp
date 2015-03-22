@@ -218,6 +218,7 @@ Focus is on the specific task.
 ## Queue
 *Plugins for working with event and task queues.*
 
+- ~~[CakeDjjob plugin](https://github.com/josegonzalez/cakephp-cake-djjob) - Quick and easy job queues, based on [delayed_job](https://github.com/seatgeek/djjob).~~
 - ~~[CakeResque plugin](https://github.com/kamisama/Cake-Resque) - A plugin for Resque, a library for creating background jobs.~~
 - ~~[Queue plugin](https://github.com/dereuromark/cakephp-queue) - A minimal dependency-free CakePHP only plugin around Queue.~~
 
@@ -296,6 +297,8 @@ Focus is on the specific task.
 - ~~[Feedback plugin](https://github.com/lecterror/cakephp-feedback-plugin) - Providing feedback.~~
 - ~~[Like plugin](https://github.com/aschelch/cakephp-like-plugin) - Provides a feature similar to Facebook "Like".~~
 - ~~[Ratings plugin](https://github.com/CakeDC/ratings) - Allows users to rate records.~~
+- ~~[SocialShare plugin](https://github.com/drmonkeyninja/cakephp-social-share) - Link generator for sharing content on social networks.~~
+- ~~[Twitter plugin](https://github.com/mishudark/CakePHP-2.x-Twitter-Plugin) - A library to interface with Twitter and its OAuth workflow.~~
 
 ## SEO
 *Search Engine Optimization*
@@ -462,7 +465,7 @@ Written for CakePHP3.x.
 - [CakePHP-DE](http://www.meetup.com/CakePHP-DE) - MeetUps in Germany.
 - [CakePHP-NewYork](http://www.meetup.com/nyc-cakephp/) - MeetUps in the New York Metropolitan Area.
 - [CakePHP-NL](http://www.meetup.com/CakePHP-NL) - MeetUps in Netherlands.
-- [CakePHP-Paris](http://www.meetup.com/CakePHP-Paris/) - [CakePHP-Toulouse](http://www.meetup.com/CakePHP-Toulouse/) - MeetUps in France.
+- [CakePHP-France](http://www.meetup.com/CakePHP-France) - MeetUps in France.
 
 
 # Contributing
