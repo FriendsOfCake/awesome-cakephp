@@ -5,7 +5,7 @@ Also see [plugins.cakephp.org/packages/categories](http://plugins.cakephp.org/pa
 You may also want to check out the PHP list at [awesome-php](https://github.com/dereuromark/awesome-php) as well as the generic
 [awesome-awesomeness](https://github.com/dereuromark/awesome-awesomeness) list.
 
-This list is specifically for **CakePHP3.x**.
+This list is specifically for **CakePHP 3.x** (for CakePHP 2.x please see the `cake2` branch).
 It is a recommendation for good plugins and solutions for this major CakePHP version.
 
 **Note**: ~~Strike-through~~ means, that this CakePHP2.x plugin/resource has not yet been upgraded to 3.x.
