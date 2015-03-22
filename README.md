@@ -158,8 +158,8 @@ Focus is on the specific task.
 ## Code Analysis
 *Plugins for analysing, parsing and manipulation codebases.*
 
+- [NewRelic plugin](https://github.com/jippi/cakephp-newrelic/tree/cake3) - Using New Relic for analysis and monitoring.
 - ~~[NewRelic plugin](https://github.com/jeremyharris/cakephp-newrelic) - Makes analyzing your CakePHP app in New Relic easier.~~
-- ~~[NewRelic plugin](https://github.com/jippi/cakephp-newrelic) - Using New Relic for analysis and monitoring.~~
 
 ## Navigation
 *Tools for building navigation structures.*
