@@ -149,6 +149,7 @@ Focus is on the specific task.
 - [CodeSniffer plugin sniffs](https://github.com/dereuromark/codesniffer-rules) - Sniff packages/rules compatible with phpcs-fixer branch and the CodeSniffer plugin.
 - [CodeSniffer plugin](https://github.com/dereuromark/cakephp-codesniffer) - Auto-find code issues/smells and auto-fix CS errors.
 - [Faker plugin](https://github.com/gourmet/faker) - [Faker](https://github.com/fzaninotto/Faker) support for CakePHP fixtures.
+- [Muffin plugin](https://github.com/gourmet/muffin) - [FactoryMuffin](https://github.com/thephpleague/factory-muffin) support for CakePHP fixture records.
 
 ## Security
 *Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*
@@ -206,6 +207,7 @@ Focus is on the specific task.
 ## ORM and Datamapping
 *Plugins that implement object-relational mapping or data-mapping techniques.*
 
+- [Money plugin](https://github.com/gourmet/money) - Money data type for CakePHP entities using [sebastianbergmann/money](https://github.com/sebastianbergmann/money).
 - [SoftDelete plugin](https://github.com/PGBI/cakephp3-soft-delete) - Soft delete for CakePHP models.
 - ~~[Datasources plugin](https://github.com/cakephp/datasources) - Lots of different datasources.~~
 
