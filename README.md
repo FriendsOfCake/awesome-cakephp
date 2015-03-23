@@ -229,6 +229,7 @@ Focus is on the specific task.
 
 - [ElasticSearch plugin](https://github.com/cakephp/elastic-search) - Alternative ORM using Elastic Search as its backend.
 - [Search plugin](https://github.com/CakeDC/) - De-facto search form standard built on RPG pattern.
+- [PlumSearch plugin](https://github.com/skie/plum_search) - Search plugin implements custom, flexible and extendable search strategies. Implements rpg pattern.
 - ~~[Elastic plugin](https://github.com/dkullmann/CakePHP-Elastic-Search-DataSource) - Connecting models to Elastic search types.~~
 - ~~[OpenSearch plugin](https://github.com/dereuromark/cakephp-opensearch) - For creating installable search plugins for IE, Firefox and Chrome.~~
 - ~~[SimpleScope](https://github.com/josegonzalez/cakephp-simple-scope) - For scoping finds.~~
