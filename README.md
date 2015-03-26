@@ -287,7 +287,7 @@ Focus is on the specific task.
 ## I18n
 *Plugins for I18n (Internationalization) and L10n (Localization)*
 
-- [ShadowTranslate plugin](https://github.com/AD7six/cakephp-shadow-translate) - A shadow table based replacement for core's Translate plugin.
+- [ShadowTranslate plugin](https://github.com/AD7six/cakephp-shadow-translate) - A plugin with shadow table based replacement for core's Translate behavior.
 - [I18nMessages plugin](https://github.com/ADmad/cakephp-i18n-messages) - A plugin for storing translation string in database instead of PO files.
 - ~~[Localized plugin](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files.~~
 - ~~[Transifex plugin](https://github.com/dereuromark/cakephp-transifex) - Imports locales via Transifex API.~~
