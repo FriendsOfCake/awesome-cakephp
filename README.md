@@ -311,7 +311,6 @@ Focus is on the specific task.
 - [Sluggable plugin](https://github.com/Xety/Cake3-Sluggable) - A simple Cake3 plugin to slug fields and find records by slug.
 - ~~[Seo plugin](https://github.com/webtechnick/CakePHP-Seo-Plugin) - SEO plugin.~~
 - ~~[Sitemap plugin](http://plugins.cakephp.org/p/1681-CakePHP-Sitemap) - Generates HTML and XML sitemaps for your CakePHP application.~~
-- ~~[Slugger plugin](https://github.com/jeremyharris/slugger) - Automatically slugs URLs.~~
 
 ## Third Party APIs
 *Plugins for accessing third party APIs.*
