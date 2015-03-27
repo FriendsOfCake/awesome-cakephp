@@ -342,6 +342,7 @@ Focus is on the specific task.
 - [Travis](https://github.com/FriendsOfCake/travis) - Easy travis setup for CakePHP plugins.
 - [UserTools plugin](https://github.com/burzum/cakephp-user-tools) - User tools for login, registration, password reset and more. Works out of the box CRUD like and is highly configurable.
 - [Utils plugin](https://github.com/cakemanager/cakephp-utils) - Containing useful components (Authorizer, Menu) and behaviors (WhoDidIt, Uploadable, Metas, Stateable).
+- [WhosOnline plugin](https://github.com/cakemanager/cakephp-whosonline) - Tracks your logged in users (login-counts, last-login, last-seen, and more).
 - [Yaml plugin](https://github.com/chobo1210/Cake-Yaml) - For using YAML config files instead of PHP arrays.
 - ~~[Dotcake](https://github.com/dotcake/dotcake) - Provides CakePHP project info for editor's cakephp plugins.~~
 - ~~[Ftp plugin](https://github.com/fotografde/cakephp-ftp) - FTP/SFTP plugin.~~
