@@ -128,6 +128,7 @@ Focus is on the specific task.
 
 - [CakePHP CodeSniffer rules](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
 - [CodeSniffer plugin](https://github.com/dereuromark/cakephp-codesniffer) - A plugin to auto-find and auto-fix almost all CS errors.
+- [CodeSniffer plugin sniffs](https://github.com/dereuromark/codesniffer-standards) - Sniff packages/rules compatible with phpcs-fixer branch and the CodeSniffer plugin.
 - [PHPUnit plugin](https://github.com/dereuromark/cakephp-phpunit) - An easy way to install PHPUnit if you are not using composer.
 
 ## Security
@@ -396,7 +397,6 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 - [CakePHP Podcast](http://podcast.cakephp.org/) - The official CakePHP podcasts.
 - [CakePHP Reporter](http://www.scoop.it/t/cakephp-reporter) - a newspaper and collection of material about CakePHP.
-- [Cheat Sheet](http://cakephpcheatsheet.com) - Lot of Code Snippets for the CakePHP Framework.
 - [Cookbook(!)](http://book.cakephp.org/2.0/en/index.html) - The official documentation.
 
 ## CakePHP Internals Reading
