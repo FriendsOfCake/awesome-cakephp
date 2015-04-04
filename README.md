@@ -146,8 +146,8 @@ Focus is on the specific task.
 
 - [CakePHP Codeception module](https://github.com/cakephp/codeception) - The official CakePHP integration with [Codeception](http://codeception.com).
 - [CakePHP CodeSniffer rules](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
-- [CodeSniffer plugin sniffs](https://github.com/dereuromark/codesniffer-rules) - Sniff packages/rules compatible with phpcs-fixer branch and the CodeSniffer plugin.
 - [CodeSniffer plugin](https://github.com/dereuromark/cakephp-codesniffer) - Auto-find code issues/smells and auto-fix CS errors.
+- [CodeSniffer plugin sniffs](https://github.com/dereuromark/codesniffer-standards) - Sniff packages/rules compatible with phpcs-fixer branch and the CodeSniffer plugin.
 - [Faker plugin](https://github.com/gourmet/faker) - [Faker](https://github.com/fzaninotto/Faker) support for CakePHP fixtures.
 - [Muffin plugin](https://github.com/gourmet/muffin) - [FactoryMuffin](https://github.com/thephpleague/factory-muffin) support for CakePHP fixture records.
 
@@ -447,7 +447,6 @@ Written for CakePHP3.x.
 
 - [Cookbook(!)](http://book.cakephp.org/2.0/en/index.html) - The official documentation.
 - [CakePHP Podcast](http://podcast.cakephp.org/) - The official CakePHP podcasts.
-- [Cheat Sheet](http://cakephpcheatsheet.com) - Lot of Code Snippets for the CakePHP Framework.
 - [CakePHP Reporter](http://www.scoop.it/t/cakephp-reporter) - a newspaper and collection of material about CakePHP.
 
 ## CakePHP Internals Reading
