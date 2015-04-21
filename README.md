@@ -309,6 +309,7 @@ Focus is on the specific task.
 *Search Engine Optimization*
 
 - [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
+- [Slug plugin](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
 - [Sluggable plugin](https://github.com/Xety/Cake3-Sluggable) - A simple Cake3 plugin to slug fields and find records by slug.
 - ~~[Seo plugin](https://github.com/webtechnick/CakePHP-Seo-Plugin) - SEO plugin.~~
 - ~~[Sitemap plugin](http://plugins.cakephp.org/p/1681-CakePHP-Sitemap) - Generates HTML and XML sitemaps for your CakePHP application.~~
