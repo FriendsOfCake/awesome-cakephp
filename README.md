@@ -383,6 +383,7 @@ Focus is on the specific task.
 
 - [QuickApps-CMS](https://github.com/QuickAppsCMS/QuickApps-CMS) - Open source content management system.
 - ~~[Croogo](https://github.com/croogo/croogo) - Open source content management system.~~
+- [CakeBlog](https://github.com/gwhitcher/CakeBlog) - Open source blog software.
 
 Based on CakePHP3.x.
 
