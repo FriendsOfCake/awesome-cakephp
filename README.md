@@ -381,6 +381,7 @@ Focus is on the specific task.
 
 ## CMS and applications built on CakePHP
 
+- [CakeBlog](https://github.com/gwhitcher/CakeBlog) - Open source blog software.
 - [QuickApps-CMS](https://github.com/QuickAppsCMS/QuickApps-CMS) - Open source content management system.
 - ~~[Croogo](https://github.com/croogo/croogo) - Open source content management system.~~
 
