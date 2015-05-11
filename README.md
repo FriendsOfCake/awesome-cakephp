@@ -113,6 +113,7 @@ Focus is on the specific task.
 ## Telephone
 *Plugins for telephone calls, messaging.*
 
+- [SMSFly plugin](https://github.com/imsamurai/cakephp-sms-fly-datasource) - Data source for sending SMS via sms-fly.
 - [Sms plugin](https://github.com/fotografde/cakephp-sms) - Send SMS as easily as with CakeEmail.
 
 ## Files
@@ -289,7 +290,6 @@ Focus is on the specific task.
 *Plugins for accessing third party APIs.*
 
 - [AmazonSdk plugin](https://github.com/mcallisto/cakephp-amazon-aws-sdk) - A plugin around PHP AWS SDK library.
-- [SMSFly plugin](https://github.com/imsamurai/cakephp-sms-fly-datasource) - Data source for sending SMS via sms-fly.
 
 ## Migration
 *Plugins and resources around migration and upgrading*
