@@ -20,6 +20,7 @@ Focus is on the specific task.
 	- [Debugging](#debugging)
 	- [Dependency Injection](#dependency-injection)
 	- [E-commerce](#e-commerce)
+	- [Email](#email)
 	- [Environment](#environment)
 	- [Filtering and Validation](#filtering-and-validation)
 	- [Geolocation](#geolocation)
@@ -42,6 +43,7 @@ Focus is on the specific task.
 	- [Security](#security)
 	- [Skeleton](#skeleton)
 	- [Social](#social)
+	- [Telephone](#telephone)
 	- [Templating](#templating)
 	- [Testing](#testing)
 	- [Third Party APIs](#third-party-apis)
@@ -107,6 +109,12 @@ Focus is on the specific task.
 - [Mandrill plugin](https://github.com/a2design-company/Mandrill-CakePHP-plugin) - Sending Email using Mandrill.
 - [Postmark plugin](https://github.com/maurymmarques/postmark-cakephp) - Makes email delivery using Postmark.
 - [SendGrid plugin](https://github.com/a2design-company/sendgrid-webapi-cakephp-plugin) - CakePHP plugin for SendGrid WebAPI.
+
+## Telephone
+*Plugins for telephone calls, messaging.*
+
+- [SMSFly plugin](https://github.com/imsamurai/cakephp-sms-fly-datasource) - Data source for sending SMS via sms-fly.
+- [Sms plugin](https://github.com/fotografde/cakephp-sms) - Send SMS as easily as with CakeEmail.
 
 ## Files
 *Plugins for file manipulation.*
@@ -282,7 +290,6 @@ Focus is on the specific task.
 *Plugins for accessing third party APIs.*
 
 - [AmazonSdk plugin](https://github.com/mcallisto/cakephp-amazon-aws-sdk) - A plugin around PHP AWS SDK library.
-- [SMSFly plugin](https://github.com/imsamurai/cakephp-sms-fly-datasource) - Data source for sending SMS via sms-fly.
 
 ## Migration
 *Plugins and resources around migration and upgrading*
