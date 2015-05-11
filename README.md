@@ -20,6 +20,7 @@ Focus is on the specific task.
 	- [Debugging](#debugging)
 	- [Templating](#templating)
 	- [Email](#email)
+	- [Telephone](#telephone)
 	- [Files](#files)
 	- [Dependency Injection](#dependency-injection)
 	- [Imagery](#imagery)
@@ -121,6 +122,11 @@ Focus is on the specific task.
 - ~~[EmailQueue plugin](https://github.com/nodesagency/cakephp-email-queue) - An email queue solution.~~
 - ~~[Mailchimp plugin](https://github.com/dereuromark/cakephp-mailchimp) - The Mailchimp and Mandrill plugin.~~
 - ~~[Postmark plugin](https://github.com/maurymmarques/postmark-cakephp) - Makes email delivery using Postmark.~~
+
+## Telephone
+*Plugins for telephone calls, messaging.*
+
+- [Sms plugin](https://github.com/fotografde/cakephp-sms) - Send SMS as easily as with CakeEmail.
 
 ## Files
 *Plugins for file manipulation.*
