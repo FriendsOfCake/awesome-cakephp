@@ -290,9 +290,9 @@ Focus is on the specific task.
 *Plugins for I18n (Internationalization) and L10n (Localization)*
 
 - [I18nMessages plugin](https://github.com/ADmad/cakephp-i18n-messages) - A plugin for storing translation string in database instead of PO files.
-- ~~[Localized plugin](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files.~~
 - [ShadowTranslate plugin](https://github.com/AD7six/cakephp-shadow-translate) - A plugin with shadow table based replacement for core's Translate behavior.
-- ~~[Transifex plugin](https://github.com/dereuromark/cakephp-transifex) - Imports locales via Transifex API.~~
+- [Transifex plugin](https://github.com/dereuromark/cakephp-transifex) - Managing i18n PO files and translations via Transifex API.
+- ~~[Localized plugin](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files.~~
 
 ## Social
 *Plugins around social features*
