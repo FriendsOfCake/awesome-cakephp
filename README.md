@@ -309,6 +309,7 @@ Focus is on the specific task.
 - [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup) - Maintenance shell to go into maintenance mode for all requests with optional IP white-listing.
 - [Shim plugin](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 - [MobileDetect plugin](https://github.com/chronon/CakePHP-MobileDetectComponent-Plugin) - Identifying mobile devices using the Mobile_Detect project.
+- [Rss plugin](https://github.com/drmonkeyninja/cakephp-rss) - RSS feed datasource.
 - [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells, ...
 - [Travis](https://github.com/FriendsOfCake/travis) - Easy travis setup for CakePHP plugins.
 - [Users plugin](https://github.com/CakeDC/users) - For allowing users to register and login manage their profile.
