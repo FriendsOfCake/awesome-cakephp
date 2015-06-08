@@ -271,7 +271,7 @@ Focus is on the specific task.
 ## REST and API
 *Plugins and web tools for developing REST-ful APIs.*
 
-- [CORS plugin](https://github.com/snelg/cakephp-cors) - A lightweight plugin for adding CORS headers to specified endpoints.
+- [Cors plugin](https://github.com/snelg/cakephp-cors) - A lightweight plugin for adding CORS headers to specified endpoints.
 - ~~[Rest plugin](https://github.com/kvz/cakephp-rest-plugin) - a painless REST server Plugin for CakePHP.~~
 
 ## Caching
