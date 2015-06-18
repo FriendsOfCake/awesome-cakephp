@@ -90,6 +90,7 @@ Focus is on the specific task.
 
 - [Address plugin](https://github.com/drmonkeyninja/cakephp-address) - An address helper that outputs a marked up address.
 - [BoostCake plugin](https://github.com/slywalker/cakephp-plugin-boost_cake) - A Twitter Bootstrap plugin.
+- [BsHelpers plugin](https://github.com/WebAndCow/CakePHP-BsHelpers) - Extension of the CakePHP's FormHelper and HtmlHelper to use the framework Bootstrap 3 more easily.
 - [CML plugin](https://github.com/jameswatts/cake-markup-language) - Provides further abstraction of the View layer by replacing the procedural PHP code with an XML based markup.
 - [CTK plugin](https://github.com/jameswatts/cake-toolkit) - Allows views to be defined as a class.
 - [CakeExcel plugin](https://github.com/dakota/CakeExcel) - An Excel view to generate XLSX files.
