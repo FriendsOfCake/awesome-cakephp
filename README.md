@@ -231,6 +231,7 @@ Focus is on the specific task.
 
 - [ElasticSearch plugin](https://github.com/cakephp/elastic-search) - Alternative ORM using Elastic Search as its backend.
 - [Search plugin](https://github.com/CakeDC/search) - De-facto search form standard built on PRG pattern.
+- [Search pluggin](https://github.com/FriendsOfCake/search) - Search provides a search module for CakePHP applications.
 - [PlumSearch plugin](https://github.com/skie/plum_search) - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern.
 - ~~[Elastic plugin](https://github.com/dkullmann/CakePHP-Elastic-Search-DataSource) - Connecting models to Elastic search types.~~
 - ~~[OpenSearch plugin](https://github.com/dereuromark/cakephp-opensearch) - For creating installable search plugins for IE, Firefox and Chrome.~~
