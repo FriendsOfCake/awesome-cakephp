@@ -29,7 +29,7 @@ Focus is on the specific task.
 	- [Navigation](#navigation)
 	- [Asset Management](#asset-management)
 	- [Geolocation](#geolocation)
-	- [Logging](#logging)
+	- [Auditing / Logging](#auditing--logging)
 	- [E-commerce](#e-commerce)
 	- [PDF](#pdf)
 	- [ORM and Datamapping](#orm-and-datamapping)
