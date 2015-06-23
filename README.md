@@ -199,7 +199,7 @@ Focus is on the specific task.
 - ~~[Payments plugin](https://github.com/burzum/cakephp-payments-plugin) - Generic Payment Interface.~~
 - ~~[Paypal plugin](https://github.com/robmcvey/cakephp-paypal) - To interact with Paypal's "classic" and new REST APIs.~~
 - ~~[PaypalSource plugin](https://github.com/jlkaufman/cakephp-paypal-rest-client) - A Paypal REST client plugin.~~
-- ~~[Stripe](https://github.com/chronon/CakePHP-StripeComponent-Plugin) - A Stripe component.~~
+- ~~[Stripe plugin](https://github.com/chronon/CakePHP-StripeComponent-Plugin) - A Stripe component.~~
 
 ## PDF
 *Plugins and software for working with PDF files.*
@@ -236,7 +236,7 @@ Focus is on the specific task.
 - [PlumSearch plugin](https://github.com/skie/plum_search) - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern.
 - ~~[Elastic plugin](https://github.com/dkullmann/CakePHP-Elastic-Search-DataSource) - Connecting models to Elastic search types.~~
 - ~~[OpenSearch plugin](https://github.com/dereuromark/cakephp-opensearch) - For creating installable search plugins for IE, Firefox and Chrome.~~
-- ~~[SimpleScope](https://github.com/josegonzalez/cakephp-simple-scope) - For scoping finds.~~
+- ~~[SimpleScope plugin](https://github.com/josegonzalez/cakephp-simple-scope) - For scoping finds.~~
 - ~~[Tags plugin](https://github.com/CakeDC/tags) - Tagging records the easy way.~~
 
 ## Authentication and Authorization
