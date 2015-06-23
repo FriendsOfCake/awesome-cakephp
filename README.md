@@ -8,7 +8,7 @@ You may also want to check out the PHP list at [awesome-php](https://github.com/
 This list is specifically for **CakePHP 3.x** (for CakePHP 2.x please see the `cake2` branch).
 It is a recommendation for good plugins and solutions for this major CakePHP version.
 
-**Note**: ~~Strike-through~~ means, that this CakePHP2.x plugin/resource has not yet been upgraded to 3.x.
+**Note**: ~~Strike-through~~ means, that this CakePHP 2.x plugin/resource has not yet been upgraded to 3.x.
 
 The main advantage of this list compared to plugins.cakephp.org is, that here it can also be
 a subpart of a plugin - instead of only the whole plugin/repo itself. The grouping might also be more granular.
@@ -71,7 +71,7 @@ Focus is on the specific task.
 - [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
 - [Crud plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code.
 - [Plugin Skeleton](https://github.com/Xety/Cake3-PluginSkeleton) - A skeleton example to create a Cake3 plugin.
-- ~~[Bake template "setup"](https://github.com/dereuromark/cakephp-setup/tree/master/Console/Templates/setup) - An example template on how customization of bake templates is possible.~~
+- ~~[Bake template "setup"](https://github.com/dereuromark/cakephp-setup/tree/2.x/Console/Templates/setup) - An example template on how customization of bake templates is possible.~~
 
 ## Environment
 *Plugins for enviroment*
