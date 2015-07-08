@@ -282,6 +282,7 @@ Focus is on the specific task.
 ## Caching
 *Plugins for caching data.*
 
+- [Cache plugin](https://github.com/dereuromark/cakephp-cache) - For caching views (HTML, CSV, JSON, XML, ...) as static cache files.
 - ~~[AutoCache plugin](https://github.com/ndejong/CakephpAutocachePlugin) - A plugin that makes query caching easy.~~
 - ~~[Cacher plugin](https://github.com/jeremyharris/cacher) - A plugin that caches query results.~~
 - ~~[UrlCache plugin](https://github.com/dereuromark/url_cache) - Automatically cache the results of calls to Router.~~
