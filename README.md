@@ -156,6 +156,7 @@ Focus is on the specific task.
 ## Security
 *Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*
 
+- [CipherBehavior plugin](https://github.com/adayth/cakephp-cipher-behavior) - Cipher your entities data with this behavior. Encryption is done at PHP level using CakePHP Security class.
 - ~~[Saving model data and security](http://www.dereuromark.de/2010/09/21/saving-model-data-and-security/) - Information on what to be careful about in 2.x when using CRUD forms and saving data.~~
 
 ## Code Analysis
