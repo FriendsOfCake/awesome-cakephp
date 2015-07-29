@@ -354,6 +354,7 @@ Focus is on the specific task.
 - [Shim plugin](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 - [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells, ...
 - [Travis](https://github.com/FriendsOfCake/travis) - Easy travis setup for CakePHP plugins.
+- [UniqueKey plugin](https://github.com/LubosRemplik/CakePHP-UniqueKey) - A plugin which generates human readable (yyddmmxxx) unique keys.
 - [UserTools plugin](https://github.com/burzum/cakephp-user-tools) - User tools for login, registration, password reset and more. Works out of the box CRUD like and is highly configurable.
 - [Utils plugin](https://github.com/cakemanager/cakephp-utils) - Containing useful components (Authorizer, Menu) and behaviors (WhoDidIt, Uploadable, Metas, Stateable).
 - [Yaml plugin](https://github.com/chobo1210/Cake-Yaml) - For using YAML config files instead of PHP arrays.
