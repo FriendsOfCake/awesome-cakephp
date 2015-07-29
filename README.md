@@ -213,6 +213,7 @@ Focus is on the specific task.
 *Plugins that implement object-relational mapping or data-mapping techniques.*
 
 - [Money plugin](https://github.com/gourmet/money) - Money data type for CakePHP entities using [sebastianbergmann/money](https://github.com/sebastianbergmann/money).
+- [Muffin/Trash plugin](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
 - [SoftDelete plugin](https://github.com/PGBI/cakephp3-soft-delete) - Soft delete for CakePHP models.
 - [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models.
 - ~~[Datasources plugin](https://github.com/cakephp/datasources) - Lots of different datasources.~~
