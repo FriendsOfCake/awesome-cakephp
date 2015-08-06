@@ -247,6 +247,7 @@ Focus is on the specific task.
 *Plugins and libraries for implementing authentication and authorization.*
 
 - [Authenticate plugin](https://github.com/FriendsOfCake/Authenticate) - Authentication classes for AuthComponent.
+- [CakeDC Users plugin](https://github.com/CakeDC/users/tree/3.x) - For allowing users to register and login, manage their profile and account validation. Social Login, RBAC, remember me, SuperUser authorize, forgot password, admin management, etc.
 - [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) - A simple Cake 3 plugin to automatically authenticate users with Cookies.
 - [HierAuth plugin](https://github.com/btaens/cakephp-hier-auth) - A CakePHP plugin for hierarchical, role based, simple authorization.
 - [HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) - A plugin which allows using the [HybridAuth](https://github.com/hybridauth/hybridauth) social sign on library with CakePHP.
@@ -360,7 +361,6 @@ Focus is on the specific task.
 - ~~[Dotcake](https://github.com/dotcake/dotcake) - Provides CakePHP project info for editor's cakephp plugins.~~
 - ~~[Ftp plugin](https://github.com/fotografde/cakephp-ftp) - FTP/SFTP plugin.~~
 - ~~[Jsonrpc plugin](https://github.com/jameswatts/cake-jsonrpc) - Provides server and client implementations of JSON-RPC.~~
-- ~~[Users plugin](https://github.com/CakeDC/users) - For allowing users to register and login manage their profile.~~
 - ~~[MaintenanceMode plugin](https://github.com/awebdeveloper/cakephp-maintenance-mode) - Show a custom template for all requests when in maintainance with optional IP whitelisting.~~
 
 ## Libs
