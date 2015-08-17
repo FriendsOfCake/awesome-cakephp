@@ -355,6 +355,7 @@ Based on CakePHP2.x.
 
 - [CakeFest](http://cakefest.dereuromark.de/) - Demo application around the annual CakePHP Conference "CakeFest".
 - [CakePHP Sandbox](http://sandbox.dereuromark.de) - A sandbox CakePHP application.
+- [GHREPO.info](http://ghrepo.info) ([source](http://sgithub.com/chrisvogt/ghrepo-info)) - Displays repository information from the GitHub API. Built on top of Friends Of Cake's [app-template](https://github.com/FriendsOfCake/app-template).
 
 Based on CakePHP2.x.
 
