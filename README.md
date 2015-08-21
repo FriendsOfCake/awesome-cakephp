@@ -238,9 +238,8 @@ Focus is on the specific task.
 - [Search plugin](https://github.com/CakeDC/search) - De-facto search form standard built on PRG pattern.
 - [Search plugin](https://github.com/FriendsOfCake/search) - Search provides a search module for CakePHP applications.
 - [PlumSearch plugin](https://github.com/skie/plum_search) - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern.
-- ~~[Elastic plugin](https://github.com/dkullmann/CakePHP-Elastic-Search-DataSource) - Connecting models to Elastic search types.~~
+- [Tags plugin](https://github.com/usemuffin/tags) - For tagging and finding tagged records
 - ~~[OpenSearch plugin](https://github.com/dereuromark/cakephp-opensearch) - For creating installable search plugins for IE, Firefox and Chrome.~~
-- ~~[SimpleScope plugin](https://github.com/josegonzalez/cakephp-simple-scope) - For scoping finds.~~
 - ~~[Tags plugin](https://github.com/CakeDC/tags) - Tagging records the easy way.~~
 
 ## Authentication and Authorization
