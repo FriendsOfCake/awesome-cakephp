@@ -295,6 +295,7 @@ Focus is on the specific task.
 ## Notifications
 *Plugins for working with notification software.*
 
+- [Notifier plugin](https://github.com/cakemanager/cakephp-notifier) - A plugin that makes creating and reading notifications easy.
 - ~~[Notification plugin](https://github.com/aschelch/cakephp-notification-plugin) - A plugin that provides an notification system.~~
 
 ## I18n
