@@ -42,6 +42,7 @@ Focus is on the specific task.
 	- [REST and API](#rest-and-api)
 	- [Caching](#caching)
 	- [Notifications](#notifications)
+	- [Settings](#settings)
 	- [I18n](#i18n)
 	- [Social](#social)
 	- [SEO](#seo)
@@ -297,6 +298,11 @@ Focus is on the specific task.
 
 - [Notifier plugin](https://github.com/cakemanager/cakephp-notifier) - A plugin that makes creating and reading notifications easy.
 - ~~[Notification plugin](https://github.com/aschelch/cakephp-notification-plugin) - A plugin that provides an notification system.~~
+
+## Settings
+*Plugins for working with settings.*
+
+- [Settings plugin](https://github.com/cakemanager/cakephp-settings) - A plugin to manage your settings via your database.
 
 ## I18n
 *Plugins for I18n (Internationalization) and L10n (Localization)*
