@@ -76,9 +76,9 @@ Focus is on the specific task.
 ## Environment
 *Plugins for enviroment*
 
+- [Settings plugin](https://github.com/cakemanager/cakephp-settings) - A plugin to manage your settings via your database.
 - ~~[Enviroments plugin](https://github.com/josegonzalez/cakephp-environments) - Plugin to handle enviroments.~~
 - ~~[Setup plugin](https://github.com/dereuromark/cakephp-setup) - Plugin to handle very basic environments.~~
-- [Settings plugin](https://github.com/cakemanager/cakephp-settings) - A plugin to manage your settings via your database.
 
 ## Debugging
 *Plugins for debugging*
