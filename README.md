@@ -310,6 +310,7 @@ Focus is on the specific task.
 ## Social
 *Plugins around social features*
 
+- [Ratings plugin](https://github.com/dereuromark/cakephp-ratings) - Allows users to rate records.
 - [SocialShare plugin](https://github.com/drmonkeyninja/cakephp-social-share) - Link generator for sharing content on social networks.
 - ~~[Bookmark plugin](https://github.com/josegonzalez/cakephp-bookmark) - Creates links to popular bookmarking web-applications.~~
 - ~~[Comments plugin](https://github.com/CakeDC/comments) - Allows users to comment records.~~
@@ -317,7 +318,6 @@ Focus is on the specific task.
 - ~~[Favorite plugin](https://github.com/CakeDC/favorites) - Allows users to favor records.~~
 - ~~[Feedback plugin](https://github.com/lecterror/cakephp-feedback-plugin) - Providing feedback.~~
 - ~~[Like plugin](https://github.com/aschelch/cakephp-like-plugin) - Provides a feature similar to Facebook "Like".~~
-- ~~[Ratings plugin](https://github.com/CakeDC/ratings) - Allows users to rate records.~~
 - ~~[Twitter plugin](https://github.com/mishudark/CakePHP-2.x-Twitter-Plugin) - A library to interface with Twitter and its OAuth workflow.~~
 
 ## SEO
