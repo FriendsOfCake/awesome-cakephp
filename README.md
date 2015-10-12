@@ -219,7 +219,7 @@ Focus is on the specific task.
 - [Muffin/Trash plugin](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
 - [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models.
 - ~~[Datasources plugin](https://github.com/cakephp/datasources) - Lots of different datasources.~~
-- [FertileForestCakephpPlugin plugin](https://github.com/StewEucen/fertile-forest-cakephp-plugin) - Behavior for Fertile Forest the model for hierarchical data in a database.
+- [FertileForest plugin](https://github.com/StewEucen/fertile-forest-cakephp-plugin) - Behavior for Fertile Forest the model for hierarchical data in a database.
 
 ## NoSQL
 *Plugins for working with "NoSQL" backends.*
