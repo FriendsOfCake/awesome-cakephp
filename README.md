@@ -84,6 +84,7 @@ Focus is on the specific task.
 - [DebugKit plugin](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 - [GraphVizModels plugin](https://github.com/mamchenkov/CakePHP-GraphViz-Models) - Display your model relations graphically.
 - [Setup plugin](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing setup tabs at the bottom.
+- [XHProf plugin](https://github.com/renan/CakePHP-XHProf) - Quickly enables XHProf profiling for your application.
 
 ## Templating
 *Plugins for templating and lexing.*
