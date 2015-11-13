@@ -242,6 +242,7 @@ Focus is on the specific task.
 - [Search plugin](https://github.com/FriendsOfCake/search) - Search provides a search module for CakePHP applications.
 - [PlumSearch plugin](https://github.com/skie/plum_search) - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern.
 - [Muffin/Tags plugin](https://github.com/usemuffin/tags) - For tagging and finding tagged records
+- [SphinxSearch plugin](https://github.com/voycey/sphinxsearch-cakephp3) - Basic behaviour implementation for querying SphinxSearch indexes
 - ~~[OpenSearch plugin](https://github.com/dereuromark/cakephp-opensearch) - For creating installable search plugins for IE, Firefox and Chrome.~~
 - ~~[Tags plugin](https://github.com/CakeDC/tags) - Tagging records the easy way.~~
 
