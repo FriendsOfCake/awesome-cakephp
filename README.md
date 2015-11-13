@@ -118,7 +118,7 @@ Focus is on the specific task.
 *Plugins for sending and parsing email.*
 
 - [Email plugin](https://github.com/gourmet/email) - Email helper, layout and more.
-- ~~[Mandrill plugin](https://github.com/a2design-company/Mandrill-CakePHP-plugin) - Sending Email using Mandrill.~~
+- ~~[Mandrill plugin](https://github.com/a2design-inc/Mandrill-CakePHP-plugin) - Sending Email using Mandrill.~~
 - ~~[SendGrid plugin](https://github.com/a2design-company/sendgrid-webapi-cakephp-plugin) - Plugin for SendGrid WebAPI.~~
 - ~~[EmailQueue plugin](https://github.com/nodesagency/cakephp-email-queue) - An email queue solution.~~
 - ~~[Mailchimp plugin](https://github.com/dereuromark/cakephp-mailchimp) - The Mailchimp and Mandrill plugin.~~
@@ -225,14 +225,14 @@ Focus is on the specific task.
 *Plugins for working with "NoSQL" backends.*
 
 - ~~[MongoQB plugin](https://github.com/ichikaway/cakephp-mongodb/) - MongoDB database driver.~~
-- ~~[NoSql](https://github.com/kamisama/CakePHP-NoSQL-Datasource) - A low-lever interface to interact with nosql datasource.~~
+- ~~[NoSql](https://github.com/wa0x6e/CakePHP-NoSQL-Datasource) - A low-lever interface to interact with nosql datasource.~~
 
 ## Queue
 *Plugins for working with event and task queues.*
 
 - [Queue plugin](https://github.com/dereuromark/cakephp-queue) - A minimal dependency-free CakePHP only plugin around Queue.
 - ~~[CakeDjjob plugin](https://github.com/josegonzalez/cakephp-cake-djjob) - Quick and easy job queues, based on [delayed_job](https://github.com/seatgeek/djjob).~~
-- [CakeResque plugin](https://github.com/kamisama/Cake-Resque) - A plugin for Resque, a library for creating background jobs.
+- [CakeResque plugin](https://github.com/wa0x6e/Cake-Resque) - A plugin for Resque, a library for creating background jobs.
 
 ## Search
 *Plugins and software for indexing and performing search queries on data.*
@@ -362,7 +362,7 @@ Focus is on the specific task.
 - [Travis](https://github.com/FriendsOfCake/travis) - Easy travis setup for CakePHP plugins.
 - [UserTools plugin](https://github.com/burzum/cakephp-user-tools) - User tools for login, registration, password reset and more. Works out of the box CRUD like and is highly configurable.
 - [Utils plugin](https://github.com/cakemanager/cakephp-utils) - Containing useful components (Authorizer, Menu) and behaviors (WhoDidIt, Uploadable, Metas, Stateable).
-- [Yaml plugin](https://github.com/chobo1210/Cake-Yaml) - For using YAML config files instead of PHP arrays.
+- [Yaml plugin](https://github.com/guemidiborhane/Cake-Yaml) - For using YAML config files instead of PHP arrays.
 - ~~[Dotcake](https://github.com/dotcake/dotcake) - Provides CakePHP project info for editor's cakephp plugins.~~
 - ~~[Ftp plugin](https://github.com/fotografde/cakephp-ftp) - FTP/SFTP plugin.~~
 - ~~[Jsonrpc plugin](https://github.com/jameswatts/cake-jsonrpc) - Provides server and client implementations of JSON-RPC.~~
@@ -376,10 +376,10 @@ Focus is on the specific task.
 - [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension - used in CakePHP3.x core (deprecated soon).
 - [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
 - [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer.
-- [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - A package and dependency manager.
+- [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
-- [Rocketeer](https://github.com/Anahkiasen/rocketeer) - PHP task runner and deployment package.
+- [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package.
 - [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
 
 # Software
@@ -390,8 +390,8 @@ Focus is on the specific task.
 
 - [Cakebox](https://github.com/alt3/cakebox) - A Vagrant development environment powered by the CakePHP 3.x Console.
 - [PuPHPet](https://puphpet.com/) - Web interface for building a Vagrant + Puppet box.
-- [Puppet](http://puppetlabs.com/) - A server automation framework and application.
-- [Vagrant](http://www.vagrantup.com/) - A portable development environment utility.
+- [Puppet](https://puppetlabs.com/) - A server automation framework and application.
+- [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
 - [CakePHP.gitignore](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - The .gitignore file proposals.
 
 ## Web Applications
@@ -399,7 +399,7 @@ Focus is on the specific task.
 ## CMS and applications built on CakePHP
 
 - [CakeBlog](https://github.com/gwhitcher/CakeBlog) - Open source blog software.
-- [QuickApps-CMS](https://github.com/QuickAppsCMS/QuickApps-CMS) - Open source content management system.
+- [QuickApps-CMS](https://github.com/quickapps/cms) - Open source content management system.
 - ~~[Croogo](https://github.com/croogo/croogo) - Open source content management system.~~
 
 Based on CakePHP3.x.
