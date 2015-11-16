@@ -67,7 +67,7 @@ Focus is on the specific task.
 *Plugins and repositories around app skeletons*
 
 - [App template](https://github.com/FriendsOfCake/app-template) - An empty CakePHP project for use with composer.
-- [Bake template "setup"](https://github.com/dereuromark/cakephp-setup/tree/master/Console/Templates/setup) - An example template on how customization of bake templates is possible.
+- [Bake template "setup"](https://github.com/dereuromark/cakephp-setup/tree/2.x/Console/Templates/setup) - An example template on how customization of bake templates is possible.
 - [Crud plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code.
 
 ## Environment
@@ -291,7 +291,7 @@ Focus is on the specific task.
 ## Third Party APIs
 *Plugins for accessing third party APIs.*
 
-- [AmazonSdk plugin](https://github.com/mcallisto/cakephp-amazon-aws-sdk) - A plugin around PHP AWS SDK library.
+- [AmazonSdk plugin](https://github.com/pocake/cakephp-amazon-aws-sdk) - A plugin around PHP AWS SDK library.
 
 ## Migration
 *Plugins and resources around migration and upgrading*
@@ -356,7 +356,7 @@ Based on CakePHP2.x.
 
 - [CakeFest](http://cakefest.dereuromark.de/) - Demo application around the annual CakePHP Conference "CakeFest".
 - [CakePHP Sandbox](http://sandbox.dereuromark.de) - A sandbox CakePHP application.
-- [GHREPO.info](http://ghrepo.info) ([source](http://sgithub.com/chrisvogt/ghrepo-info)) - Displays repository information from the GitHub API. Built on top of Friends Of Cake's [app-template](https://github.com/FriendsOfCake/app-template).
+- [Kildekoden](http://kildekoden.com) ([source](http://github.com/kildekoden/kildekoden)) - explore public GitHub repositories using CakePHP, jQuery, and the GitHub API. Built on top of Friends Of Cake's [app-template](https://github.com/FriendsOfCake/app-template).
 
 Based on CakePHP2.x.
 
@@ -427,7 +427,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 *Regional meet-ups.*
 
 - [CakePHP-DE](http://www.meetup.com/CakePHP-DE) - MeetUps in Germany.
-- [CakePHP-NewYork](http://www.meetup.com/nyc-cakephp/) - MeetUps in the New York Metropolitan Area.
+- [CakePHP-NewYork](https://twitter.com/cakephpnyc) - MeetUps in the New York Metropolitan Area.
 - [CakePHP-NL](http://www.meetup.com/CakePHP-NL) - MeetUps in Netherlands.
 - [CakePHP-France](http://www.meetup.com/CakePHP-France) - MeetUps in France.
 
