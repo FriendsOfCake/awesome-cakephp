@@ -132,7 +132,7 @@ Focus is on the specific task.
 - [Image plugin](https://github.com/josbeir/image) - Image behavior that works much like Cake's built in TranslateBehavior.
 - [Proffer plugin](https://github.com/davidyell/CakePHP3-Proffer) - A customisable upload plugin with thumbnail generation.
 - [Upload plugin](https://github.com/Xety/Cake3-Upload) - A little plugin to upload file.
-- [CakePHP-Upload](https://github.com/josegonzalez/cakephp-upload) - Upload files to your application.
+- [CakePHP-Upload plugin](https://github.com/josegonzalez/cakephp-upload) - Upload files to your application.
 
 ## Dependency Injection
 *Plugins that implement the dependency injection design pattern.*
