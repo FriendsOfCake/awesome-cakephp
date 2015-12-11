@@ -287,6 +287,7 @@ Focus is on the specific task.
 *Plugins and web tools for developing REST-ful APIs.*
 
 - [Cors plugin](https://github.com/snelg/cakephp-cors) - A lightweight plugin for adding CORS headers to specified endpoints.
+- [Swagger plugin](https://github.com/alt3/cakephp-swagger) - Swagger plugin for documenting your CakePHP 3.x APIs.
 - ~~[Rest plugin](https://github.com/kvz/cakephp-rest-plugin) - a painless REST server Plugin for CakePHP.~~
 
 ## Caching
