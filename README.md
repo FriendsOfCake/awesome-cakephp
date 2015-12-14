@@ -220,6 +220,7 @@ Focus is on the specific task.
 - [Muffin/Trash plugin](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
 - [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models.
 - ~~[Datasources plugin](https://github.com/cakephp/datasources) - Lots of different datasources.~~
+- [Salesforce plugin](https://github.com/voycey/salesforce-datasource-cakephp-3.x) - Full Datasource for 3.x that implements an API that uses an SQL like language using SQL drivers.
 
 ## NoSQL
 *Plugins for working with "NoSQL" backends.*
@@ -338,6 +339,7 @@ Focus is on the specific task.
 - ~~[AmazonSdk plugin](https://github.com/mcallisto/cakephp-amazon-aws-sdk) - A plugin around PHP AWS SDK library.~~
 - ~~[SMSFly plugin](https://github.com/imsamurai/cakephp-sms-fly-datasource) - Data source for sending SMS via sms-fly.~~
 - ~~[Twitter plugin](https://github.com/mishudark/CakePHP-2.x-Twitter-Plugin) - A library to interface with Twitter and its OAuth workflow.~~
+- [Salesforce plugin](https://github.com/voycey/salesforce-datasource-cakephp-3.x) - Read and Write Salesforce objects using CakePHP's ORM syntax.
 
 ## Migration
 *Plugins and resources around migration and upgrading*
