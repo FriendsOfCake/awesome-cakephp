@@ -251,7 +251,7 @@ Focus is on the specific task.
 *Plugins and libraries for implementing authentication and authorization.*
 
 - [Authenticate plugin](https://github.com/FriendsOfCake/Authenticate) - Authentication classes for AuthComponent.
-- [CakeDC Users plugin](https://github.com/CakeDC/users/tree/3.x) - For allowing users to register and login, manage their profile and account validation. Social Login, RBAC, remember me, SuperUser authorize, forgot password, admin management, etc.
+- [CakeDC Users plugin](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Facebook/Twitter login, RBAC, API and more.
 - [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) - A simple Cake 3 plugin to automatically authenticate users with Cookies.
 - [HierAuth plugin](https://github.com/btaens/cakephp-hier-auth) - A CakePHP plugin for hierarchical, role based, simple authorization.
 - [HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) - A plugin which allows using the [HybridAuth](https://github.com/hybridauth/hybridauth) social sign on library with CakePHP.
