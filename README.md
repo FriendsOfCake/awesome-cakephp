@@ -97,8 +97,8 @@ Focus is on the specific task.
 - [CakeExcel plugin](https://github.com/dakota/CakeExcel) - An Excel view to generate XLSX files.
 - [CakeFactory plugin](https://github.com/jameswatts/cake-factory) - A factory for the Cake Toolkit (CTK), which provides configurable objects.
 - [CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) - A view to easily generate CSV.
+- [Feed plugin](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
 - [Mustache plugin](https://github.com/Dismounted/MustacheCake) - A Mustache plugin.
-- [Tools:RssView](https://github.com/dereuromark/cakephp-tools) - Containing [RssView](http://www.dereuromark.de/2013/10/03/rss-feeds-in-cakephp/) to easily generate (complex) RSS.
 - [TwigView plugin](https://github.com/predominant/TwigView) - A plugin to use the Twig Templating Language for views.
 - [VideoEmbed plugin](https://github.com/drmonkeyninja/cakephp-video-helper) - Helper for embedding YouTube, Vimeo and Dailymotion videos.
 - [Wysiwyg plugin](https://github.com/josegonzalez/cakephp-wysiwyg) - Support for various WYSIWYG editors.
@@ -303,7 +303,7 @@ Focus is on the specific task.
 ## Miscellaneous
 *Misc plugins and libraries*
 
-- [AJAX](http://www.dereuromark.de/2014/01/09/ajax-and-cakephp) - AJAX and CakePHP.
+- [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 - [Dotcake](https://github.com/dotcake/dotcake) - Provides CakePHP project info for editor's cakephp plugins.
 - [Ftp plugin](https://github.com/fotografde/cakephp-ftp) - FTP/SFTP plugin.
 - [Jsonrpc plugin](https://github.com/jameswatts/cake-jsonrpc) - Provides server and client implementations of JSON-RPC.
