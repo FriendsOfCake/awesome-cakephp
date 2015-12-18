@@ -79,6 +79,7 @@ Additional lists you might find useful:
 ## Auditing / Logging
 *Plugins for auditing and logging.*
 
+- [Audit Stash plugin](https://github.com/lorenzo/audit-stash) - Flexible and rock solid audit log tracking.
 - [Blame plugin](https://github.com/ceeram/blame) - Plugin to update created_by and modified_by fields with logged in user id.
 - [Muffin/Footprint plugin](https://github.com/UseMuffin/Footprint) - Plugin to allow passing currently logged in user to model layer.
 - [Version plugin](https://github.com/josegonzalez/cakephp-version) - A plugin that facilitates versioned database entities.
