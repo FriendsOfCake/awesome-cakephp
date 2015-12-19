@@ -43,13 +43,13 @@ Additional lists you might find useful:
 	- [PDF](#pdf)
 	- [Queue](#queue)
 	- [REST and API](#rest-and-api)
-	- [SEO](#seo)
-	- [Skeleton](#skeleton)
-	- [Templating](#templating)
-	- [Testing](#testing)
 	- [Search](#search)
 	- [Security](#security)
+	- [SEO](#seo)
+	- [Skeleton](#skeleton)
 	- [Social](#social)
+	- [Templating](#templating)
+	- [Testing](#testing)
 	- [Third Party APIs](#third-party-apis)
 - [Software](#software)
 	- [Development Environment](#development-environment)
@@ -110,7 +110,7 @@ Additional lists you might find useful:
 - [NewRelic plugin](https://github.com/jippi/cakephp-newrelic/tree/cake3) - Using New Relic for analysis and monitoring.
 
 ## Debugging
-*Plugins for debugging*
+*Plugins for debugging.*
 
 - [Airbrake plugin](https://github.com/chrisShick/AirbrakeCake) A plugin to seamlessly integrate Airbrake with CakePHP for errors and exceptions.
 - [DebugKit plugin](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
@@ -131,7 +131,7 @@ Additional lists you might find useful:
 - [Email plugin](https://github.com/gourmet/email) - Email helper, layout and more.
 
 ## Environment
-*Plugins for enviroment*
+*Plugins for enviroment.*
 
 - [Enviroments plugin](https://github.com/josegonzalez/cakephp-environments) - Plugin to handle enviroments.
 - [Settings plugin](https://github.com/cakemanager/cakephp-settings) - A plugin to manage your settings via your database.
@@ -160,7 +160,7 @@ Additional lists you might find useful:
 - [Geo plugin](https://github.com/dereuromark/cakephp-geo) - Containing [Geocoder behavior](http://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) and [GoogleMapsV3 helper](http://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
 
 ## I18n
-*Plugins for I18n (Internationalization) and L10n (Localization)*
+*Plugins for I18n (Internationalization) and L10n (Localization).*
 
 - [I18n plugin](https://github.com/ADmad/cakephp-i18n) - A plugin with I18n related tools.
 - [ShadowTranslate plugin](https://github.com/AD7six/cakephp-shadow-translate) - A plugin with shadow table based replacement for core's Translate behavior.
@@ -173,7 +173,7 @@ Additional lists you might find useful:
 - [Imagine plugin](https://github.com/burzum/cakephp-imagine-plugin) - An image manipulation plugin and wrapper around [Imagine](https://github.com/avalanche123/Imagine).
 
 ## Libs
-*Useful libraries or tools that don't fit in the categories above.*
+*Useful libraries or tools that don't fit in any of the other categories.*
 
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP3.x core.
 - [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano.
@@ -193,7 +193,7 @@ Additional lists you might find useful:
 - [Geshi plugin](https://github.com/markstory/cakephp_geshi) - For adding GeSHI syntax highlighting.
 
 ## Migration
-*Plugins and resources around migration and upgrading*
+*Plugins and resources around migration and upgrading.*
 
 - [Execution order](https://github.com/dereuromark/executionorder) - A 3.x test app to display the execution order of files, methods and callbacks.
 - [Migrations plugin](https://github.com/cakephp/migrations) - (DB) Migration plugin.
@@ -201,16 +201,16 @@ Additional lists you might find useful:
 - [Upgrade/Migration Guide](http://book.cakephp.org/3.0/en/appendices.html) - Official migration guide.
 
 ## Miscellaneous
-*Misc plugins and libraries*
+*Misc plugins and libraries.*
 
 - [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 - [CakeManager plugin](https://github.com/cakemanager/cakephp-cakemanager) - A user management plugin with a built-in admin area.
 - [CurrencyConverter plugin](https://github.com/AlessandroMinoccheri/cakephp-currency-converter) - A plugin to convert currency into another one.
-- [Dashboard plugin](https://github.com/gourmet/dashboard) - Build beautiful dashboards for your cakes!
+- [Dashboard plugin](https://github.com/gourmet/dashboard) - Build beautiful dashboards for your cakes.
 - [Sequence plugin](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
 - [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 - [Shim plugin](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
-- [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells, ...
+- [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells and more.
 - [Travis](https://github.com/FriendsOfCake/travis) - Easy travis setup for CakePHP plugins.
 - [UserTools plugin](https://github.com/burzum/cakephp-user-tools) - User tools for login, registration, password reset and more. Works out of the box CRUD like and is highly configurable.
 - [Utils plugin](https://github.com/cakemanager/cakephp-utils) - Containing useful components (Authorizer, Menu) and behaviors (WhoDidIt, Uploadable, Metas, Stateable).
@@ -255,19 +255,41 @@ Additional lists you might find useful:
 - [Cors plugin](https://github.com/snelg/cakephp-cors) - A lightweight plugin for adding CORS headers to specified endpoints.
 - [Swagger plugin](https://github.com/alt3/cakephp-swagger) - Swagger plugin for documenting your CakePHP 3.x APIs.
 
+## Search
+*Plugins and software for indexing and performing search queries on data.*
+
+- [ElasticSearch plugin](https://github.com/cakephp/elastic-search) - Alternative ORM using Elastic Search as its backend.
+- [Muffin/Tags plugin](https://github.com/usemuffin/tags) - For tagging and finding tagged records.
+- [PlumSearch plugin](https://github.com/skie/plum_search) - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern.
+- [Search plugin](https://github.com/CakeDC/search) - De-facto search form standard built on PRG pattern.
+- [Search plugin](https://github.com/FriendsOfCake/search) - Search provides a search module for CakePHP applications.
+- [SphinxSearch plugin](https://github.com/voycey/sphinxsearch-cakephp3) - Basic behaviour implementation for querying SphinxSearch indexes.
+
+## Security
+*Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*
+
+- [CipherBehavior plugin](https://github.com/adayth/cakephp-cipher-behavior) - Cipher your entities data with this behavior. Encryption is done at PHP level using CakePHP Security class.
+- [Muffin/Throttle plugin](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
+
 ## SEO
-*Search Engine Optimization*
+*Search Engine Optimization.*
 
 - [Muffin/Slug plugin](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
 - [Sluggable plugin](https://github.com/Xety/Cake3-Sluggable) - A simple Cake3 plugin to slug fields and find records by slug.
 - [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
 
 ## Skeleton
-*Plugins and repositories around app skeletons*
+*Plugins and repositories around app skeletons.*
 
 - [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
 - [Crud plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code.
 - [Plugin Skeleton](https://github.com/Xety/Cake3-PluginSkeleton) - A skeleton example to create a Cake3 plugin.
+
+## Social
+*Plugins around social features.*
+
+- [Ratings plugin](https://github.com/dereuromark/cakephp-ratings) - Allows users to rate records.
+- [SocialShare plugin](https://github.com/drmonkeyninja/cakephp-social-share) - Link generator for sharing content on social networks.
 
 ## Templating
 *Plugins for templating and lexing.*
@@ -297,28 +319,6 @@ Additional lists you might find useful:
 - [Faker plugin](https://github.com/gourmet/faker) - [Faker](https://github.com/fzaninotto/Faker) support for CakePHP fixtures.
 - [Muffin plugin](https://github.com/gourmet/muffin) - [FactoryMuffin](https://github.com/thephpleague/factory-muffin) support for CakePHP fixture records.
 
-## Search
-*Plugins and software for indexing and performing search queries on data.*
-
-- [ElasticSearch plugin](https://github.com/cakephp/elastic-search) - Alternative ORM using Elastic Search as its backend.
-- [Muffin/Tags plugin](https://github.com/usemuffin/tags) - For tagging and finding tagged records
-- [PlumSearch plugin](https://github.com/skie/plum_search) - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern.
-- [Search plugin](https://github.com/CakeDC/search) - De-facto search form standard built on PRG pattern.
-- [Search plugin](https://github.com/FriendsOfCake/search) - Search provides a search module for CakePHP applications.
-- [SphinxSearch plugin](https://github.com/voycey/sphinxsearch-cakephp3) - Basic behaviour implementation for querying SphinxSearch indexes
-
-## Security
-*Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*
-
-- [CipherBehavior plugin](https://github.com/adayth/cakephp-cipher-behavior) - Cipher your entities data with this behavior. Encryption is done at PHP level using CakePHP Security class.
-- [Muffin/Throttle plugin](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
-
-## Social
-*Plugins around social features*
-
-- [Ratings plugin](https://github.com/dereuromark/cakephp-ratings) - Allows users to rate records.
-- [SocialShare plugin](https://github.com/drmonkeyninja/cakephp-social-share) - Link generator for sharing content on social networks.
-
 ## Third Party APIs
 *Plugins for accessing third party APIs.*
 
@@ -343,17 +343,14 @@ Additional lists you might find useful:
 - [CakeBlog](https://github.com/gwhitcher/CakeBlog) - Open source blog software.
 - [QuickApps-CMS](https://github.com/quickapps/cms) - Open source content management system.
 
-Based on CakePHP3.x.
-
 ## Demo
 *Web-based (demo) applications and tools.*
+
 - [Bookmarkr](https://github.com/lorenzo/cakephp3-bookmarkr) A bookmarking application built with the CRUD plugin.
 - [CakeFest](http://cakefest3.dereuromark.de/) - Demo application around the annual CakePHP Conference "CakeFest".
 - [CakePHP Sandbox](http://sandbox3.dereuromark.de) - A sandbox CakePHP application.
 - [Query Examples](https://github.com/lorenzo/cakephp3-examples) Advanced query building examples.
 - [Xeta](https://github.com/Xety/Xeta) - A resource to help people starting with CakePHP.
-
-Based on CakePHP3.x.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your CakePHP development skills and knowledge.
