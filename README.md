@@ -6,7 +6,7 @@ If you are looking for CakePHP 2.x resources please visit:
 - this wiki with a [list of not-yet upgraded plugins](https://github.com/FriendsOfCake/awesome-cakephp/wiki#plugins-not-yet-upgraded-from-2x-to-3x)
 
 Additional lists you might find useful:
-- [CakePHP Plugins category list](http://plugins.cakephp.org/packages/categories)
+- [CakePHP Plugins](http://plugins.cakephp.org)
 - [Awesome PHP](https://github.com/dereuromark/awesome-php)
 - [Awesome Awesomeness](https://github.com/dereuromark/awesome-awesomeness)
 
@@ -168,7 +168,7 @@ Additional lists you might find useful:
 ## Imagery
 *Plugins for manipulating images.*
 
-- [ADmad/Glide plugin](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](http://glide.thephpleague.com/1.0/) image manipulation library.
+- [ADmad/Glide plugin](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](http://glide.thephpleague.com/) image manipulation library.
 - [Imagine plugin](https://github.com/burzum/cakephp-imagine-plugin) - An image manipulation plugin and wrapper around [Imagine](https://github.com/avalanche123/Imagine).
 
 ## Libs
@@ -346,7 +346,7 @@ Additional lists you might find useful:
 *Web-based (demo) applications and tools.*
 
 - [Bookmarkr](https://github.com/lorenzo/cakephp3-bookmarkr) A bookmarking application built with the CRUD plugin.
-- [CakeFest](http://cakefest3.dereuromark.de/) - Demo application around the annual CakePHP Conference "CakeFest".
+- [CakeFest](http://cakefest.dereuromark.de/) - Demo application around the annual CakePHP Conference "CakeFest".
 - [CakePHP Sandbox](http://sandbox3.dereuromark.de) - A sandbox CakePHP application.
 - [Query Examples](https://github.com/lorenzo/cakephp3-examples) Advanced query building examples.
 - [Xeta](https://github.com/Xety/Xeta) - A resource to help people starting with CakePHP.
@@ -359,7 +359,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 - [CakePHP-BR.org](http://cakephp-br.org) - The brazilian community website.
 - [CakePHP-FR.org](http://cakephp-fr.org) - The french community website.
-- [CakePHP.ir](http://cakephp.ir) - discussion with other devs and generic questions for Persian community.
+- [CakePHP.ir](http://forum.cakephp.ir/) - discussion with other devs and generic questions for Persian community.
 - [Google Group](https://groups.google.com/forum/#!forum/cake-php) - This is for generic questions and alike.
 - [IRC Channel](http://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) - Live chat/discussion with other devs and core devs.
 - [stackoverflow.com/questions/tagged/cakephp](http://stackoverflow.com/questions/tagged/cakephp) - This is for specific questions, ideally along with some example code.
@@ -401,7 +401,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 ## CakePHP Internals Reading
 *Reading materials related to the CakePHP internals and decisions.*
 
-- [Core Google Group](http://groups.google.com/group/cakephp-core/topics) - Discussions around the CakePHP core.
+- [Core Google Group](https://groups.google.com/forum/#!forum/cakephp-core) - Discussions around the CakePHP core.
 - [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) - Give 'em a hand.
 
 # Conferences
@@ -416,11 +416,10 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 - [CakePHP-DE](http://www.meetup.com/CakePHP-DE) - MeetUps in Germany.
 - [CakePHP-France](http://www.meetup.com/CakePHP-France) - MeetUps in France.
-- [CakePHP-NewYork](http://www.meetup.com/nyc-cakephp/) - MeetUps in the New York Metropolitan Area.
 - [CakePHP-NL](http://www.meetup.com/CakePHP-NL) - MeetUps in Netherlands.
 
 # Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits
-awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark) and is currently maintained by him and the FriendsOfCake group. Thank you to all [contributors](https://github.com/FriendsOfCake/awesome-cakephp/contributors), too.
+awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark) and is currently maintained by him and the FriendsOfCake group. Thank you to all [contributors](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors), too.
