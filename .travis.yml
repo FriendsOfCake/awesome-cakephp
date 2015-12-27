@@ -1,7 +1,8 @@
+sudo: false
 language: ruby
 rvm:
   - 2.2
 before_script:
-  - gem install awesome_bot
+  - gem install awesome_bot --allow-redirect
 script:
   - awesome_bot README.md
