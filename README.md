@@ -275,7 +275,7 @@ Additional lists you might find useful:
 *Search Engine Optimization.*
 
 - [Muffin/Slug plugin](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
-- [OrgasmicNightmare/cakephp-seo](https://github.com/orgasmicnightmare/cakephp-seo) - Manage seo tags with ease. It comes with a Behavior, a Component, a View Cell and the default admin crud actions for each tables.
+- [Seo plugin](https://github.com/orgasmicnightmare/cakephp-seo) - Manage seo tags with ease. It comes with a Behavior, a Component, a View Cell and the default admin crud actions for each tables.
 - [Sluggable plugin](https://github.com/Xety/Cake3-Sluggable) - A simple Cake3 plugin to slug fields and find records by slug.
 - [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
 
