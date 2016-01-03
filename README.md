@@ -185,6 +185,7 @@ Additional lists you might find useful:
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
 - [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package.
 - [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
+- [Cake-yaml](https://github.com/makallio85/cake-yaml) - Configure CakePHP 3 routes with simple yaml files.
 
 ## Markup
 *Plugins for working with markup.*
