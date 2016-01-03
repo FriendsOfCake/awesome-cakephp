@@ -176,6 +176,7 @@ Additional lists you might find useful:
 *Useful libraries or tools that don't fit in any of the other categories.*
 
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP3.x core.
+- [Cake-yaml](https://github.com/makallio85/cake-yaml) - Configure CakePHP 3 routes with simple yaml files.
 - [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano.
 - [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension - used in CakePHP3.x core (deprecated soon).
 - [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
@@ -185,7 +186,6 @@ Additional lists you might find useful:
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
 - [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package.
 - [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
-- [Cake-yaml](https://github.com/makallio85/cake-yaml) - Configure CakePHP 3 routes with simple yaml files.
 
 ## Markup
 *Plugins for working with markup.*
