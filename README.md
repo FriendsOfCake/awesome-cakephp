@@ -176,7 +176,7 @@ Additional lists you might find useful:
 *Useful libraries or tools that don't fit in any of the other categories.*
 
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP3.x core.
-- [Cake-yaml](https://github.com/makallio85/cake-yaml) - Configure CakePHP 3 routes with simple yaml files.
+- [Cake-yaml](https://github.com/makallio85/cake-yaml) - Configure CakePHP 3 routes with simple YAML files.
 - [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano.
 - [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension - used in CakePHP3.x core (deprecated soon).
 - [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
