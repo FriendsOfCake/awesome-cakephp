@@ -323,6 +323,7 @@ Additional lists you might find useful:
 ## Third Party APIs
 *Plugins for accessing third party APIs.*
 
+- [CakeTmdb plugin](https://github.com/drmonkeyninja/cakephp-tmdb) - The Movie Database (TMDB) API integration.
 - [Ratchet plugin](https://github.com/WyriHaximus/Ratchet) - Brings the Ratchet websocket package to CakePHP.
 
 # Software
