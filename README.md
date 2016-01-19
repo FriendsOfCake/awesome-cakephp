@@ -240,6 +240,7 @@ Additional lists you might find useful:
 - [Money plugin](https://github.com/gourmet/money) - Money data type for CakePHP entities using [sebastianbergmann/money](https://github.com/sebastianbergmann/money).
 - [Muffin/Trash plugin](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
 - [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models.
+- [Webservices ORM plugin](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
 
 ## PDF
 *Plugins and software for working with PDF files.*
