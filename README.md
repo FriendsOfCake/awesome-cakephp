@@ -193,7 +193,7 @@ Additional lists you might find useful:
 *Plugins for working with markup.*
 
 - [CommonMark plugin](https://github.com/gourmet/common-mark) - Adds [CommonMark](http://commonmark.org/) Markdown parsing.
-- [Geshi plugin](https://github.com/markstory/cakephp_geshi) - For adding GeSHI syntax highlighting.
+- [Markup plugin](https://github.com/dereuromark/cakephp-markup) - Allows to use PHP or JS based syntax highlighting.
 
 ## Migration
 *Plugins and resources around migration and upgrading.*
