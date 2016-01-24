@@ -86,11 +86,11 @@ Additional lists you might find useful:
 ## Authentication and Authorization
 *Plugins and libraries for implementing authentication and authorization.*
 
-- [Authenticate plugin](https://github.com/FriendsOfCake/Authenticate) - Authentication classes for AuthComponent.
+- [ADmad/HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) - A plugin which allows using the [HybridAuth](https://github.com/hybridauth/hybridauth) social sign on library with CakePHP.
+- [ADmad/JwtAuth plugin](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
+- [FriendsOfCake/Authenticate plugin](https://github.com/FriendsOfCake/Authenticate) - Authentication classes for AuthComponent.
 - [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) - A simple Cake 3 plugin to automatically authenticate users with Cookies.
 - [HierAuth plugin](https://github.com/btaens/cakephp-hier-auth) - A CakePHP plugin for hierarchical, role based, simple authorization.
-- [HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) - A plugin which allows using the [HybridAuth](https://github.com/hybridauth/hybridauth) social sign on library with CakePHP.
-- [JwtAuth plugin](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
 - [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) - OAuth2 authentication using the [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client).
 - [MultiTenant plugin](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.
 - [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) - Role based (single/multi) authentication as very light-weight approach.
@@ -113,8 +113,8 @@ Additional lists you might find useful:
 
 - [Airbrake plugin](https://github.com/chrisShick/AirbrakeCake) A plugin to seamlessly integrate Airbrake with CakePHP for errors and exceptions.
 - [DebugKit plugin](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
+- [Gourmet/Whoops plugin](https://github.com/gourmet/whoops) - PHP error for cool kids with [filp/whoops](https://github.com/filp/whoops).
 - [Setup plugin](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
-- [Whoops plugin](https://github.com/gourmet/whoops) - PHP error for cool kids with [filp/whoops](https://github.com/filp/whoops).
 
 ## Dependency Injection
 *Plugins that implement the dependency injection design pattern.*
@@ -127,13 +127,13 @@ Additional lists you might find useful:
 ## Email
 *Plugins for sending and parsing email.*
 
-- [Email plugin](https://github.com/gourmet/email) - Email helper, layout and more.
+- [Gourmet/Email plugin](https://github.com/gourmet/email) - Email helper, layout and more.
 
 ## Environment
 *Plugins for enviroment.*
 
-- [Aroma plugin](https://github.com/gourmet/aroma) - Database based configuration.
 - [Enviroments plugin](https://github.com/josegonzalez/cakephp-environments) - Plugin to handle enviroments.
+- [Gourmet/Aroma plugin](https://github.com/gourmet/aroma) - Database based configuration.
 - [Settings plugin](https://github.com/cakemanager/cakephp-settings) - A plugin to manage your settings via your database.
 - [Setup plugin](https://github.com/dereuromark/cakephp-setup) - Plugin to handle very basic environments.
 
@@ -162,7 +162,7 @@ Additional lists you might find useful:
 ## I18n
 *Plugins for I18n (Internationalization) and L10n (Localization).*
 
-- [I18n plugin](https://github.com/ADmad/cakephp-i18n) - A plugin with I18n related tools.
+- [ADmad/I18n plugin](https://github.com/ADmad/cakephp-i18n) - A plugin with I18n related tools.
 - [Localized plugin](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files.
 - [ShadowTranslate plugin](https://github.com/AD7six/cakephp-shadow-translate) - A plugin with shadow table based replacement for core's Translate behavior.
 - [Transifex plugin](https://github.com/dereuromark/cakephp-transifex) - Managing i18n PO files and translations via Transifex API.
@@ -192,7 +192,7 @@ Additional lists you might find useful:
 ## Markup
 *Plugins for working with markup.*
 
-- [CommonMark plugin](https://github.com/gourmet/common-mark) - Adds [CommonMark](http://commonmark.org/) Markdown parsing.
+- [Gourmet/CommonMark plugin](https://github.com/gourmet/common-mark) - Adds [CommonMark](http://commonmark.org/) Markdown parsing.
 - [Markup plugin](https://github.com/dereuromark/cakephp-markup) - Allows to use PHP or JS based syntax highlighting.
 
 ## Migration
@@ -206,12 +206,12 @@ Additional lists you might find useful:
 ## Miscellaneous
 *Misc plugins and libraries.*
 
+- [ADmad/Sequence plugin](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
 - [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 - [CakeManager plugin](https://github.com/cakemanager/cakephp-cakemanager) - A user management plugin with a built-in admin area.
 - [CurrencyConverter plugin](https://github.com/AlessandroMinoccheri/cakephp-currency-converter) - A plugin to convert currency into another one.
 - [Dashboard plugin](https://github.com/gourmet/dashboard) - Build beautiful dashboards for your cakes.
 - [Hashid plugin](https://github.com/dereuromark/cakephp-hashid) - Allows to use hashids to not expose the database ids to the user.
-- [Sequence plugin](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
 - [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 - [Shim plugin](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 - [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells and more.
@@ -267,8 +267,8 @@ Additional lists you might find useful:
 - [ElasticSearch plugin](https://github.com/cakephp/elastic-search) - Alternative ORM using Elastic Search as its backend.
 - [Muffin/Tags plugin](https://github.com/usemuffin/tags) - For tagging and finding tagged records.
 - [PlumSearch plugin](https://github.com/skie/plum_search) - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern.
-- [Search plugin](https://github.com/CakeDC/search) - De-facto search form standard built on PRG pattern.
-- [Search plugin](https://github.com/FriendsOfCake/search) - Search provides a search module for CakePHP applications.
+- [FriendsOfCake/Search plugin](https://github.com/FriendsOfCake/search) - Search provides a searching/filter module for CakePHP applications.
+- [Search plugin](https://github.com/CakeDC/search) - Search plugin built on PRG pattern.
 - [SphinxSearch plugin](https://github.com/voycey/cakephp-sphinxsearch) - Basic behaviour implementation for querying SphinxSearch indexes.
 
 ## Security
@@ -323,7 +323,7 @@ Additional lists you might find useful:
 - [CodeSniffer plugin](https://github.com/dereuromark/cakephp-codesniffer) - Auto-find code issues/smells and auto-fix CS errors.
 - [CodeSniffer plugin sniffs](https://github.com/dereuromark/codesniffer-standards) - Sniff packages/rules compatible with phpcs-fixer branch and the CodeSniffer plugin.
 - [Faker plugin](https://github.com/gourmet/faker) - [Faker](https://github.com/fzaninotto/Faker) support for CakePHP fixtures.
-- [Muffin plugin](https://github.com/gourmet/muffin) - [FactoryMuffin](https://github.com/thephpleague/factory-muffin) support for CakePHP fixture records.
+- [Gourmet/Muffin plugin](https://github.com/gourmet/muffin) - [FactoryMuffin](https://github.com/thephpleague/factory-muffin) support for CakePHP fixture records.
 
 ## Third Party APIs
 *Plugins for accessing third party APIs.*
