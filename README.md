@@ -17,6 +17,7 @@ Additional lists you might find useful:
 ## Table of Contents
 
 - [Plugins](#plugins)
+	- [APM](#apm)
 	- [Asset Management](#asset-management)
 	- [Auditing / Logging](#auditing--logging)
 	- [Authentication and Authorization](#authentication-and-authorization)
@@ -68,6 +69,11 @@ Additional lists you might find useful:
 - [Contributing](#contributing)
 
 # Plugins
+
+## APM
+*Plugins for Application Performance Monitoring.*
+
+- [NewRelic](https://github.com/brunitto/cakephp-new-relic) - A plugin that extends the CakePHP Request cycle, adding a specialized Dispatcher Filter that adds support for New Relic name transactions and browser timing.
 
 ## Asset Management
 *Tools for managing, compressing and minifying website assets.*
