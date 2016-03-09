@@ -120,7 +120,7 @@ Additional lists you might find useful:
 ## Dependency Injection
 *Plugins that implement the dependency injection design pattern.*
 
-- [PimpleDi plugin](https://github.com/rochamarcelo/cake-pimple-di) A plugin for dependency injection based on Pimple library.
+- [PimpleDi plugin](https://github.com/rochamarcelo/cake-pimple-di) Allows dependency injection based on Pimple library.
 - [PipingBag plugin](https://github.com/lorenzo/piping-bag) - Dependency injection container plugin that adds the ability to configure object instances and their dependencies before they are used, and to store them into a container class for easy access.
 
 ## E-commerce
