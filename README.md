@@ -240,13 +240,13 @@ Additional lists you might find useful:
 
 - [ADmad/Sequence plugin](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
 - [Duplicatable plugin](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
+- [JeremyHarris/LazyLoad plugin](https://github.com/jeremyharris/cakephp-lazyload) - An association lazy loader for entities.
 - [Money plugin](https://github.com/gourmet/money) - Money data type for CakePHP entities using [sebastianbergmann/money](https://github.com/sebastianbergmann/money).
 - [Muffin/Orderly plugin](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
 - [Muffin/Trash plugin](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
 - [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models.
 - [RowLocker plugin](https://github.com/lorenzo/row-locker) - Exclusive locks for rows in your tables.
 - [Webservices ORM plugin](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
-- [JeremyHarris/LazyLoad plugin](https://github.com/jeremyharris/cakephp-lazyload) - An association lazy loader for entities
 
 ## PDF
 *Plugins and software for working with PDF files.*
