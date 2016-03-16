@@ -267,6 +267,7 @@ Additional lists you might find useful:
 - [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - A plugin which allows using [Fractal transformers](http://fractal.thephpleague.com/transformers/) for your API output.
 - [JsonApi plugin](https://github.com/josbeir/cakephp-json-api) - Implements the [JSON API](http://jsonapi.org/) format.
 - [Swagger plugin](https://github.com/alt3/cakephp-swagger) - Swagger plugin for documenting your CakePHP 3.x APIs.
+- [CWBIT's jsonapi plugin](https://github.com/cwbit/cakephp-jsonapi) -  Set of libraries for building standardized JSON responses in CakePHP 3.x REST APIs
 
 ## Search
 *Plugins and software for indexing and performing search queries on data.*
