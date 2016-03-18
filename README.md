@@ -129,6 +129,7 @@ Additional lists you might find useful:
 ## Email
 *Plugins for sending and parsing email.*
 
+- [EmailQueue plugin](https://github.com/lorenzo/cakephp-email-queue) - Email queue plugin with a preview and sender shell.
 - [Gourmet/Email plugin](https://github.com/gourmet/email) - Email helper, layout and more.
 
 ## Environment
