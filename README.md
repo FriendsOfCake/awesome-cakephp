@@ -340,6 +340,7 @@ Additional lists you might find useful:
 ## Third Party APIs
 *Plugins for accessing third party APIs.*
 
+- [AuthManager plugin](https://github.com/ExpandOnline/AuthManager) - Used to manage third party authentications such as Google Analytics, Facebook Ads, Bitly, Google Tag Manager, Google Webmaster Tools, Bing Ads and DoubleClick (DCM/DFA Reporting and Trafficking API).
 - [CakeTmdb plugin](https://github.com/drmonkeyninja/cakephp-tmdb) - The Movie Database (TMDB) API integration.
 - [GitHub plugin](https://github.com/cvo-technologies/cakephp-github) - Allows access to the GitHub REST APIs using the [Webservice](https://github.com/UseMuffin/Webservice) ORM.
 - [Ratchet plugin](https://github.com/WyriHaximus/Ratchet) - Brings the Ratchet websocket package to CakePHP.
