@@ -292,6 +292,7 @@ Focus is on the specific task.
 *Plugins for accessing third party APIs.*
 
 - [AmazonSdk plugin](https://github.com/pocake/cakephp-amazon-aws-sdk) - A plugin around PHP AWS SDK library.
+- [AuthManager plugin](https://github.com/ExpandOnline/AuthManager) - Used to manage third party authentications such as Google Analytics, Facebook Ads, Bitly, Google Tag Manager, Google Webmaster Tools, Bing Ads and DoubleClick (DCM/DFA Reporting and Trafficking API).
 
 ## Migration
 *Plugins and resources around migration and upgrading*
