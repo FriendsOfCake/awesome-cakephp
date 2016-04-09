@@ -73,9 +73,9 @@ Additional lists you might find useful:
 ## APM
 *Plugins for Application Performance Monitoring.*
 
-- [jippi/cakephp-newrelic](https://github.com/jippi/cakephp-newrelic/tree/cake3) - A complete plugin that enables full New Relic integration for a CakePHP application, including CLI naming, exceptions sending, custom timings, etc. It does not depends on New Relic agent.
+- [NewRelic plugin](https://github.com/jippi/cakephp-newrelic/tree/cake3) - A complete plugin that enables full New Relic integration for a CakePHP application, including CLI naming, exceptions sending, custom timings, etc. It does not depends on New Relic agent.
 
-- [brunitto/cakephp-new-relic](https://github.com/brunitto/cakephp-new-relic) - A simple plugin that enables just name transaction and browser timing for a CakePHP 3 application using the New Relic PHP agent.
+- [Brunitto/NewRelic plugin](https://github.com/brunitto/cakephp-new-relic) - A simple plugin that enables just name transaction and browser timing for a CakePHP 3 application using the New Relic PHP agent.
 
 ## Asset Management
 *Tools for managing, compressing and minifying website assets.*
@@ -111,6 +111,10 @@ Additional lists you might find useful:
 *Plugins for caching data.*
 
 - [Cache plugin](https://github.com/dereuromark/cakephp-cache) - For caching views (HTML, CSV, JSON, XML, ...) as static cache files.
+
+## Code Analysis
+
+*Plugins for analysing, parsing and manipulation codebases.*
 
 ## Debugging
 *Plugins for debugging.*
