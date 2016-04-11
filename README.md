@@ -54,7 +54,6 @@ Additional lists you might find useful:
 	- [Third Party APIs](#third-party-apis)
 - [Software](#software)
 	- [Development Environment](#development-environment)
-	- [IDE Extensions](#ide-extensions)
 - [Web Applications](#web-applications)
 	- [CMS and applications built on CakePHP](#cms-and-applications-built-on-cakephp)
 	- [Demo](#demo)
@@ -365,11 +364,7 @@ Additional lists you might find useful:
 - [PuPHPet](https://puphpet.com/) - Web interface for building a Vagrant + Puppet box.
 - [Puppet](https://puppetlabs.com/) - A server automation framework and application.
 - [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
-
-## IDE  extensions
-*Software and tools to integrate with cakephp specific features.*
-
-- [Command line tool console gneration plugin for PhpStorm](https://github.com/skie/PhpStorm) - Builds xml file to use autocomplete for cakephp console from PhpStorm IDE.
+- [PhpStorm plugin](https://github.com/skie/PhpStorm) -  CakePHP console auto-completion for the PhpStorm IDE
 
 ## Web Applications
 
