@@ -361,7 +361,7 @@ Additional lists you might find useful:
 
 - [Cakebox](https://github.com/alt3/cakebox) - A Vagrant development environment powered by the CakePHP 3.x Console.
 - [CakePHP.gitignore](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - The .gitignore file proposals.
-- [PhpStorm plugin](https://github.com/skie/PhpStorm) -  CakePHP console auto-completion for the PhpStorm IDE
+- [PhpStorm plugin](https://github.com/skie/PhpStorm) -  CakePHP auto-completion support for the PhpStorm IDE.
 - [PuPHPet](https://puphpet.com/) - Web interface for building a Vagrant + Puppet box.
 - [Puppet](https://puppetlabs.com/) - A server automation framework and application.
 - [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
