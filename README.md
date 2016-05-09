@@ -22,6 +22,7 @@ Focus is on the specific task.
 	- [E-commerce](#e-commerce)
 	- [Email](#email)
 	- [Environment](#environment)
+	- [Feature Toggle](#feature-toggle]
 	- [Filtering and Validation](#filtering-and-validation)
 	- [Geolocation](#geolocation)
 	- [I18n](#i18n)
@@ -329,6 +330,9 @@ Focus is on the specific task.
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
 - [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Deployment
 - [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
+
+## Feature Toggle
+- [Swivel](https://github.com/zumba/swivel-cake) - A library that allows to setup up to 10 different behaviors with an interface for tracking results.
 
 # Software
 *Software for creating a development environment.*
