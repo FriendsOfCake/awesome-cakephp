@@ -332,7 +332,7 @@ Focus is on the specific task.
 - [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
 
 ## Feature Toggle
-- [Swivel](https://github.com/zumba/swivel-cake) - A library that allows to setup up to 10 different behaviors with an interface for tracking results.
+- [Swivel Plugin](https://github.com/zumba/swivel-cake) - A plugin that wraps [Swivel](https://github.com/zumba/swivel), allowing to setup up to 10 different behaviors for each feature with an interface for tracking results.
 
 # Software
 *Software for creating a development environment.*
