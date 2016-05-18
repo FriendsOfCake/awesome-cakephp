@@ -255,6 +255,7 @@ Additional lists you might find useful:
 - [Muffin/Orderly plugin](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
 - [Muffin/Trash plugin](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
 - [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models.
+- [RandomPrimaryKey plugin](https://github.com/51seven/cakephp-random-primary-key-behavior) - Behavior for automatic random digit primary key creation for your model.
 - [RowLocker plugin](https://github.com/lorenzo/row-locker) - Exclusive locks for rows in your tables.
 - [Webservices ORM plugin](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
 
