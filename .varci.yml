@@ -2,7 +2,7 @@ ruleset:
   one_suggestion:
     name: "a single suggestion / PR"
     events: [ pull_request ]
-    message: >
+    comment: >
       @{{ user.login }}, please only add one suggestion per PR.
     when:
       - action = "opened" or action = "reopened"
@@ -12,7 +12,7 @@ ruleset:
   require_url:
     name: "the line contains a URL"
     events: [ pull_request ]
-    message: >
+    comment: >
       @{{ user.login }}, suggestions should contain links.
     when:
       - action = "opened" or action = "reopened"
@@ -22,7 +22,7 @@ ruleset:
   broken_links:
     name: "the URL is accessible (200 status code)"
     events: [ pull_request ]
-    message: >
+    comment: >
       @{{ user.login }}, the link for your suggestion (in the diff) did not return
       an HTTP status code of 200. Please check for broken links and/or redirects.
       The broken link is: {{ diff_links.broken.0 }}
