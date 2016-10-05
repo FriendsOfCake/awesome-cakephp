@@ -300,6 +300,7 @@ Focus is on the specific task.
 - [Migrations plugin](https://github.com/CakeDC/migrations) - (DB) Migration plugin.
 - [Upgrade plugin](https://github.com/dereuromark/cakephp-upgrade) - The most extensive 1.x=>2.x and partly =>3.x upgrade shells.
 - [Upgrade/Migration Guide](http://book.cakephp.org/2.0/en/appendices.html) - Official migration guide.
+- [Using 3.x Migrations for 2.x apps](http://www.dereuromark.de/2016/10/03/use-3-x-migrations-for-your-2-x-cakephp-app/) - Information on how one can leverage the 3.x [Migrations](https://github.com/cakephp/migrations/) plugin for 2.x.
 
 ## Miscellaneous
 *Misc plugins and libraries*
