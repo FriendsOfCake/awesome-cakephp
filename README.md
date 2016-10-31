@@ -133,6 +133,8 @@ Additional lists you might find useful:
 ## E-commerce
 *Plugins and applications for taking payments and building online e-commerce stores.*
 
+- [Paypal WPP plugin](https://github.com/cpierce/paypal-wpp) - Paypal Web Payments Pro Plugin for CakePHP
+
 ## Email
 *Plugins for sending and parsing email.*
 
@@ -142,9 +144,9 @@ Additional lists you might find useful:
 - [SparkPost plugin](https://github.com/syntaxera/cakephp-sparkpost-plugin) - Email transport plugin for sending email via the SparkPost API.
 
 ## Environment
-*Plugins for enviroment.*
+*Plugins for environment.*
 
-- [Enviroments plugin](https://github.com/josegonzalez/cakephp-environments) - Plugin to handle enviroments.
+- [Environments plugin](https://github.com/josegonzalez/cakephp-environments) - Plugin to handle environments.
 - [Gourmet/Aroma plugin](https://github.com/gourmet/aroma) - Database based configuration.
 - [Settings plugin](https://github.com/cakemanager/cakephp-settings) - A plugin to manage your settings via your database.
 - [Setup plugin](https://github.com/dereuromark/cakephp-setup) - Plugin to handle very basic environments.
