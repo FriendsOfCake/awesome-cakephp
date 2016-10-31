@@ -314,6 +314,7 @@ Focus is on the specific task.
 - [Shim plugin](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 - [MobileDetect plugin](https://github.com/chronon/CakePHP-MobileDetectComponent-Plugin) - Identifying mobile devices using the Mobile_Detect project.
 - [Rss plugin](https://github.com/drmonkeyninja/cakephp-rss) - RSS feed datasource.
+- [Swivel plugin](https://github.com/zumba/swivel-cake) - A plugin that wraps [Swivel](https://github.com/zumba/swivel), allowing to setup up to 10 different behaviors for each feature with an interface for tracking results.
 - [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells, ...
 - [Travis](https://github.com/FriendsOfCake/travis) - Easy travis setup for CakePHP plugins.
 - [Users plugin](https://github.com/CakeDC/users) - For allowing users to register and login manage their profile.
@@ -330,7 +331,6 @@ Focus is on the specific task.
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
 - [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Deployment
 - [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
-- [Swivel Plugin](https://github.com/zumba/swivel-cake) - A plugin that wraps [Swivel](https://github.com/zumba/swivel), allowing to setup up to 10 different behaviors for each feature with an interface for tracking results.
 
 # Software
 *Software for creating a development environment.*
