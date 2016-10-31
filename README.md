@@ -133,7 +133,7 @@ Additional lists you might find useful:
 ## E-commerce
 *Plugins and applications for taking payments and building online e-commerce stores.*
 
-- [Paypal WPP plugin](https://github.com/cpierce/paypal-wpp) - Paypal Web Payments Pro Plugin for CakePHP
+- [PaypalWPP plugin](https://github.com/cpierce/paypal-wpp) - A plugin to make transactions to Paypal Web Payments Pro.
 
 ## Email
 *Plugins for sending and parsing email.*
