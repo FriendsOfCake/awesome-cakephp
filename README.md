@@ -403,7 +403,6 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 - [CakePHP-BR.org](http://cakephp-br.org) - The brazilian community website.
 - [CakePHP-FR.org](http://cakephp-fr.org) - The french community website.
-- [CakePHP.ir](http://forum.cakephp.ir/) - discussion with other devs and generic questions for Persian community.
 - [Google Group](https://groups.google.com/forum/#!forum/cake-php) - This is for generic questions and alike.
 - [IRC Channel](http://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) - Live chat/discussion with other devs and core devs.
 - [stackoverflow.com/questions/tagged/cakephp](http://stackoverflow.com/questions/tagged/cakephp) - This is for specific questions, ideally along with some example code.
