@@ -213,7 +213,7 @@ Focus is on the specific task.
 
 - [Elastic](https://github.com/dkullmann/CakePHP-Elastic-Search-DataSource) - Connecting models to Elastic Search types.
 - [OpenSearch plugin](https://github.com/dereuromark/cakephp-opensearch) - For creating installable search plugins for IE, Firefox and Chrome.
-- [Search plugin](https://github.com/CakeDC/search) - De-facto search form standard built on RPG pattern.
+- [Search plugin](https://github.com/CakeDC/search) - De-facto search form standard built on PRG pattern.
 - [SimpleScope](https://github.com/josegonzalez/cakephp-simple-scope) - For scoping finds.
 - [Tags plugin](https://github.com/CakeDC/tags) - Tagging records the easy way.
 - [Tools:NamedScope](https://github.com/dereuromark/cakephp-tools) - Containing [NamedScope behavior](http://www.dereuromark.de/2014/02/15/cakephp-and-namedscope-for-dry-conditions/) for DRY find conditions.
