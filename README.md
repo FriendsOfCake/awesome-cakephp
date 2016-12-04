@@ -95,6 +95,7 @@ Additional lists you might find useful:
 ## Authentication and Authorization
 *Plugins and libraries for implementing authentication and authorization.*
 
+- [Acl plugin](https://github.com/cakephp/acl/) - Managing ACL as database approach.
 - [ADmad/HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) - A plugin which allows using the [HybridAuth](https://github.com/hybridauth/hybridauth) social sign on library with CakePHP.
 - [ADmad/JwtAuth plugin](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
 - [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) - A simple Cake 3 plugin to automatically authenticate users with Cookies.
