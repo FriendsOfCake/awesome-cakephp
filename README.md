@@ -397,7 +397,7 @@ Additional lists you might find useful:
 - [CakeFest](http://cakefest.dereuromark.de/) - Demo application around the annual CakePHP Conference "CakeFest".
 - [CakePHP Sandbox](http://sandbox3.dereuromark.de) - A sandbox CakePHP application.
 - [Query Examples](https://github.com/lorenzo/cakephp3-examples) Advanced query building examples.
-- [Xeta](https://github.com/Xety/Xeta) - A resource to help people starting with CakePHP.
+- [Xeta](https://github.com/XetaIO/Xeta) - A resource to help people starting with CakePHP.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your CakePHP development skills and knowledge.
