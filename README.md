@@ -116,8 +116,9 @@ Additional lists you might find useful:
 - [Cache plugin](https://github.com/dereuromark/cakephp-cache) - For caching views (HTML, CSV, JSON, XML, ...) as static cache files.
 
 ## Code Analysis
-
 *Plugins for analysing, parsing and manipulation codebases.*
+
+- [IdeHelper plugin](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
 
 ## Debugging
 *Plugins for debugging.*
