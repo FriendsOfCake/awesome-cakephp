@@ -215,6 +215,11 @@ Additional lists you might find useful:
 - [Gourmet/CommonMark plugin](https://github.com/gourmet/common-mark) - Adds [CommonMark](http://commonmark.org/) Markdown parsing.
 - [Markup plugin](https://github.com/dereuromark/cakephp-markup) - Allows to use PHP or JS based syntax highlighting.
 
+## Middleware
+*Plugins for Middleware*
+
+- [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) - A collection of Cakephp Middlewares. Requires CakePHP version 3.4+.
+
 ## Migration
 *Plugins and resources around migration and upgrading.*
 
