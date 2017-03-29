@@ -271,6 +271,8 @@ Additional lists you might find useful:
 - [Muffin/Orderly plugin](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
 - [Muffin/Trash plugin](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
 - [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models.
+- [Robotusers/Excel plugin](https://github.com/robotusers/cakephp-excel) - ORM wrapper for PHPExcel.
+- [Robotusers/TableInheritance plugin](https://github.com/robotusers/cakephp-table-inheritance) - Singe Table Inheritance (STI) plugin.
 - [RowLocker plugin](https://github.com/lorenzo/row-locker) - Exclusive locks for rows in your tables.
 - [Webservices ORM plugin](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
 
