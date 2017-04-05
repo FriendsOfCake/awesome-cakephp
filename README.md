@@ -6,9 +6,9 @@ If you are looking for CakePHP 2.x resources please visit:
 - this wiki with a [list of not-yet upgraded plugins](https://github.com/FriendsOfCake/awesome-cakephp/wiki#plugins-not-yet-upgraded-from-2x-to-3x)
 
 Additional lists you might find useful:
-- [CakePHP Plugins](http://plugins.cakephp.org)
-- [Awesome PHP](https://github.com/dereuromark/awesome-php)
-- [Awesome Awesomeness](https://github.com/dereuromark/awesome-awesomeness)
+- [CakePHP Plugins](https://plugins.cakephp.org)
+- [Awesome PHP](https://github.com/ziadoz/awesome-php)
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
 > plugin subparts (instead of only the whole plugin/repo), more granular
