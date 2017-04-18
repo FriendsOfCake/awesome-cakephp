@@ -275,6 +275,7 @@ Additional lists you might find useful:
 - [Robotusers/TableInheritance plugin](https://github.com/robotusers/cakephp-table-inheritance) - Singe Table Inheritance (STI) plugin.
 - [RowLocker plugin](https://github.com/lorenzo/row-locker) - Exclusive locks for rows in your tables.
 - [Webservices ORM plugin](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
+- [RelatedContent plugin](https://github.com/aiphee/CakePHP3-related-content-plugin) - Behaviors and element for managing many to many related entities from different models. 
 
 ## PDF
 *Plugins and software for working with PDF files.*
