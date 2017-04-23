@@ -1,0 +1,43 @@
+ruleset:
+  one_suggestion:
+    name: "a single suggestion / PR"
+    events: [ pull_request ]
+    comment: >
+      @{{ user.login }}, please only add one suggestion per PR.
+    when:
+      - action = "opened" or action = "reopened"
+      - additions > 1
+      - files has "README.md"
+
+  require_url:
+    name: "the line contains a URL"
+    events: [ pull_request ]
+    comment: >
+      @{{ user.login }}, suggestions should contain links.
+    when:
+      - action = "opened" or action = "reopened"
+      - count(diff_links.added) = 0
+      - files has "README.md"
+
+  broken_links:
+    name: "the URL is accessible (200 status code)"
+    events: [ pull_request ]
+    comment: >
+      @{{ user.login }}, the link for your suggestion (in the diff) did not return
+      an HTTP status code of 200. Please check for broken links and/or redirects.
+      The broken link is: {{ diff_links.broken.0 }}
+    when:
+      - action = "opened" or action = "reopened"
+      - count(diff_links.broken) > 0
+      - files has "README.md"
+
+  link_in_description:
+    name: "the URL matches the URL in the PR's body"
+    events: [ pull_request ]
+    comment: >
+      @{{ user.login }}, please include links you added in the diff
+      directly to the pull request body also to make it easier to check, thanks.
+    when:
+      - action = "opened" or action = "reopened"
+      - not(body_links.added contains diff_links.added)
+      - files has "README.md"
