@@ -260,9 +260,9 @@ Additional lists you might find useful:
 ## Notifications
 *Plugins for working with notification software.*
 
-- [Gcm plugin](https://github.com/ker0x/CakeGCM) - A plugin to send downstream messages to an Android or iOS device through Google Cloud Messaging.
+- [ker0x/CakeGcm plugin](https://github.com/ker0x/CakeGCM) - A plugin to send downstream messages to an Android or iOS device through Google Cloud Messaging.
 - [Notifier plugin](https://github.com/cakemanager/cakephp-notifier) - A plugin that makes creating and reading notifications easy.
-- [Push plugin](https://github.com/ker0x/cakephp-push) - A plugin to send push notifications through services like Firebase Cloud Messaging.
+- [ker0x/Push plugin](https://github.com/ker0x/cakephp-push) - A plugin to send push notifications through services like Firebase Cloud Messaging.
 
 ## ORM and Datamapping
 *Plugins that implement object-relational mapping or data-mapping techniques.*
