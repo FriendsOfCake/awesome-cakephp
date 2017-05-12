@@ -251,7 +251,7 @@ Additional lists you might find useful:
 ## Navigation
 *Tools for building navigation structures.*
 
-- [KnpMenu plugin](https://github.com/gourmet/knp-menu) - A menu plugin based on the [Knp Menu Library](https://github.com/KnpLabs/KnpMenu).
+- [Icings/Menu plugin](https://github.com/icings/menu) - A [KnpMenu](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
 
 ## NoSQL
 *Plugins for working with "NoSQL" backends.*
