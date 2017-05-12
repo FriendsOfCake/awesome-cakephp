@@ -415,6 +415,7 @@ Additional lists you might find useful:
 
 - [Bookmarkr](https://github.com/lorenzo/cakephp3-bookmarkr) A bookmarking application built with the CRUD plugin.
 - [CakeFest](http://cakefest.dereuromark.de/) - Demo application around the annual CakePHP Conference "CakeFest".
+- [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.
 - [Sandbox](http://sandbox.dereuromark.de) - A sandbox CakePHP application with lots of demos and plugin showcasings.
 - [Query Examples](https://github.com/lorenzo/cakephp3-examples) Advanced query building examples.
 - [Xeta](https://github.com/XetaIO/Xeta) - A resource to help people starting with CakePHP.
