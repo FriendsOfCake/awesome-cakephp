@@ -283,6 +283,7 @@ Additional lists you might find useful:
 *Plugins and software for working with PDF files.*
 
 - [CakePdf plugin](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
+- [DomPDF](https://github.com/DaoAndCo/cakephp-dompdf) - Generate PDF with DomPDF.
 
 ## Queue
 *Plugins for working with event and task queues.*
