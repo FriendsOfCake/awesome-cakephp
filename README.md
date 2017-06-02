@@ -167,6 +167,7 @@ Additional lists you might find useful:
 - [Josegonzalez/Upload plugin](https://github.com/josegonzalez/cakephp-upload) - A customisable plugin that uses [Flysystem](http://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
 - [Proffer plugin](https://github.com/davidyell/CakePHP3-Proffer) - A customisable upload plugin with thumbnail generation.
 - [Upload plugin](https://github.com/Xety/Cake3-Upload) - A little plugin to upload file.
+- [CdnFunctions plugin](https://github.com/kushalpogul/cdn-functions) - A little plugin to copy file to CDN, Delete a file from CDN & Downloading all files from directory of CDN.
 
 ## Filtering and Validation
 *Plugins for filtering and validating data.*
