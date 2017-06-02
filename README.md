@@ -161,6 +161,7 @@ Additional lists you might find useful:
 ## Files
 *Plugins for file manipulation.*
 
+- [File Functions plugin](https://github.com/kushalpogul/file-functions) - A little Plugin to upload, download, delete file from FTP Server. This plugin also allows various useful file manipulation operations.
 - [FileStorage plugin](https://github.com/burzum/cakephp-file-storage) - Abstract file storage and upload plugin.
 - [FlyPie plugin](https://github.com/WyriHaximus/FlyPie) - Abstract filesystem access using Flysystem.
 - [Image plugin](https://github.com/josbeir/image) - Image behavior that works much like Cake's built in TranslateBehavior.
