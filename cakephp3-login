@@ -1,0 +1,240 @@
+
+
+Cakephp3 authentication (Login page) :
+
+Appcontroller code :
+
+<?php
+
+
+namespace App\Controller;
+
+
+
+use Cake\Controller\Controller;
+
+use Cake\Event\Event;
+
+use Cake\Core\Configure;
+
+
+
+/**
+
+ * Application Controller
+
+ *
+
+ * Add your application-wide methods in the class below, your controllers
+
+ * will inherit them.
+
+ *
+
+ * @link http://book.cakephp.org/3.0/en/controllers.html#the-app-controller
+
+ */
+
+class AppController extends Controller
+
+{
+
+
+
+    /**
+
+     * Initialization hook method.
+
+     *
+
+     * Use this method to add common initialization code like loading components.
+
+     *
+
+     * e.g. `$this->loadComponent('Security');`
+
+     *
+
+     * @return void
+
+     */
+
+	
+
+    public function initialize()
+
+    {
+
+        parent::initialize();
+
+        $this->loadComponent('RequestHandler');
+
+        $this->loadComponent('Flash');
+
+        /*** here we can metion after login success which page to redirect & logout also **/
+           $this->loadComponent('Auth', array('loginRedirect' => array('controller' => 'Users','action'=> 	'index'),'logoutRedirect' => array('controller' => 'Users','action'=> 'login')));
+
+      /** login redirection ends here ***/
+    }
+
+}
+
+
+  ?>
+
+
+
+
+
+
+UsersController code :
+
+<?php
+
+namespace App\Controller;
+
+
+
+use App\Controller\AppController;
+
+use Cake\Validation\Validation;
+
+use Cake\Event\Event;
+
+use Cake\Core\Configure;
+
+
+
+/**
+
+ * Users Controller
+
+ *
+
+ * @property \App\Model\Table\UsersTable $Users
+
+ */
+
+class UsersController extends AppController
+
+{
+
+	public function beforeFilter(Event $event) {
+
+		//$this->viewBuilder()->layout('admin');
+
+		parent::beforeFilter($event);
+
+		//$this->Auth->allow(array('logout'));
+
+	}
+
+	
+
+	public function initialize()
+
+	{
+
+		parent::initialize();
+
+	}    
+
+	 public function login()
+
+	    {
+
+		if ($this->request->is('post')) {
+
+		 /**by default users table authentication fields (username,password) in that case no 		     need to use this commendted part
+
+		     if we want to give authentication instead of username some other field like email 		    then need follw below snippet of code
+
+		 **/
+
+		    if (Validation::email($this->request->data['email'])) {
+
+		        $this->Auth->config('authenticate', [
+
+		            'Form' => [
+
+		                'fields' => ['username' => 'email']
+
+		            ]
+
+		        ]);
+
+		        $this->Auth->constructAuthenticate();
+
+		        $this->request->data['email'] = $this->request->data['email'];
+
+		    }
+
+		 /***authentication with other fields ends here*****/
+
+		    $user = $this->Auth->identify();
+
+
+
+		    if ($user) {
+
+		        $this->Auth->setUser($user);
+
+		        $session = $this->request->session();
+
+		        $session->write('name',$this->request->data['email']);
+
+		        return $this->redirect($this->Auth->redirectUrl());
+
+		    }
+
+
+
+		    $this->Flash->error(__('Invalid username or password, try again'));
+
+		}
+
+	    }
+
+    
+
+	    public function logout()
+
+	    {
+
+	    	$this->Flash->success('You are now logged out.');
+
+	    	$session = $this->request->session();
+
+	    	$session->destroy();
+
+	    	return $this->redirect($this->Auth->logout());
+
+	    }  
+
+}
+?>
+
+Simple view  page code with username and password :
+
+<div class="form">
+
+<?= $this->Flash->render('auth') ?>
+
+<?= $this->Form->create('',array('id'=>"popup_form")) ?>
+
+    <fieldset>
+
+        <legend><?= __('Please enter your username and password') ?></legend>
+
+        <?= $this->Form->input('email') ?>
+
+        <?= $this->Form->input('password') ?>
+
+    </fieldset>
+
+<?= $this->Form->button(__('Login')); ?>
+
+<?= $this->Form->end() ?>
+
+</div>
+ 
