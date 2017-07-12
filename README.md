@@ -323,6 +323,7 @@ Additional lists you might find useful:
 - [Muffin/Obfuscate plugin](https://github.com/usemuffin/obfuscate) - Primary key obfuscation using HashIds, Optimus, Tiny and/or custom obfuscation strategies.
 - [Muffin/Throttle plugin](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
 - [Recaptcha plugin](https://github.com/crabstudio/Recaptcha) - Simple, lightweight Google Recaptcha v2.
+- [Recaptcha Mailhide plugin](https://github.com/mirko-pagliai/cakephp-recaptcha-mailhide) - A plugin that allows you to hide email addresses using reCAPTCHA.
 
 ## SEO
 *Search Engine Optimization.*
