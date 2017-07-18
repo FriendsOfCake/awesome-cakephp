@@ -362,6 +362,7 @@ Additional lists you might find useful:
 - [InlineCss plugin](https://github.com/drmonkeyninja/cakephp-inline-css) - A plugin to convert HTML style blocks to inline CSS on a View template (intended for use with email templates).
 - [JadeView plugin](https://github.com/clthck/cakephp-jade) - Jade template engine plugin.
 - [Liquid plugin](https://github.com/gourmet/liquid) - A plugin to use the Liquid templating language for views.
+- [MenuLink plugin](https://github.com/rrd108/cakephp-menulink) - A plugin to automatically add css class for the url which pointing to the current url eg. what is active.
 - [Meta plugin](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO relevant HTML markup DRY and easy.
 - [SocialMeta plugin](https://github.com/gourmet/social-meta) - Adds support for Facebook's OpenGraph and Twitter's Card meta tags.
 - [TwigView plugin](https://github.com/WyriHaximus/TwigView) - A plugin to use the Twig Templating Language for views.
