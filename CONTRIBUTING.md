@@ -27,3 +27,10 @@ The convention is to use lowercase letters and dashes as separator.
 So if you created a plugin "Logging" with your GitHub account "FooBar", a good name
 would be `foo-bar/cakephp-logging`.
 And the CakePHP owned "Localized" plugin can be found under `cakephp/localized` respectively.
+
+## Tips for creating CakePHP plugins
+
+* Make sure the README or docs contain installation and usage instructions. The more verbose, the better.
+* The composer.json should contain necessary dependencies including constraints (ideally using semvar and `^` operator).
+* It must contain basic tests (unit, ...) of the functionality provided.
+* It should have Travis or some CI set up.
