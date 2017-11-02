@@ -31,6 +31,7 @@ And the CakePHP owned "Localized" plugin can be found under `cakephp/localized` 
 ## Tips for creating CakePHP plugins
 
 * Make sure the README or docs contain installation and usage instructions. The more verbose, the better.
-* The composer.json should contain necessary dependencies including constraints (ideally using [semver](http://semver.org/) and `^` operator).
-* It must contain basic tests (unit, ...) of the functionality provided.
+* The composer.json contains necessary dependencies including constraints (ideally using [semver](http://semver.org/) and `^` operator).
+* The plugin contains basic tests (unit, ...) of the functionality provided.
 * It should have Travis or some CI set up.
+* You can add badges under the README h1 header to visually show your tests are green etc.
