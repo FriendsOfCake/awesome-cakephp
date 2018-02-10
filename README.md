@@ -244,6 +244,7 @@ Additional lists you might find useful:
 - [Robotusers/Tactician plugin](https://github.com/robotusers/cakephp-tactician) - Tools for Tactician command bus integration.
 - [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 - [Shim plugin](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
+- [TokenVerify plugin](https://github.com/mosaxiv/cakephp-token-verify) - Easily issue tokens that can be used for mail authentication.
 - [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells and more.
 - [Travis](https://github.com/FriendsOfCake/travis) - Easy travis setup for CakePHP plugins.
 - [UserTools plugin](https://github.com/burzum/cakephp-user-tools) - User tools for login, registration, password reset and more. Works out of the box CRUD like and is highly configurable.
