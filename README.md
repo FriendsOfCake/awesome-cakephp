@@ -167,7 +167,6 @@ Additional lists you might find useful:
 - [Image plugin](https://github.com/josbeir/image) - Image behavior that works much like Cake's built in TranslateBehavior.
 - [Proffer plugin](https://github.com/davidyell/CakePHP3-Proffer) - A customisable upload plugin with thumbnail generation.
 - [Upload plugin](https://github.com/Xety/Cake3-Upload) - A little plugin to upload file.
-- [Upload](https://github.com/allanmcarvalho/Upload) - A complete plugin for uploading. Validation (size, extension among others), file handling (create thumbnails, resize, place watermarks among others).
 
 ## Filtering and Validation
 *Plugins for filtering and validating data.*
@@ -236,7 +235,7 @@ Additional lists you might find useful:
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) - A collection of Cakephp Middlewares.
 - [Comments plugin](https://github.com/Kareylo/CakePHP-Comments) - A fully customizable Comments plugin.
 - [CurrencyConverter plugin](https://github.com/AlessandroMinoccheri/cakephp-currency-converter) - A plugin to convert currency into another one.
-- [DataTables](https://github.com/allanmcarvalho/DataTables) - A plugin that implements JS [DataTables](https://datatables.net/) in a configurable and compatible way in CakePHP.
+- [DataTables plugin](https://github.com/allanmcarvalho/cakephp-datatables) - A plugin that implements JS [DataTables](https://datatables.net/) in a configurable and compatible way in CakePHP.
 - [Dashboard plugin](https://github.com/gourmet/dashboard) - Build beautiful dashboards for your cakes.
 - [DatabaseBackup plugin](https://github.com/mirko-pagliai/cakephp-database-backup) - A plugin to export, import and manage database backups.
 - [Feedback plugin](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
