@@ -167,6 +167,7 @@ Additional lists you might find useful:
 - [Image plugin](https://github.com/josbeir/image) - Image behavior that works much like Cake's built in TranslateBehavior.
 - [Proffer plugin](https://github.com/davidyell/CakePHP3-Proffer) - A customisable upload plugin with thumbnail generation.
 - [Upload plugin](https://github.com/Xety/Cake3-Upload) - A little plugin to upload file.
+- [Upload](https://github.com/allanmcarvalho/Upload) - A complete plugin for uploading. Validation (size, extension among others), file handling (create thumbnails, resize, place watermarks among others).
 
 ## Filtering and Validation
 *Plugins for filtering and validating data.*
