@@ -232,6 +232,7 @@ Additional lists you might find useful:
 - [ActionsClass plugin](https://github.com/HavokInspiration/cakephp-actions-class) - Gives you the ability to manage your Controller actions as single classes.
 - [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) - A non-stable user management plugin with a built-in admin area.
+- [CakeDC/Enum](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) - A collection of Cakephp Middlewares.
 - [Comments plugin](https://github.com/Kareylo/CakePHP-Comments) - A fully customizable Comments plugin.
 - [CurrencyConverter plugin](https://github.com/AlessandroMinoccheri/cakephp-currency-converter) - A plugin to convert currency into another one.
