@@ -420,6 +420,7 @@ Additional lists you might find useful:
 ## CMS and applications built on CakePHP
 
 - [CakeBlog](https://github.com/gwhitcher/CakeBlog) - Open source blog software.
+- [Croogo](https://croogo.org) - CMS software
 - [QuickApps-CMS](https://github.com/quickapps/cms) - Open source content management system.
 
 ## Demo
@@ -428,6 +429,7 @@ Additional lists you might find useful:
 - [BlogMVC](https://github.com/Kareylo/BlogMVC-CakePHP3) - A simple Blog example with CakePHP based on [BlogMVC Project](https://github.com/Grafikart/BlogMVC).
 - [Bookmarkr](https://github.com/lorenzo/cakephp3-bookmarkr) A bookmarking application built with the CRUD plugin.
 - [CakeFest](http://cakefest.dereuromark.de/) - Demo application around the annual CakePHP Conference "CakeFest".
+- [Croogo 3.x](http://demo.croogo.org/3.0) - Croogo 3.x demo
 - [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.
 - [Sandbox](http://sandbox.dereuromark.de) - A sandbox CakePHP application with lots of demos and plugin showcasings.
 - [Query Examples](https://github.com/lorenzo/cakephp3-examples) Advanced query building examples.
