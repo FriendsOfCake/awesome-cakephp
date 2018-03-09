@@ -253,7 +253,7 @@ Additional lists you might find useful:
 - [Utils plugin](https://github.com/cakemanager/cakephp-utils) - Containing useful components (Authorizer, Menu) and behaviors (WhoDidIt, Uploadable, Metas, Stateable).
 - [Wrench plugin](https://github.com/HavokInspiration/wrench) - Maintenance Mode plugin. Easily extensible and customizable.
 - [Yaml plugin](https://github.com/guemidiborhane/Cake-Yaml) - For using YAML config files instead of PHP arrays.
-- [sweet-alert-cakephp-3](https://github.com/falco442/sweet-alert-cakephp-3) - To use `HtmlHelper::link` and `FormHelper::postLink` with confirmation dialog done with [Sweet Alert 2](https://sweetalert2.github.io/)
+- [SweetAlertHelper plugin](https://github.com/falco442/sweet-alert-cakephp-3) - To use `HtmlHelper::link` and `FormHelper::postLink` with confirmation dialog done with [Sweet Alert 2](https://sweetalert2.github.io/)
 
 ## Navigation
 *Tools for building navigation structures.*
