@@ -389,6 +389,7 @@ Additional lists you might find useful:
 - [Fixtures plugin](https://github.com/LubosRemplik/CakePHP-Fixtures) - Fixtures plugin to read existing fixtures and create table/insert data for quick start with app.
 - [FriendsOfCake/fixturize](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (mysql only).
 - [Gourmet/Muffin plugin](https://github.com/gourmet/muffin) - [FactoryMuffin](https://github.com/thephpleague/factory-muffin) support for CakePHP fixture records.
+- [CakePHP Integrated](https://github.com/viraj-khatavkar/cakephp-integrated) - Better integration testing with CakePHP. An intuitive API for integration testing your CakePHP applications. Write tests in a real world scenario
 
 ## Third Party APIs
 *Plugins for accessing third party APIs.*
