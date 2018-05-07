@@ -120,6 +120,7 @@ Additional lists you might find useful:
 *Plugins for analysing, parsing and manipulation codebases.*
 
 - [IdeHelper plugin](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
+- [TestHelper plugin](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
 
 ## Debugging
 *Plugins for debugging.*
