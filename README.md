@@ -148,7 +148,7 @@ Additional lists you might find useful:
 ## Email
 *Plugins for sending and parsing email.*
 
-- [Elastic Email plugin](https://github.com/pnglabz/cakephp-elastic-email) - Email transport plugin for sending email via Elastic Email API.
+- [Elastic Email plugin](https://github.com/sprintcube/cakephp-elastic-email) - Email transport plugin for sending email via Elastic Email API.
 - [EmailQueue plugin](https://github.com/lorenzo/cakephp-email-queue) - Email queue plugin with a preview and sender shell.
 - [Gourmet/Email plugin](https://github.com/gourmet/email) - Email helper, layout and more.
 - [Mailgun plugin](https://github.com/narendravaghela/cakephp-mailgun) - Email transport plugin for sending email via Mailgun.
