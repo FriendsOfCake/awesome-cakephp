@@ -347,6 +347,7 @@ Additional lists you might find useful:
 - [Seo plugin](https://github.com/orgasmicnightmare/cakephp-seo) - Auto-creates and manages your SEO tags.
 - [Sluggable plugin](https://github.com/Xety/Cake3-Sluggable) - A simple Cake3 plugin to slug fields and find records by slug.
 - [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
+- [Slug plugin](https://github.com/kicaj/slug) - Slug plugin for CakePHP for friendly URLs.
 
 ## Skeleton
 *Plugins and repositories around app skeletons.*
