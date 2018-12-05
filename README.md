@@ -425,6 +425,7 @@ Additional lists you might find useful:
 - [PuPHPet](https://puphpet.com/) - Web interface for building a Vagrant + Puppet box.
 - [Puppet](https://puppetlabs.com/) - A server automation framework and application.
 - [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
+- [Vagrant CakePHP](https://github.com/salines/vagrant-cakephp) - Vagrant LEMP environment incl. latest CakePHP.
 
 ## Web Applications
 
