@@ -242,6 +242,9 @@ Additional lists you might find useful:
 - [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) - A non-stable user management plugin with a built-in admin area.
 - [CakeDC/Enum](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
+
+- [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE, typehinting and autocomplete.
+
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) - A collection of Cakephp Middlewares.
 - [Calendar plugin](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
 - [Comments plugin](https://github.com/Kareylo/CakePHP-Comments) - A fully customizable Comments plugin.
