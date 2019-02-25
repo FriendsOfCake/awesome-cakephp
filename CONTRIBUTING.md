@@ -3,7 +3,8 @@ Please ensure your pull request adheres to the following guidelines:
 
 * Please search previous suggestions before making a new one, as yours may be a duplicate.
 * Code, comments and documentation need to be in English.
-* Libraries that are PHP 5.4+, Composer-installable, CakePHP-PSR compliant, tested and documented are preferred.
+* Libraries that are PHP 5.6+, Composer-installable, CakePHP-PSR compliant, tested and documented are preferred.
+* A license file must be in the root directory.
 * If possible, please publish your library under an open source license (preferably MIT).
 * Please make an individual pull request for each suggestion.
 * New categories, or improvements to the existing categorisation are welcome.
@@ -35,3 +36,4 @@ And the CakePHP owned "Localized" plugin can be found under `cakephp/localized` 
 * The plugin contains basic tests (unit, ...) of the functionality provided.
 * It should have Travis or some CI set up.
 * You can add badges under the README h1 header to visually show your tests are green etc.
+* Ideally, also check phpstan on `src/` dir and [prefer-lowest](https://www.dereuromark.de/2019/01/04/test-composer-dependencies-with-prefer-lowest) to ensure a high quality for your plugin.
