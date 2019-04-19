@@ -255,6 +255,7 @@ Additional lists you might find useful:
 - [Hashid plugin](https://github.com/dereuromark/cakephp-hashid) - Allows to use hashids to not expose the database ids to the user.
 - [Heartbeat plugin](https://github.com/orca-services/cakephp-heartbeat/) - Monitor the hearbeat of your application (e.g. whether the database is available and up-to-date).
 - [Interval plugin](https://github.com/LubosRemplik/CakePHP-Interval) - Converts seconds to human readable string (string to seconds), uses business hours (1 week = 5 days, 1 day = 8 hours).
+- [LinkScanner](https://github.com/mirko-pagliai/cakephp-link-scanner) - A plugin for recursively scanning links
 - [Robotusers/Tactician plugin](https://github.com/robotusers/cakephp-tactician) - Tools for Tactician command bus integration.
 - [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 - [Shim plugin](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
