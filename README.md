@@ -408,6 +408,7 @@ Additional lists you might find useful:
 - [Ratchet plugin](https://github.com/WyriHaximus/Ratchet) - Brings the Ratchet websocket package to CakePHP.
 - [Salesforce plugin](https://github.com/voycey/cakephp-salesforce) - Allows use of CakePHP's ORM to Query and Interact with Salesforce Enterprise Instances.
 - [Twitter plugin](https://github.com/cvo-technologies/cakephp-twitter) - Allows access to the Twitter REST and streaming APIs using the [Webservice](https://github.com/UseMuffin/Webservice) ORM.
+- [HIBP plugin](https://gitlab.com/FinlayDaG33k/cakephp-hibp) - Plugin to check for compromised passwords against the HaveIBeenPwned API
 
 # Software
 *Software for creating a development environment.*
