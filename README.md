@@ -146,6 +146,7 @@ Additional lists you might find useful:
 *Plugins and applications for taking payments and building online e-commerce stores.*
 
 - [PaypalWPP plugin](https://github.com/cpierce/paypal-wpp) - A package for communicating with Paypal Web Payments Pro for transactions and information about your account.
+- [Redsys plugin](https://github.com/berarma/cakephp-redsys) - Message encoding/decoding for online payments with Redsys Virtual TPVs (Spanish service).
 
 ## Email
 *Plugins for sending and parsing email.*
