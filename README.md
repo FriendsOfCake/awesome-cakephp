@@ -155,7 +155,6 @@ Additional lists you might find useful:
 - [Gourmet/Email plugin](https://github.com/gourmet/email) - Email helper, layout and more.
 - [Mailgun plugin](https://github.com/narendravaghela/cakephp-mailgun) - Email transport plugin for sending email via Mailgun.
 - [SendGrid plugin](https://github.com/sprintcube/cakephp-sendgrid) - Email transport plugin for sending email via SendGrid API.
-- [SparkPost plugin](https://github.com/syntaxera/cakephp-sparkpost-plugin) - Email transport plugin for sending email via the SparkPost API.
 
 ## Environment
 *Plugins for environment.*
@@ -427,7 +426,6 @@ Additional lists you might find useful:
 - [PuPHPet](https://puphpet.com/) - Web interface for building a Vagrant + Puppet box.
 - [Puppet](https://puppetlabs.com/) - A server automation framework and application.
 - [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
-- [Vagrant CakePHP](https://github.com/salines/vagrant-cakephp) - Vagrant LEMP environment incl. latest CakePHP.
 
 ## Web Applications
 
@@ -456,7 +454,6 @@ Various resources, such as books, websites and articles, for improving your Cake
 ## Help
 *Where to get help.*
 
-- [cakephpbrasil.com.br](http://cakephpbrasil.com.br/) - The brazilian community website.
 - [CakePHP-FR.org](http://cakephp-fr.org) - The french community website.
 - [CakePHP.ir](http://forum.cakephp.ir/) - discussion with other devs and generic questions for Persian community.
 - [Official CakePHP Forum](http://discourse.cakephp.org/) - This is for generic questions and alike.
