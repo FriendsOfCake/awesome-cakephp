@@ -264,6 +264,7 @@ Additional lists you might find useful:
 - [Utils plugin](https://github.com/cakemanager/cakephp-utils) - Containing useful components (Authorizer, Menu) and behaviors (WhoDidIt, Uploadable, Metas, Stateable).
 - [Wrench plugin](https://github.com/HavokInspiration/wrench) - Maintenance Mode plugin. Easily extensible and customizable.
 - [Yaml plugin](https://github.com/guemidiborhane/Cake-Yaml) - For using YAML config files instead of PHP arrays.
+- [Inertia.js adapter](https://github.com/ishanvyas22/cakephp-inertiajs) - The CakePHP adapter for Inertia.js.
 
 ## Navigation
 *Tools for building navigation structures.*
