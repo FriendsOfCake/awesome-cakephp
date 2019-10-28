@@ -84,6 +84,7 @@ Additional lists you might find useful:
 - [Assets plugin](https://github.com/mirko-pagliai/cakephp-assets) - Dynamic and "on the fly" asset files.
 - [Less plugin](https://github.com/elboletaire/less-cake-plugin) - Less parser plugin for CakePHP.
 - [MinifyHtml plugin](https://github.com/WyriHaximus/MinifyHtml) - Compress HTML output.
+- [Asset Mix](https://github.com/ishanvyas22/asset-mix) - Provides integration with your CakePHP application & [Laravel Mix](https://laravel-mix.com).
 
 ## Auditing / Logging
 *Plugins for auditing and logging.*
