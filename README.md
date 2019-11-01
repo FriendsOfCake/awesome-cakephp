@@ -81,6 +81,7 @@ Additional lists you might find useful:
 *Tools for managing, compressing and minifying website assets.*
 
 - [AssetCompress plugin](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
+- [AssetMix plugin](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
 - [Assets plugin](https://github.com/mirko-pagliai/cakephp-assets) - Dynamic and "on the fly" asset files.
 - [Less plugin](https://github.com/elboletaire/less-cake-plugin) - Less parser plugin for CakePHP.
 - [MinifyHtml plugin](https://github.com/WyriHaximus/MinifyHtml) - Compress HTML output.
