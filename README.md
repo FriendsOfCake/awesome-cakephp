@@ -428,6 +428,8 @@ Additional lists you might find useful:
 - [Puppet](https://puppetlabs.com/) - A server automation framework and application.
 - [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
 
+IDE specific compatibility information and tips can be found [here](https://github.com/dereuromark/cakephp-ide-helper/wiki#ide-support-and-tips).
+
 ## Web Applications
 
 ## CMS and applications built on CakePHP
