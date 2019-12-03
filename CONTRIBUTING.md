@@ -14,7 +14,7 @@ Please ensure your pull request adheres to the following guidelines:
 * Make sure your text editor is set to remove trailing whitespace.
 * Proposed libraries should ideally have 10+ stars.
 * Please keep the lists in alphabetical order.
-* Name plugins as `ExactPluginName plugin`.
+* Name plugins as `ExactPluginName plugin`. The name is the CamelCase namespace and ideally matches the composer package name (minus the dashed casing).
 
 Thank you for your suggestions!
 
@@ -25,9 +25,19 @@ The vendor name will usually be your GitHub username.
 Do **not** use the CakePHP namespace (cakephp) as this is reserved to CakePHP owned plugins.
 The convention is to use lowercase letters and dashes as separator.
 
-So if you created a plugin "Logging" with your GitHub account "FooBar", a good name
+So if you created a plugin `Logging` with your GitHub account `FooBar`, a good name
 would be `foo-bar/cakephp-logging`.
 And the CakePHP owned "Localized" plugin can be found under `cakephp/localized` respectively.
+
+You can prefix your namespace and therefore your plugin name with your vendor name to make sure there are no collisions with other similar plugins.
+This would then be in your composer autoload definition:
+```
+"MyName\\MyPlugin\\": "src/"
+```
+The name then would be `MyName/MyPlugin` and the composer package name then would be inflected as `my-name/my-plugin`.
+GitHub URL would be then `github.com/my-name/my-plugin` respectivly.
+
+Make sure those names match to avoid confusion here for users.
 
 ## Tips for creating CakePHP plugins
 
