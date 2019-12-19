@@ -39,6 +39,9 @@ GitHub URL would be then `github.com/my-name/my-plugin` respectivly.
 
 Make sure those names match to avoid confusion here for users.
 
+Additional naming tips:
+- Do not include the CakePHP major version number here or for the composer package name or description. The README can state the version per branch instead.
+
 ## Tips for creating CakePHP plugins
 
 * Make sure the README or docs contain installation and usage instructions. The more verbose, the better.
