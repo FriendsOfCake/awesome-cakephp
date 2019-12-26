@@ -289,6 +289,7 @@ Additional lists you might find useful:
 - [ADmad/Sequence plugin](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
 - [CakeDecimal plugin](https://github.com/dereuromark/cakephp-decimal) - A value object approach on handling decimals.
 - [Duplicatable plugin](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
+- [Fetchable plugin](https://github.com/riesenia/cakephp-fetchable) - Behavior for fetching entities from cache / memory.
 - [JeremyHarris/LazyLoad plugin](https://github.com/jeremyharris/cakephp-lazyload) - An association lazy loader for entities.
 - [Lqdt/OrmJson plugin](https://github.com/liqueurdetoile/cakephp-orm-json) - Behavior and Trait for selecting, finding, getting and setting properties and values inside JSON type fields through CakePHP ORM.
 - [Money plugin](https://github.com/gourmet/money) - Money data type for CakePHP entities using [sebastianbergmann/money](https://github.com/sebastianbergmann/money).
