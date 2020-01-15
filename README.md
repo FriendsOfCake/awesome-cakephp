@@ -119,7 +119,7 @@ Additional lists you might find useful:
 ## Caching
 *Plugins for caching data.*
 
-- [Cache plugin](https://github.com/dereuromark/cakephp-cache) - For caching views (HTML, CSV, JSON, XML, ...) as static cache files.
+- :strawberry: [Cache plugin](https://github.com/dereuromark/cakephp-cache) - For caching views (HTML, CSV, JSON, XML, ...) as static cache files.
 
 ## Code Analysis
 *Plugins for analysing, parsing and manipulation codebases.*
