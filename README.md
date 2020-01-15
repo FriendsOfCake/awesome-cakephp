@@ -336,7 +336,7 @@ Additional lists you might find useful:
 - [PlumSearch plugin](https://github.com/skie/plum_search) - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern.
 - :strawberry: [Search plugin](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 - [SphinxSearch plugin](https://github.com/voycey/cakephp-sphinxsearch) - Basic behaviour implementation for querying SphinxSearch indexes.
-- [Tags plugin](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records.
+- :strawberry: [Tags plugin](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records.
 
 ## Security
 *Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*
