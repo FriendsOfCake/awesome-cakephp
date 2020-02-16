@@ -343,6 +343,7 @@ Additional lists you might find useful:
 ## Security
 *Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*
 
+- :strawberry: [Ali1/BruteForceProtectionComponent](https://github.com/Ali1/cakephp-brute-force-protection/tree/master) - Simple way to add Brute Force Protection to your installation without involving database.
 - [BryanCrowe/EncryptedType](https://github.com/bcrowe/cakephp-encrypted-type) - Simple solution that enables Encrypted data types to be stored in the database.
 - :strawberry: [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) - Simple, unobstrusive and extendable captcha solution providing by default an image based math captcha.
 - [CipherBehavior plugin](https://github.com/adayth/cakephp-cipher-behavior) - Cipher your entities data with this behavior. Encryption is done at PHP level using CakePHP Security class.
