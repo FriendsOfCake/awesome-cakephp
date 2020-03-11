@@ -372,7 +372,7 @@ Additional lists you might find useful:
 *Plugins around social features.*
 
 - [CakeDC/Forum plugin](https://github.com/CakeDC/cakephp-forum) - Forum plugin including categories, threads and replies, reporting messages, moderators, admin interface and more.
-- [Ratings plugin](https://github.com/dereuromark/cakephp-ratings) - Allows users to rate records.
+- :strawberry: [Ratings plugin](https://github.com/dereuromark/cakephp-ratings) - Allows users to rate records and displays ratings.
 - [SocialShare plugin](https://github.com/drmonkeyninja/cakephp-social-share) - Link generator for sharing content on social networks.
 
 ## Templating
