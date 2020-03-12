@@ -79,6 +79,10 @@ Additional lists you might find useful:
 
 - [Brunitto/NewRelic plugin](https://github.com/brunitto/cakephp-new-relic) - A simple plugin that enables just name transaction and browser timing for a CakePHP 3 application using the New Relic PHP agent.
 
+## Architecture
+
+:strawberry: [Burzum/CakeServiceLayer plugin](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
+
 ## Asset Management
 *Tools for managing, compressing and minifying website assets.*
 
