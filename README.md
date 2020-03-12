@@ -20,6 +20,7 @@ Additional lists you might find useful:
 
 - [Plugins](#plugins)
 	- [APM](#apm)
+	- [Architecture](#architecture)
 	- [Asset Management](#asset-management)
 	- [Auditing / Logging](#auditing--logging)
 	- [Authentication and Authorization](#authentication-and-authorization)
