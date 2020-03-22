@@ -288,7 +288,7 @@ Additional lists you might find useful:
 - [Notifier plugin](https://github.com/cakemanager/cakephp-notifier) - A plugin that makes creating and reading notifications easy.
 - [ker0x/Push plugin](https://github.com/ker0x/cakephp-push) - A plugin to send push notifications through services like Firebase Cloud Messaging.
 
-## ORM and Datamapping
+## ORM / Database / Datamapping
 *Plugins that implement object-relational mapping or data-mapping techniques.*
 
 - :strawberry: [ADmad/Sequence plugin](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
