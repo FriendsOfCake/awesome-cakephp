@@ -199,7 +199,7 @@ Additional lists you might find useful:
 *Plugins for I18n (Internationalization) and L10n (Localization).*
 
 - :strawberry: [ADmad/I18n plugin](https://github.com/ADmad/cakephp-i18n) - A plugin with I18n related tools.
-- [Localized plugin](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files.
+- :strawberry: [Cake/Localized plugin](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files.
 - :strawberry: [ShadowTranslate plugin](https://github.com/AD7six/cakephp-shadow-translate) - A plugin with shadow table based replacement for core's Translate behavior.
 - [Transifex plugin](https://github.com/dereuromark/cakephp-transifex) - Managing i18n PO files and translations via Transifex API.
 - [Translate plugin](https://github.com/dereuromark/cakephp-translate) - Manage translations of your static content the easy way via web backend, incl. import from POT files, auto-suggest and auto-translate via API.
