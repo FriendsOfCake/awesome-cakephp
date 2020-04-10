@@ -44,7 +44,7 @@ Additional lists you might find useful:
 	- [Navigation](#navigation)
 	- [NoSQL](#nosql)
 	- [Notifications](#notifications)
-	- [ORM and Datamapping](#orm-and-datamapping)
+	- [ORM / Database / Datamapping](#orm--database--datamapping)
 	- [PDF](#pdf)
 	- [Queue](#queue)
 	- [REST and API](#rest-and-api)
@@ -293,7 +293,7 @@ Additional lists you might find useful:
 - [Notifier plugin](https://github.com/cakemanager/cakephp-notifier) - A plugin that makes creating and reading notifications easy.
 - [ker0x/Push plugin](https://github.com/ker0x/cakephp-push) - A plugin to send push notifications through services like Firebase Cloud Messaging.
 
-## ORM and Datamapping
+## ORM / Database / Datamapping
 *Plugins that implement object-relational mapping or data-mapping techniques.*
 
 - :strawberry: [ADmad/Sequence plugin](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
@@ -313,6 +313,7 @@ Additional lists you might find useful:
 - :strawberry: [RowLocker plugin](https://github.com/lorenzo/row-locker) - Exclusive locks for rows in your tables.
 - [Serializeable Data Types plugin](https://github.com/burzum/cakephp-serialize-data-types) - Serialize DB content as JSON or using phps serializing functions.
 - :strawberry: [Muffin/Webservices ORM plugin](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
+- :strawberry: [Connehito/CakephpMasterReplica plugin](https://github.com/Connehito/cakephp-master-replica) - Switch master/replica database connections.
 
 ## PDF
 *Plugins and software for working with PDF files.*
