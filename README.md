@@ -34,6 +34,7 @@ Additional lists you might find useful:
 	- [Files](#files)
 	- [Filtering and Validation](#filtering-and-validation)
 	- [Geolocation](#geolocation)
+	- [HTTP](#http)
 	- [I18n](#i18n)
 	- [Imagery](#imagery)
 	- [Libs](#libs)
@@ -77,12 +78,11 @@ Additional lists you might find useful:
 *Plugins for Application Performance Monitoring.*
 
 - [NewRelic plugin](https://github.com/jippi/cakephp-newrelic/tree/cake3) - A complete plugin that enables full New Relic integration for a CakePHP application, including CLI naming, exceptions sending, custom timings, etc.
-
-- [Brunitto/NewRelic plugin](https://github.com/brunitto/cakephp-new-relic) - A simple plugin that enables just name transaction and browser timing for a CakePHP 3 application using the New Relic PHP agent.
+- [Brunitto/NewRelic plugin](https://github.com/brunitto/cakephp-new-relic) - A simple plugin that enables just name transaction and browser timing using the New Relic PHP agent.
 
 ## Architecture
 
-:strawberry: [Burzum/CakeServiceLayer plugin](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
+- :strawberry: [Burzum/CakeServiceLayer plugin](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
 
 ## Asset Management
 *Tools for managing, compressing and minifying website assets.*
@@ -194,6 +194,11 @@ Additional lists you might find useful:
 *Plugins for geocoding addresses and working with latitudes and longitudes.*
 
 - :strawberry: [Geo plugin](https://github.com/dereuromark/cakephp-geo) - Containing [Geocoder behavior](https://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) and [GoogleMaps helper](https://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
+
+## HTTP
+*Plugins for HTTP and client abstraction*
+
+- :strawberry: [Http/Adapter/Cake library](https://github.com/php-http/cakephp-adapter) - Adapter for [HTTPlug](https://github.com/php-http/httplug) HTTP client abstraction.
 
 ## I18n
 *Plugins for I18n (Internationalization) and L10n (Localization).*
