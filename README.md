@@ -30,7 +30,7 @@ Additional lists you might find useful:
 	- [E-commerce](#e-commerce)
 	- [Email](#email)
 	- [Environment](#environment)
-	- [Files](#files)
+	- [File Manipulation](#file-manipulation)
 	- [Filtering and Validation](#filtering-and-validation)
 	- [Geolocation](#geolocation)
 	- [I18n](#i18n)
@@ -167,7 +167,7 @@ Additional lists you might find useful:
 - [Settings plugin](https://github.com/cakemanager/cakephp-settings) - A plugin to manage your settings via your database.
 - [Setup plugin](https://github.com/dereuromark/cakephp-setup) - Plugin to handle very basic environments.
 
-## Files
+## File Manipulation
 *Plugins for file manipulation.*
 
 - [FileStorage plugin](https://github.com/burzum/cakephp-file-storage) - Abstract file storage and upload plugin.
