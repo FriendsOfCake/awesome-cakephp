@@ -31,7 +31,7 @@ Additional lists you might find useful:
 	- [E-commerce](#e-commerce)
 	- [Email](#email)
 	- [Environment](#environment)
-	- [Files](#files)
+	- [File Manipulation](#file-manipulation)
 	- [Filtering and Validation](#filtering-and-validation)
 	- [Geolocation](#geolocation)
 	- [HTTP](#http)
@@ -171,7 +171,7 @@ Additional lists you might find useful:
 - [Gourmet/Aroma plugin](https://github.com/gourmet/aroma) - Database based configuration.
 - [Settings plugin](https://github.com/cakemanager/cakephp-settings) - A plugin to manage your settings via your database.
 
-## Files
+## File Manipulation
 *Plugins for file manipulation.*
 
 - :strawberry: [FileStorage plugin](https://github.com/burzum/cakephp-file-storage) - Abstract file storage and upload plugin.
