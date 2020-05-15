@@ -96,6 +96,7 @@ Additional lists you might find useful:
 ## Auditing / Logging
 *Plugins for auditing and logging.*
 
+- [Activity Logger plugin](https://github.com/elstc/cakephp-activity-logger) - ActivityLogger plugin for CakePHP.
 - [AuditStash plugin](https://github.com/lorenzo/audit-stash) - Flexible and rock solid audit log tracking.
 - :strawberry: [DatabaseLog plugin](https://github.com/dereuromark/CakePHP-DatabaseLog) - Simple and stand-alone logging to database instead of files.
 - :strawberry: [Muffin/Footprint plugin](https://github.com/UseMuffin/Footprint) - Plugin to allow passing currently logged in user to model layer.
