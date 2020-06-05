@@ -4,7 +4,7 @@ Please ensure your pull request adheres to the following guidelines:
 * Please search previous suggestions before making a new one, as yours may be a duplicate.
 * Code, comments and documentation need to be in English.
 * Libraries that are PHP 5.6+, Composer-installable, CakePHP-PSR compliant, tested and documented are preferred.
-* A license file must be in the root directory.
+* A license file must be in the root directory (usually named `LICENSE`).
 * If possible, please publish your library under an open source license (preferably MIT).
 * Please make an individual pull request for each suggestion.
 * New categories, or improvements to the existing categorisation are welcome.
