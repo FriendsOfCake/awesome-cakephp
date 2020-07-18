@@ -305,7 +305,7 @@ Additional lists you might find useful:
 - [Lqdt/OrmJson plugin](https://github.com/liqueurdetoile/cakephp-orm-json) - Behavior and Trait for selecting, finding, getting and setting properties and values inside JSON type fields through CakePHP ORM.
 - [Money plugin](https://github.com/gourmet/money) - Money data type for CakePHP entities using [sebastianbergmann/money](https://github.com/sebastianbergmann/money).
 - :strawberry: [Muffin/Orderly plugin](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
-- :strawberry: [Muffin/Sti plugin](https://github.com/UseMuffin/Sti) - Single Table Inheritance for CakePHP. 
+- :strawberry: [Muffin/Sti plugin](https://github.com/UseMuffin/Sti) - Single Table Inheritance for CakePHP.
 - :strawberry: [Muffin/Trash plugin](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
 - [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models.
 - [Robotusers/Excel plugin](https://github.com/robotusers/cakephp-excel) - ORM wrapper for PHPExcel.
@@ -378,6 +378,7 @@ Additional lists you might find useful:
 - [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
 - [App template with material ui](https://github.com/coolops/web-app) - CakePHP material ui admin template project for use with composer.
 - :strawberry: [Crud plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code.
+- :strawberry: [Plugin Skeleton](https://github.com/ishanvyas22/cakephp-plugin-skeleton) - CakePHP 4.x plugin skeleton to quickly start with your next plugin idea.
 - [Plugin Skeleton](https://github.com/Xety/Cake3-PluginSkeleton) - A skeleton example to create a Cake3 plugin.
 
 ## Social
