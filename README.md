@@ -221,7 +221,6 @@ Additional lists you might find useful:
 ## Libs
 *Useful libraries or tools that don't fit in any of the other categories.*
 
-- [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP 3.x core.
 - [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano.
 - [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
 - [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer.
@@ -444,7 +443,6 @@ Additional lists you might find useful:
 - [NetBeans plugin](https://github.com/junichi11/cakephp3-netbeans) -  This plugin provides support for CakePHP in NetBeans 8.1+.
 - [Oven](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
 - [PhpStorm plugin](https://github.com/skie/PhpStorm) -  CakePHP auto-completion support for console commands in PhpStorm IDE.
-- [PuPHPet](https://puphpet.com/) - Web interface for building a Vagrant + Puppet box.
 - [Puppet](https://puppetlabs.com/) - A server automation framework and application.
 - [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
 
@@ -486,10 +484,8 @@ Various resources, such as books, websites and articles, for improving your Cake
 ## CakePHP Websites
 *Useful and current CakePHP-related websites and blogs.*
 
-- [AD7six.com](http://AD7six.com) - A CakePHP core dev blog.
 - [CakeDC](http://www.cakedc.com/articles) - Articles around CakePHP.
 - [dereuromark.de](https://www.dereuromark.de) - An extensive CakePHP core dev blog.
-- [florian-kraemer.net](http://florian-kraemer.net) - A CakePHP related core dev blog.
 - [jedistirfry.co.uk](http://jedistirfry.co.uk) - A CakePHP related dev blog.
 - [josediazgonzalez.com](http://josediazgonzalez.com/) - A mainly CakePHP related core dev blog.
 - [mark-story.com](http://mark-story.com) - CakePHP lead dev blog.
