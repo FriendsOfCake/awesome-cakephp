@@ -263,7 +263,7 @@ Additional lists you might find useful:
 - :strawberry: [Feedback plugin](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
 - :strawberry: [Flash plugin](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
 - [Heartbeat plugin](https://github.com/orca-services/cakephp-heartbeat/) - Monitor the hearbeat of your application (e.g. whether the database is available and up-to-date).
-- [Inertia.js adapter](https://github.com/ishanvyas22/cakephp-inertiajs) - The CakePHP adapter for Inertia.js.
+- [Inertia plugin](https://github.com/ishanvyas22/cakephp-inertiajs) - Server side adapter for Inertia.js.
 - [Interval plugin](https://github.com/LubosRemplik/CakePHP-Interval) - Converts seconds to human readable string (string to seconds), uses business hours (1 week = 5 days, 1 day = 8 hours).
 - [LinkScanner](https://github.com/mirko-pagliai/cakephp-link-scanner) - A plugin for recursively scanning links.
 - [Robotusers/Tactician plugin](https://github.com/robotusers/cakephp-tactician) - Tools for Tactician command bus integration.
