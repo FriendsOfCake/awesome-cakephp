@@ -507,7 +507,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 - [Official Blog tutorial](https://book.cakephp.org/3.0/en/tutorials-and-examples/blog/blog.html)
 
 ## CakePHP Reading and Listening
-*Documentation and CakePHP-releated reading and listening materials.*
+*Documentation and CakePHP-related reading and listening materials.*
 
 - [CakePHP Cookbook(!)](https://book.cakephp.org/) - The official CakePHP documentation.
 - [CakePHP Reporter](https://www.scoop.it/topic/cakephp-reporter) - A newspaper and collection of material about CakePHP.
