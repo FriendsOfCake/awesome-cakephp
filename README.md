@@ -104,7 +104,7 @@ Additional lists you might find useful:
 ## Authentication and Authorization
 *Plugins and libraries for implementing authentication and authorization.*
 
-- [Acl plugin](https://github.com/cakephp/acl/) - Managing ACL as database approach.
+- :strawberry: [Acl plugin](https://github.com/cakephp/acl/) - Managing ACL as database approach.
 - [ADmad/HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) - A plugin which allows using the [HybridAuth](https://github.com/hybridauth/hybridauth) social sign on library with CakePHP.
 - [ADmad/JwtAuth plugin](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
 - :strawberry: [Authentication plugin](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
