@@ -477,7 +477,6 @@ Various resources, such as books, websites and articles, for improving your Cake
 *Where to get help.*
 
 - [CakePHP-FR.org](http://cakephp-fr.org) - The french community website.
-- [CakePHP.ir](http://forum.cakephp.ir/) - discussion with other devs and generic questions for Persian community.
 - [Official CakePHP Forum](https://discourse.cakephp.org/) - This is for generic questions and alike.
 - [IRC Channel](https://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) - Live chat/discussion with other devs and core devs.
 - [stackoverflow.com/questions/tagged/cakephp](https://stackoverflow.com/questions/tagged/cakephp) - This is for specific questions, ideally along with some example code.
