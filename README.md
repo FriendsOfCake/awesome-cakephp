@@ -153,7 +153,7 @@ Additional lists you might find useful:
 ## E-commerce
 *Plugins and applications for taking payments and building online e-commerce stores.*
 
-- [PaypalWPP plugin](https://github.com/cpierce/paypal-wpp) - A package for communicating with Paypal Web Payments Pro for transactions and information about your account.
+- [PaypalWPP plugin](https://github.com/cpierce/paypal-wpp) - For communicating with Paypal Web Payments Pro for transactions and information about your account.
 
 ## Email
 *Plugins for sending and parsing email.*
