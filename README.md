@@ -377,8 +377,8 @@ Additional lists you might find useful:
 
 - :strawberry: [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
 - [App template with material ui](https://github.com/coolops/web-app) - CakePHP material ui admin template project for use with composer.
-- :strawberry: [MixerAPI/Bake](https://github.com/mixerapi/bake) - Bake theme for generating RESTful controllers.
 - :strawberry: [Crud plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code.
+- :strawberry: [MixerApi/Bake](https://github.com/mixerapi/bake) - Bake theme for generating RESTful controllers.
 - [Plugin Skeleton](https://github.com/Xety/Cake3-PluginSkeleton) - A skeleton example to create a Cake3 plugin.
 
 ## Social
