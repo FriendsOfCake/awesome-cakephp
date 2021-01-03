@@ -1,0 +1,14 @@
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: docker://dkhamsing/awesome_bot:latest
+      with:
+        args: --allow-redirect --allow-dupe --request-delay 1 --white-list www.vagrantup.com README.md
+    - uses: actions/upload-artifact@v1
+      if: failure()
+      with:
+        name: ab-results
+        path: ab-results-README.md-filtered.json
