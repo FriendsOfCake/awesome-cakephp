@@ -105,8 +105,8 @@ Additional lists you might find useful:
 *Plugins and libraries for implementing authentication and authorization.*
 
 - :strawberry: [Acl plugin](https://github.com/cakephp/acl/) - Managing ACL as database approach.
-- [ADmad/HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) - A plugin which allows using the [HybridAuth](https://github.com/hybridauth/hybridauth) social sign on library with CakePHP.
 - :strawberry: [ADmad/JwtAuth plugin](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
+- :strawberry: [ADmad/SocialAuth plugin](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth](https://github.com/SocialConnect/auth) social sign on library.
 - :strawberry: [Authentication plugin](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
 - :strawberry: [Authorization plugin](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
 - [CakeDC/NavAuth plugin](https://github.com/CakeDC/cakephp-nav-auth) - A plugin for authenticating against Navision® service using SOAP or OData services. It includes NTLM authentication and more.
