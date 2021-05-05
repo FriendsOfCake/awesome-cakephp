@@ -438,9 +438,9 @@ Additional lists you might find useful:
 ## Development Environment
 *Software and tools for creating a sandboxed development environment.*
 
-- [Cakebox](https://github.com/alt3/cakebox) - A Vagrant development environment powered by the CakePHP 3.x Console.
 - [CakePHP.gitignore](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - The .gitignore file proposals.
 - [CakePHP Vagrant Setup](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP 3.x Vanilla Dev Environments.
+- [Devilbox](https://devilbox.readthedocs.io/en/latest/) - A docker development environment for (CakePHP) apps to be auto-setup including a lot of tools.
 - [Docker](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment.
 - [Mixer](https://github.com/CakeDC/mixer) - A plugin to discover and manage CakePHP plugins.
 - [NetBeans](https://github.com/junichi11/cakephp3-netbeans) -  This package provides support for CakePHP in NetBeans 8.1+.
