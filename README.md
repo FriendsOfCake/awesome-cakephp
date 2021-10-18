@@ -264,7 +264,7 @@ Additional lists you might find useful:
 - [DatabaseBackup plugin](https://github.com/mirko-pagliai/cakephp-database-backup) - A plugin to export, import and manage database backups.
 - :strawberry: [Feedback plugin](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
 - :strawberry: [Flash plugin](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
-- [FormBuilder](https://github.com/bancer/form-builder) - FormHelper wrapper library that provides fluent interface (methods chaining) to build HTML form elements. 
+- :strawberry: [FormBuilder](https://github.com/bancer/form-builder) - FormHelper wrapper library that provides fluent interface (methods chaining) to build HTML form elements. 
 - :strawberry: [OPCache Preloader](https://github.com/cnizzardini/cakephp-preloader) - An OPCache Preloader for CakePHP 4.x applications. 
 - [OrcaServices/Heartbeat plugin](https://github.com/orca-services/cakephp-heartbeat/) - Monitor the hearbeat of your application (e.g. whether the database is available and up-to-date).
 - [Inertia plugin](https://github.com/ishanvyas22/cakephp-inertiajs) - Server side adapter for Inertia.js.
