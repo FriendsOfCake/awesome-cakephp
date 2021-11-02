@@ -228,10 +228,8 @@ Additional lists you might find useful:
 - [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer.
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
-- [Jenkins](https://jenkins.io/) - The free alternative for private (GitHub) repos.
 - [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package.
-- [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
-- [YamlRoute](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files.
+- [makallio85/YamlRoute plugin](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files.
 
 ## Markup
 *Plugins for working with markup.*
