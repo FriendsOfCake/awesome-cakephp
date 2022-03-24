@@ -44,6 +44,7 @@ Additional naming tips:
 
 ## Tips for creating CakePHP plugins
 
+* Follow https://github.com/php-pds/skeleton
 * Make sure the README or docs contain installation and usage instructions. The more verbose, the better.
 * The composer.json contains necessary dependencies including constraints (ideally using [semver](http://semver.org/) and `^` operator).
 * The plugin contains basic tests (unit, ...) of the functionality provided.
