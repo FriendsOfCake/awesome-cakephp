@@ -47,7 +47,8 @@ Additional naming tips:
 * Follow https://github.com/php-pds/skeleton
 * Make sure the README or docs contain installation and usage instructions. The more verbose, the better.
 * The composer.json contains necessary dependencies including constraints (ideally using [semver](http://semver.org/) and `^` operator).
+* PHP constraint is set as `>=`, e.g. `>=7.3` (with the minimum being the current one of the corresponding CakePHP minor) and allows also latest new PHP minors to work
 * The plugin contains basic tests (unit, ...) of the functionality provided.
-* It should have Travis or some CI set up.
+* It should have Travis or some CI set up. Make sure to set min/max of PHP as matrix elements.
 * You can add badges under the README h1 header to visually show your tests are green etc.
 * Ideally, also check phpstan on `src/` dir and [prefer-lowest](https://www.dereuromark.de/2019/01/04/test-composer-dependencies-with-prefer-lowest) to ensure a high quality for your plugin.
