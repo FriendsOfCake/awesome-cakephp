@@ -510,6 +510,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 *Must-do tutorials.*
 
 - [Official Blog tutorial](https://book.cakephp.org/3.0/en/tutorials-and-examples/blog/blog.html)
+- :strawberry: [Official Content Management Tutorial](https://book.cakephp.org/4/en/tutorials-and-examples/cms/installation.html)
 
 ## CakePHP Reading and Listening
 *Documentation and CakePHP-related reading and listening materials.*
