@@ -334,6 +334,7 @@ Additional lists you might find useful:
 ## REST and API
 *Plugins and web tools for developing REST-ful APIs.*
 
+- :strawberry: [CRUD plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code.
 - :strawberry: [Alt3/Swagger plugin](https://github.com/alt3/cakephp-swagger) - Swagger 2.0 documentation for your CakePHP APIs using swagger-php and swagger-ui.
 - [Alt3/ValidationExposer plugin](https://github.com/alt3/cakephp-validation-exposer) - Easily expose your application's validation rules.
 - [ApiPagination plugin](https://github.com/bcrowe/cakephp-api-pagination) - Injects pagination information from CakePHP's Paginator into serialized JsonView and XmlView responses.
@@ -380,7 +381,6 @@ Additional lists you might find useful:
 *Plugins and repositories around app skeletons.*
 
 - :strawberry: [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
-- :strawberry: [Crud plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code.
 - :strawberry: [MixerApi/Bake](https://github.com/mixerapi/bake) - Bake theme for generating RESTful controllers.
 - [Plugin Skeleton](https://github.com/Xety/Cake3-PluginSkeleton) - A skeleton example to create a Cake3 plugin.
 
