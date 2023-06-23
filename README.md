@@ -356,6 +356,7 @@ IDE specific compatibility information and tips can be found [here](https://gith
 
 ## CMS and applications built on CakePHP
 
+- [baserCMS](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP 4.x.
 - [Croogo](https://croogo.org) - CMS software (see 5.0 branch).
 
 ## Demo
