@@ -7,7 +7,6 @@ If you are looking for CakePHP 2.x resources please visit:
 - the [CakePHP 2.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake2) of this awesome list
 - this wiki with a [list of not-yet upgraded plugins](https://github.com/FriendsOfCake/awesome-cakephp/wiki#plugins-not-yet-upgraded-from-2x-to-3x)
 
-
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
 - [Awesome PHP](https://github.com/ziadoz/awesome-php)
