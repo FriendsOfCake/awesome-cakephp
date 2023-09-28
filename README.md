@@ -81,7 +81,7 @@ Additional lists you might find useful:
 
 ## Architecture
 
-- [Burzum/CakeServiceLayer plugin](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
+- 🍰 [Burzum/CakeServiceLayer plugin](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
 
 ## Asset Management
 *Tools for managing, compressing and minifying website assets.*
