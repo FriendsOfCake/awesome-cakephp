@@ -310,7 +310,7 @@ Additional lists you might find useful:
 ## Social
 *Plugins around social features.*
 
-- [Ratings plugin](https://github.com/dereuromark/cakephp-ratings) - Allows users to rate records and displays ratings.
+- 🍰 [Ratings plugin](https://github.com/dereuromark/cakephp-ratings) - Allows users to rate records and displays ratings.
 
 ## Templating
 *Plugins for templating and lexing.*
