@@ -283,7 +283,7 @@ Additional lists you might find useful:
 - [Cake/ElasticSearch plugin](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
 - [PlumSearch plugin](https://github.com/skie/plum_search) - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern.
 - [Search plugin](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
-- [Tags plugin](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records.
+- 🍰 [Tags plugin](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records.
 
 ## Security
 *Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*
