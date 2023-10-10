@@ -3,11 +3,11 @@ Please ensure your pull request adheres to the following guidelines:
 
 * Please search previous suggestions before making a new one, as yours may be a duplicate.
 * Code, comments and documentation need to be in English.
-* Libraries that are PHP 7.3+, Composer-installable, CakePHP-PSR compliant, tested and documented are preferred.
+* Libraries that are PHP 7.4+, Composer-installable, CakePHP-PSR compliant, tested and documented are preferred.
 * A license file must be in the root directory (usually named `LICENSE`).
-* If possible, please publish your library under an open source license (preferably MIT).
+* If possible, please publish your library under an open-source license (preferably MIT).
 * Please make an individual pull request for each suggestion.
-* New categories, or improvements to the existing categorisation are welcome.
+* New categories or improvements to the existing categorization are welcome.
 * Keep descriptions short and simple.
 * End all descriptions with a full stop/period.
 * Check your spelling and grammar.
@@ -47,7 +47,8 @@ Additional naming tips:
 * Follow https://github.com/php-pds/skeleton
 * Make sure the README or docs contain installation and usage instructions. The more verbose, the better.
 * The composer.json contains necessary dependencies including constraints (ideally using [semver](http://semver.org/) and `^` operator).
-* PHP constraint is set as `>=`, e.g. `>=7.3` (with the minimum being the current one of the corresponding CakePHP minor) and allows also latest new PHP minors to work.
+* PHP constraint is set as `>=`, e.g. `>=7.4` (with the minimum being the current one of the corresponding CakePHP minor) and allows also latest new PHP minors to work.
+* Make sure to set the type to "cakephp-plugin", not "library" (`"type": "cakephp-plugin"`)
 * The plugin contains basic tests (unit, ...) of the functionality provided.
 * It should have Travis or some CI set up. Make sure to set min/max of PHP as matrix elements.
 * You can add badges under the README h1 header to visually show your tests are green etc.
