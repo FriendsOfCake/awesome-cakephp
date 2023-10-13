@@ -201,7 +201,7 @@ Additional lists you might find useful:
 ## Markup
 *Plugins for working with markup.*
 
-- [Markup plugin](https://github.com/dereuromark/cakephp-markup) - Allows to use PHP or JS based syntax highlighting.
+- 🍰 [Markup plugin](https://github.com/dereuromark/cakephp-markup) - Allows to use PHP or JS based syntax highlighting.
 
 ## Migration
 *Plugins and resources around migration and upgrading.*
@@ -214,13 +214,13 @@ Additional lists you might find useful:
 ## Miscellaneous
 *Misc plugins and libraries.*
 
-- [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
+- 🍰 [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 - 🍰 [CakeDC/Enum plugin](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
 - 🍰 [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
 - [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate) - A component that stores the current authentication session and creates new session for impersonating Users. User can revert back to original authentication sessions without the need to re-login.
 - [Calendar plugin](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
 - [Feedback plugin](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
-- [Flash plugin](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
+- 🍰 [Flash plugin](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
 - [OPCache Preloader](https://github.com/cnizzardini/cakephp-preloader) - An OPCache Preloader for CakePHP 4.x applications. 
 - 🍰 [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 - 🍰 [Shim plugin](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
@@ -289,7 +289,7 @@ Additional lists you might find useful:
 *Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*
 
 - [Bruteforce](https://github.com/Ali1/cakephp-bruteforce/) - Simple way to add Brute Force Protection to your installation without involving database.
-- [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) - Simple, unobstrusive and extendable captcha solution providing by default an image based math captcha.
+- 🍰 [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) - Simple, unobstrusive and extendable captcha solution providing by default an image based math captcha.
 - 🍰 [Expose plugin](https://github.com/dereuromark/cakephp-expose) - Expose entities through additional UUIDs instead of their AIID primary keys to obfuscate those IDs and data associated with these numerically ordered values.
 - 🍰 [Muffin/Obfuscate plugin](https://github.com/usemuffin/obfuscate) - Primary key obfuscation/shortening using UUIDs, HashIds, Optimus, Tiny and/or custom obfuscation strategies.
 - 🍰 [Muffin/Throttle plugin](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
