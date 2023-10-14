@@ -342,7 +342,7 @@ Additional lists you might find useful:
 ## Development Environment
 *Software and tools for creating a sandboxed development environment.*
 
-- [CakePHP Docker](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker and kubernetes setup.
+- 🍰 [CakePHP Docker](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker.
 - [CakePHP Vagrant Setup](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP 3.x Vanilla Dev Environments.
 - [Devilbox](https://devilbox.readthedocs.io/en/latest/) - A docker development environment for (CakePHP) apps to be auto-setup including a lot of tools.
 - [Docker](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment.
