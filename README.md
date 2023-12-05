@@ -31,7 +31,6 @@ Additional lists you might find useful:
 	- [Dependency Injection](#dependency-injection)
 	- [E-commerce](#e-commerce)
 	- [Email](#email)
-	- [Environment](#environment)
 	- [File Manipulation](#file-manipulation)
 	- [Filtering and Validation](#filtering-and-validation)
 	- [Geolocation](#geolocation)
@@ -150,10 +149,6 @@ Additional lists you might find useful:
 - [Mailgun plugin](https://github.com/narendravaghela/cakephp-mailgun) - Email transport plugin for sending email via Mailgun.
 - 🍰 [Queue plugin](https://github.com/dereuromark/cakephp-queue) - A dependency-free queue-based mail solution using Mailer/Email class, allowing re-queue on (network) failure.
 - 🍰 [QueueScheduler plugin](https://github.com/dereuromark/cakephp-queue-scheduler) - A dependency-free crontab-like scheduler as DB driven solution and addon to Queue plugin.
-
-## Environment
-*Plugins for environment.*
-
 
 ## File Manipulation
 *Plugins for file manipulation.*
