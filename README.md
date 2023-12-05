@@ -160,6 +160,7 @@ Additional lists you might find useful:
 ## Filtering and Validation
 *Plugins for filtering and validating data.*
 
+- see Cake/Localized below.
 
 ## Geolocation
 *Plugins for geocoding addresses and working with latitudes and longitudes.*
