@@ -316,6 +316,7 @@ Additional lists you might find useful:
 - 🍰 [CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 - 🍰 [Feed plugin](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
 - 🍰 [Meta plugin](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO-relevant HTML markup DRY and easy.
+- 🍰 [Template](https://github.com/dereuromark/cakephp-template) - HTML snippets as value objects, (Font) icons and templating topics.
 - 🍰 [Tools:Tree](https://github.com/dereuromark/cakephp-tools) - Tree helper to work with Core Tree behavior and handle tree structure output.
 - 🍰 [TwigView plugin](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
 
