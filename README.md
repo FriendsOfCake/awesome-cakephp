@@ -204,9 +204,9 @@ Additional lists you might find useful:
 *Plugins and resources around migration and upgrading.*
 
 - 🍰 [Migrations plugin](https://github.com/cakephp/migrations) - (DB) Migration plugin.
-- [Upgrade app](https://github.com/cakephp/upgrade) - Official upgrade app for 2.x=>3.x and 3.x=>4.x.
-- [Upgrade app (extended)](https://github.com/dereuromark/upgrade) - An extended upgrade app for 2.x=>3.x, between 3.x and some 4.x snippets.
-- [Upgrade/Migration Guide](https://book.cakephp.org/4.0/en/appendices.html) - Official migration guide.
+- 🍰 [Upgrade app](https://github.com/cakephp/upgrade) - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
+- 🍰 [Upgrade app (extended)](https://github.com/dereuromark/upgrade) - An extended upgrade app for 3.x=>4.x and some 5.x snippets.
+- 🍰 [Upgrade/Migration Guide](https://book.cakephp.org/5/en/appendices.html) - Official migration guide.
 
 ## Miscellaneous
 *Misc plugins and libraries.*
