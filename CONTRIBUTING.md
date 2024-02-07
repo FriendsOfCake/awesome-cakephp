@@ -3,7 +3,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 * Please search previous suggestions before making a new one, as yours may be a duplicate.
 * Code, comments and documentation need to be in English.
-* Libraries that are PHP 7.4+, Composer-installable, CakePHP-PSR compliant, tested and documented are preferred.
+* Libraries that are PHP 8.1+, Composer-installable, CakePHP-PSR compliant, tested and documented are preferred.
 * A license file must be in the root directory (usually named `LICENSE`).
 * If possible, please publish your library under an open-source license (preferably MIT).
 * Please make an individual pull request for each suggestion.
@@ -22,8 +22,8 @@ Thank you for your suggestions!
 
 Choose a semantically meaningful name for the package name. This should ideally be prefixed with the dependency, in this case "cakephp" as the framework.
 The vendor name will usually be your GitHub username.
-Do **not** use the CakePHP namespace (cakephp) as this is reserved to CakePHP owned plugins.
-The convention is to use lowercase letters and dashes as separator.
+Do **not** use the CakePHP namespace (`cakephp`) as this is reserved to CakePHP owned plugins.
+The convention is to use lowercase letters and dashes as separators.
 
 So if you created a plugin `Logging` with your GitHub account `FooBar`, a good name
 would be `foo-bar/cakephp-logging`.
@@ -35,7 +35,7 @@ This would then be in your composer autoload definition:
 "MyName\\MyPlugin\\": "src/"
 ```
 The name then would be `MyName/MyPlugin` and the composer package name then would be inflected as `my-name/my-plugin`.
-GitHub URL would be then `github.com/my-name/my-plugin` respectivly.
+GitHub URL would be then `github.com/my-name/my-plugin` respectively.
 
 Make sure those names match to avoid confusion here for users.
 
