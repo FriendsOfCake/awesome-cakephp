@@ -1,7 +1,7 @@
 # Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome **CakePHP 3.x+** plugins, resources and shiny things.
 
-Plugins with the ":strawberry:" icon have CakePHP 4 compatible release too.
+Plugins with the "🍓" icon have CakePHP 4 compatible release too.
 
 If you are looking for CakePHP 2.x resources please visit:
 - the [CakePHP 2.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake2) of this awesome list
