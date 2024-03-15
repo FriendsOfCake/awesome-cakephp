@@ -115,7 +115,7 @@ Additional lists you might find useful:
 *Plugins for caching data.*
 
 - 🍰 [Cache plugin](https://github.com/dereuromark/cakephp-cache) - For caching views (HTML, CSV, JSON, XML, ...) as static cache files.
-- 🍰 [CakeDC/CachedRouting](https://github.com/CakeDC/cakephp-cached-routing) - Provides a cached version of the RoutingMiddleware to improve the load time of routes.
+- 🍰 [CakeDC/CachedRouting plugin](https://github.com/CakeDC/cakephp-cached-routing) - Provides a cached version of the RoutingMiddleware to improve the load time of routes.
 
 ## Code Analysis
 *Plugins for analyzing, parsing and manipulation codebases.*
