@@ -284,6 +284,7 @@ Additional lists you might find useful:
 - 🍰 [PlumSearch plugin](https://github.com/skie/plum_search) - Implements custom, flexible and extendable search strategies. Implements PRG pattern.
 - 🍰 [Search plugin](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 - 🍰 [Tags plugin](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records.
+- 🍰 [CakeDC Search plugin](https://github.com/CakeDC/search-filter) - Powerful and flexible solution for implementing advanced search functionality. Provides a robust set of tools for creating dynamic, user-friendly search interfaces with minimal effort.
 
 ## Security
 *Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*
