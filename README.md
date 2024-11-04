@@ -308,6 +308,7 @@ Additional lists you might find useful:
 *Plugins and repositories around app skeletons.*
 
 - [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
+- [BS flavored App template](https://github.com/dereuromark/cakephp-app) - An empty CakePHP project with BS5 and FontAwesome out of the box.
 
 ## Social
 *Plugins around social features.*
