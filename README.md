@@ -168,11 +168,6 @@ Additional lists you might find useful:
 
 - 🍰 [Geo plugin](https://github.com/dereuromark/cakephp-geo) - Containing [Geocoder behavior](https://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) and [GoogleMaps helper](https://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
 
-## HTTP
-*Plugins for HTTP and client abstraction*
-
-- [Http/Adapter/Cake library](https://github.com/php-http/cakephp-adapter) - Adapter for [HTTPlug](https://github.com/php-http/httplug) HTTP client abstraction.
-
 ## I18n
 *Plugins for I18n (Internationalization) and L10n (Localization).*
 
@@ -195,7 +190,6 @@ Additional lists you might find useful:
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 - [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package.
-- 🍰 [makallio85/YamlRoute plugin](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files.
 
 ## Markup
 *Plugins for working with markup.*
