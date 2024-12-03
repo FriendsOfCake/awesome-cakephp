@@ -34,7 +34,6 @@ Additional lists you might find useful:
 	- [File Manipulation](#file-manipulation)
 	- [Filtering and Validation](#filtering-and-validation)
 	- [Geolocation](#geolocation)
-	- [HTTP](#http)
 	- [I18n](#i18n)
 	- [Imagery](#imagery)
 	- [Libs](#libs)
