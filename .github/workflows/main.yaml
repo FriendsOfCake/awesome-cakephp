@@ -3,11 +3,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - uses: docker://dkhamsing/awesome_bot:latest
       with:
         args: --allow-redirect --allow-dupe --request-delay 1 --white-list www.vagrantup.com README.md
-    - uses: actions/upload-artifact@v1
+    - uses: actions/upload-artifact@v4
       if: failure()
       with:
         name: ab-results
