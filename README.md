@@ -327,7 +327,7 @@ IDE specific compatibility information and tips can be found [here](https://gith
 
 ## CMS and applications built on CakePHP
 
-- [baserCMS](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP 4.x.
+- [baserCMS](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
 
 ## Demo
 *Web-based (demo) applications and tools.*
