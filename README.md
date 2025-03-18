@@ -198,6 +198,7 @@ Additional lists you might find useful:
 - [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 - [Shim plugin](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 - [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells and more.
+- [InertiaJS plugin](https://github.com/CakeDC/cakephp-inertia) - Plugin for build a Vue 3 app in front and load it on CakePHP site. Communicate Vue 3 Component on front with back without implement and use an API interface using a Middleware. 
 
 ## Navigation
 *Tools for building navigation structures.*
