@@ -254,6 +254,7 @@ Additional lists you might find useful:
 *Plugins and software for indexing and performing search queries on data.*
 
 - [Cake/ElasticSearch plugin](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
+- [ElasticKit](https://github.com/josbeir/cakephp-elastikit) - A lightweight plugin for working with Elasticsearch using the official PHP client
 - [CakeDC/SearchFilter plugin](https://github.com/CakeDC/search-filter) - Powerful and flexible solution for implementing advanced search functionality. Provides a robust set of tools for creating dynamic, user-friendly search interfaces with minimal effort.
 - [PlumSearch plugin](https://github.com/skie/plum_search) - Implements custom, flexible and extendable search strategies. Implements PRG pattern.
 - [Search plugin](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
