@@ -26,6 +26,7 @@ Additional lists you might find useful:
 	- [Authentication and Authorization](#authentication-and-authorization)
 	- [Caching](#caching)
 	- [Code Analysis](#code-analysis)
+    - [Console](#console)
 	- [Debugging](#debugging)
 	- [Email](#email)
 	- [File Manipulation](#file-manipulation)
@@ -119,6 +120,11 @@ Additional lists you might find useful:
 - [IdeHelperExtra plugin](https://github.com/dereuromark/cakephp-ide-helper-extra) - Useful IdeHelper addons for other plugins or custom use cases.
 - [lordsimal/cakephp-psalm](https://github.com/LordSimal/cakephp-psalm) - A Psalm extension to resolve CakePHP magic around getter return types for the static analyzer.
 - [TestHelper plugin](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
+
+## Console
+*Plugins for console enhancements.*
+
+- [SignalHandler plugin](https://github.com/skie/SignalHandler) - Cross-platform signal handling for CakePHP console commands with zero external dependencies. Supports Linux (pcntl), Windows (native API).
 
 ## Debugging
 *Plugins for debugging and local development.*
