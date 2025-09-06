@@ -135,6 +135,7 @@ Additional lists you might find useful:
 - [Execution order](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks.
 - [Sentry plugin](https://github.com/lordsimal/cakephp-sentry) A plugin to seamlessly integrate Sentry for errors and exceptions.
 - [Setup plugin](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing healthcheck(s), debugging and maintenance tools.
+- [SMTP Sandbox](https://mailmug.net/) - Sandbox SMTP service to capture and debug emails in staging, development, and QA environments before sending them to production.
 
 ## Email
 *Plugins for sending and parsing email.*
