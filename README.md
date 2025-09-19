@@ -26,6 +26,7 @@ Additional lists you might find useful:
 	- [Authentication and Authorization](#authentication-and-authorization)
 	- [Caching](#caching)
 	- [Code Analysis](#code-analysis)
+    - [Console](#console)
 	- [Debugging](#debugging)
 	- [Email](#email)
 	- [File Manipulation](#file-manipulation)
@@ -120,6 +121,11 @@ Additional lists you might find useful:
 - [lordsimal/cakephp-psalm](https://github.com/LordSimal/cakephp-psalm) - A Psalm extension to resolve CakePHP magic around getter return types for the static analyzer.
 - [TestHelper plugin](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
 
+## Console
+*Plugins for console enhancements.*
+
+- [SignalHandler plugin](https://github.com/skie/SignalHandler) - Cross-platform signal handling for CakePHP console commands with zero external dependencies. Supports Linux (pcntl), Windows (native API).
+
 ## Debugging
 *Plugins for debugging and local development.*
 
@@ -128,7 +134,7 @@ Additional lists you might find useful:
 - [DebugKit plugin](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 - [Execution order](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks.
 - [Sentry plugin](https://github.com/lordsimal/cakephp-sentry) A plugin to seamlessly integrate Sentry for errors and exceptions.
-- [Setup plugin](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
+- [Setup plugin](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing healthcheck(s), debugging and maintenance tools.
 
 ## Email
 *Plugins for sending and parsing email.*
@@ -147,6 +153,8 @@ Additional lists you might find useful:
 
 - see Cake/Localized plugin below.
 - see Tools plugin below.
+- [RuleFlow plugin](https://github.com/skie/rule-flow) - A plugin that seamlessly transforms server-side validation rules into client-side JSON Logic validation, providing automatic form validation without requiring separate client-side validation code.
+
 
 ## Geolocation
 *Plugins for geocoding addresses and working with latitudes and longitudes.*
@@ -256,6 +264,7 @@ Additional lists you might find useful:
 
 - [Cake/ElasticSearch plugin](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
 - [CakeDC/SearchFilter plugin](https://github.com/CakeDC/search-filter) - Powerful and flexible solution for implementing advanced search functionality. Provides a robust set of tools for creating dynamic, user-friendly search interfaces with minimal effort.
+- [ElasticKit plugin](https://github.com/josbeir/cakephp-elastickit) - A lightweight plugin for working with Elasticsearch using the official PHP client.
 - [PlumSearch plugin](https://github.com/skie/plum_search) - Implements custom, flexible and extendable search strategies. Implements PRG pattern.
 - [Search plugin](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 - [Tags plugin](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records.
@@ -295,7 +304,9 @@ Additional lists you might find useful:
 - [BootstrapUI plugin](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
 - [CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 - [Feed plugin](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
+- [LatteView plugin](https://github.com/josbeir/cakephp-latte-view) - A plugin providing Latte template engine integration.
 - [Meta plugin](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO-relevant HTML markup DRY and easy.
+- [TemplaterDefaults plugin](https://github.com/josbeir/cakephp-templater-defaults) - Allows the use of default HTML attributes within CakePHP's string template system.
 - [Templating](https://github.com/dereuromark/cakephp-templating) - HTML snippets as value objects, (Font) icons, and templating topics.
 - [Tools:Tree](https://github.com/dereuromark/cakephp-tools) - Tree helper to work with Core Tree behavior and handle tree structure output.
 - [TwigView plugin](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
