@@ -125,6 +125,7 @@ Additional lists you might find useful:
 *Plugins for console enhancements.*
 
 - [SignalHandler plugin](https://github.com/skie/SignalHandler) - Cross-platform signal handling for CakePHP console commands with zero external dependencies. Supports Linux (pcntl), Windows (native API).
+- [Scheduling plugin](https://github.com/skie/cakephp-scheduling) - The plugin provides task scheduling capabilities with sub-minute precision, allowing you to schedule tasks as frequently as every second, with single crontab entry point. It allows tasks monitoring.
 
 ## Debugging
 *Plugins for debugging and local development.*
@@ -202,6 +203,7 @@ Additional lists you might find useful:
 - [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 - [CakeDC/Enum plugin](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
 - [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
+- [CakeHtmx plugin](https://github.com/zunnu/cake-htmx) - CakePHP integration for [htmx](https://htmx.org/).
 - [Calendar plugin](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
 - [Feedback plugin](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
 - [Flash plugin](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
