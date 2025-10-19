@@ -40,7 +40,7 @@ Additional lists you might find useful:
 	- [Miscellaneous](#miscellaneous)
 	- [Navigation](#navigation)
 	- [NoSQL](#nosql)
-	- [Notifications](#notifications)
+	- [Notifications and Real-time Communication](#notifications-and-real-time-communication)
 	- [ORM / Database / Datamapping](#orm--database--datamapping)
 	- [PDF](#pdf)
 	- [Queue](#queue)
@@ -222,9 +222,10 @@ Additional lists you might find useful:
 ## NoSQL
 *Plugins for working with "NoSQL" backends.*
 
-## Notifications
+## Notifications and Real-time Communication
 *Plugins for working with notification software.*
 
+- [Mercure plugin](https://github.com/josbeir/cakephp-mercure) - Push real-time updates to clients using the Mercure protocol.
 
 ## ORM / Database / Datamapping
 *Plugins that implement object-relational mapping or data-mapping techniques.*
