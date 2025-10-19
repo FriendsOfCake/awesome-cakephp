@@ -40,7 +40,7 @@ Additional lists you might find useful:
 	- [Miscellaneous](#miscellaneous)
 	- [Navigation](#navigation)
 	- [NoSQL](#nosql)
-	- [Notifications](#notifications)
+	- [Notifications and Real-time Communication](#notifications-and-real-time-communication)
 	- [ORM / Database / Datamapping](#orm--database--datamapping)
 	- [PDF](#pdf)
 	- [Queue](#queue)
