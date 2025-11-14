@@ -38,7 +38,6 @@ Additional lists you might find useful:
 	- [Migration](#migration)
 	- [Miscellaneous](#miscellaneous)
 	- [Navigation](#navigation)
-	- [NoSQL](#nosql)
 	- [Notifications and Real-time Communication](#notifications-and-real-time-communication)
 	- [ORM / Database / Datamapping](#orm--database--datamapping)
 	- [PDF](#pdf)
@@ -214,9 +213,6 @@ Additional lists you might find useful:
 *Building navigation structures.*
 
 - [Icings/Menu plugin](https://github.com/icings/menu) - A [KnpMenu](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
-
-## NoSQL
-*Working with "NoSQL" backends.*
 
 ## Notifications and Real-time Communication
 *Working with notification software.*
