@@ -84,6 +84,7 @@ Additional lists you might find useful:
 *Tracking changes and events in your app.*
 
 - [AuditStash plugin](https://github.com/dereuromark/cakephp-audit-stash) - Flexible and rock solid audit log tracking.
+- [Bouncer plugin](https://github.com/dereuromark/cakephp-bouncer) - The pendant to AuditStash, allow moderation and approval of add/edit/delete actions before the actual change is applied.
 - [DatabaseLog plugin](https://github.com/dereuromark/CakePHP-DatabaseLog) - Simple and stand-alone logging to database instead of files.
 - [Muffin/Footprint plugin](https://github.com/UseMuffin/Footprint) - Plugin to allow passing currently logged in user to model layer.
 - [Version plugin](https://github.com/josegonzalez/cakephp-version) - A plugin that facilitates versioned database entities.
