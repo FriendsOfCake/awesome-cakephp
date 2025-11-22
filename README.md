@@ -218,6 +218,14 @@ Additional lists you might find useful:
 *Working with notification software.*
 
 - [Mercure plugin](https://github.com/josbeir/cakephp-mercure) - Push real-time updates to clients using the Mercure protocol.
+- [Cake/Notification plugin)(https://github.com/skie/notification) - The Notification plugin provides support for sending notifications across a variety of delivery channels.
+- [Cake/NotificationUI plugin)(https://github.com/skie/notification-ui) - The NotificationUI plugin provides UI components for the CakePHP Notification system with real-time broadcasting support.
+- [Cake/BroadcastingNotification plugin)(https://github.com/skie/notification-broadcasting) - The BroadcastingNotification plugin extends the CakePHP Notification system to support real-time notification delivery via WebSocket broadcasting.
+- [Cake/RocketChatNotification plugin)(https://github.com/skie/notification-rocketchat) - The RocketChatNotification plugin allows you to send notifications to RocketChat.
+- [Cake/SevenNotification plugin)(https://github.com/skie/notification-seven) - The SevenNotification plugin allows you to send SMS notifications via Seven.io using the CakePHP Notification plugin.
+- [Cake/SlackNotification plugin)(https://github.com/skie/notification-slack) - The SlackNotification plugin allows you to send notifications to Slack.
+- [Cake/TelegramNotification plugin)(https://github.com/skie/notification-telegram) - The TelegramNotification plugin allows you to send notifications to Telegram using the Telegram Bot API and the CakePHP Notification plugin.
+
 
 ## ORM / Database / Datamapping
 *Plugins that implement object-relational mapping or data-mapping techniques.*
