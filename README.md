@@ -224,6 +224,7 @@ Additional lists you might find useful:
 ## Notifications and Real-time Communication
 *Working with notification software.*
 
+- [Crustum/Notification plugin](https://github.com/crustum/notification) - The Notification plugin provides support for sending notifications across a variety of delivery channels.
 - [Mercure plugin](https://github.com/josbeir/cakephp-mercure) - Push real-time updates to clients using the Mercure protocol.
 
 ## ORM / Database / Datamapping
