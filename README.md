@@ -73,6 +73,7 @@ Additional lists you might find useful:
 ## AI Tools
 *Plugins and libraries for integrating artificial intelligence and machine learning tools.*
 
+- [Crustum/OpenRouter plugin](https://github.com/crustum/cakephp-open-router) - Integration with OpenRouter service for unified LLM access, supporting multiple AI models with chat completions, streaming, tool calling, and web search.
 - [Synapse plugin](https://github.com/josbeir/cakephp-synapse) - Expose your application functionality via MCP, with built-in tools and documentation search to help you discover and interact with your app's capabilities.
 
 ## Architecture
