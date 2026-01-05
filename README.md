@@ -250,8 +250,9 @@ Additional lists you might find useful:
 *Working with event and task queues.*
 
 - [Queue plugin](https://github.com/cakephp/queue) - CakePHP core queue system for the [php-queue](https://php-enqueue.github.io) queue library.
-- [Crustum/BatchQueue plugin](https://github.com/crustum/batch-queue) - Unified system for managing batch job processing with parallel execution and sequential chains.
 - [Cake/Enqueue plugin](https://github.com/CakeDC/cakephp-enqueue) - Database-driven message queue integration using the Enqueue library for CakePHP Queue plugin.
+- [Crustum/BatchQueue plugin](https://github.com/crustum/batch-queue) - Unified system for managing batch job processing with parallel execution and sequential chains.
+- [Crustum/Temporal plugin](https://github.com/crustum/cakephp-temporal) - Workflow orchestration plugin for durable execution, reliable background jobs, and long-running processes with automatic retries.
 - [Queue plugin](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
 - [QueueScheduler plugin](https://github.com/dereuromark/cakephp-queue-scheduler) - A dependency-free crontab-like scheduler as DB driven solution and addon to Queue (dereuromark) plugin.
 
