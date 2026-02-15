@@ -7,7 +7,7 @@ Awesome CakePHP aims to be a concise list of the best plugins, resources and too
 * Unique in its approach
 * Fulfill a niche gap in the market
 
-For a plugin to say on it, it needs to be somewhat actively maintained.
+For a plugin to stay on it, it needs to be somewhat actively maintained.
 
 Please ensure your pull request adheres to the following guidelines:
 
