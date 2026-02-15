@@ -1,20 +1,35 @@
 # Contribution Guidelines
+
+Awesome CakePHP aims to be a concise list of the best plugins, resources and tools the CakePHP ecosystem has to offer. The suggested software should ideally be one of the following:
+
+* Widely known or recognized within the CakePHP community
+* Established and mature
+* Unique in its approach
+* Fulfill a niche gap in the market
+* Actively maintained
+
 Please ensure your pull request adheres to the following guidelines:
 
-* Please search previous suggestions before making a new one, as yours may be a duplicate.
+* Your suggestion will be closed if it has been previously rejected or is a duplicate.
+* Please search previous suggestions before making a new one.
+* Write a meaningful pull request description that includes a link to the project.
 * Code, comments and documentation need to be in English.
 * Libraries that are PHP 8.1+, Composer-installable, CakePHP-PSR compliant, tested and documented are preferred.
 * A license file must be in the root directory (usually named `LICENSE`).
 * If possible, please publish your library under an open-source license (preferably MIT).
 * Please make an individual pull request for each suggestion.
 * New categories or improvements to the existing categorization are welcome.
-* Keep descriptions short and simple.
-* End all descriptions with a full stop/period.
+* Keep descriptions short, clear, unbiased, and free of jargon.
+* Adheres to the following Markdown format: `[Plugin Name](LINK) - DESCRIPTION.`
+* End all descriptions with a full stop/period and no trailing whitespace.
 * Check your spelling and grammar.
-* Make sure your text editor is set to remove trailing whitespace.
 * Proposed libraries should ideally have 10+ stars.
 * Please keep the lists in alphabetical order.
 * Name plugins as `ExactPluginName plugin`. The name is the CamelCase namespace and ideally matches the composer package name (minus the dashed casing).
+
+Please make sure your suggestion meets all the criteria before submitting a pull request, or it may be closed without review.
+
+**Maintainer Discretion:** Maintainers reserve the right to decline any contribution or remove existing entries at any time. Common reasons include projects becoming unmaintained, outdated, superseded by better alternatives, or no longer meeting quality standards.
 
 Thank you for your suggestions!
 
@@ -53,4 +68,4 @@ to the wiki which then can do this across all branches in a less cumbersome way.
 * The plugin contains basic tests (unit, ...) of the functionality provided.
 * It should have Travis or some CI set up. Make sure to set min/max of PHP as matrix elements.
 * You can add badges under the README h1 header to visually show your tests are green etc.
-* Ideally, also check phpstan on `src/` dir and [prefer-lowest](https://www.dereuromark.de/2019/01/04/test-composer-dependencies-with-prefer-lowest) to ensure a high quality for your plugin.
+* Ideally, also check PHPStan on `src/` dir and [prefer-lowest](https://www.dereuromark.de/2019/01/04/test-composer-dependencies-with-prefer-lowest) to ensure a high quality for your plugin.
