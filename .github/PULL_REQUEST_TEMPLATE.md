@@ -1,7 +1,6 @@
 <!--
 ## Checklist
 
-- [ ] Link to the repository included in PR description below
 - [ ] CakePHP 5.x and PHP 8.1+ compatible
 - [ ] Has tests, documentation, and LICENSE file
 - [ ] Actively maintained
@@ -13,4 +12,5 @@
 - [ ] Description ends with a period
 - [ ] Alphabetical order within category
 
+Add a link to your repository in PR description below the next line.
 -->
