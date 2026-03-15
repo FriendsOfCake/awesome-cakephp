@@ -1,5 +1,8 @@
 # Awesome CakePHP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of amazingly awesome **CakePHP 5.x** plugins, resources and shiny things.
+
+> A curated list of CakePHP plugins, resources, and tools.
+
+[CakePHP](https://cakephp.org/) is a rapid development PHP framework that uses well-known design patterns like MVC and ORM. It provides a robust foundation for building web applications with conventions over configuration.
 
 If you are looking for previous CakePHP resources please visit:
 - the [CakePHP 2.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake2) of this awesome list
