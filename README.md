@@ -331,7 +331,7 @@ Additional lists you might find useful:
 
 ### Third Party APIs
 *Accessing third party APIs.*
-
+- [Yourls - Url Shortener Plugin](https://github.com/impronta48/cakephp-yourls) - Simple plugin to shorten your urls with self-hosted Yourls
 
 ## Software
 
