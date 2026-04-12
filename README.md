@@ -366,7 +366,7 @@ IDE specific compatibility information and tips can be found [here](https://gith
 
 - [BlogMVC](https://github.com/Kareylo/BlogMVC-CakePHP3) - A simple Blog example with CakePHP based on [BlogMVC Project](https://github.com/Grafikart/BlogMVC).
 - [Bookmarkr](https://github.com/lorenzo/cakephp3-bookmarkr) - A bookmarking application built with the CRUD plugin.
-- [Fluentd + Grafana Loki demo application](https://github.com/ishanvyas22/cakephp-loki-demo) - A demo application to send CakePHP Docker container logs to [Grafana Loki](https://grafana.com/logs/) via [Fluentd](https://www.fluentd.org/).
+- [Fluentd + Grafana Loki demo application](https://github.com/ishanvyas22/cakephp-loki-demo) - A demo application to send CakePHP Docker container logs to [Grafana Loki](https://grafana.com/) via [Fluentd](https://www.fluentd.org/).
 - [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.
 - [Sandbox](https://sandbox.dereuromark.de) - A sandbox CakePHP application with lots of demos and plugin showcasings.
 - [Query Examples](https://github.com/lorenzo/cakephp3-examples) - Advanced query building examples.
