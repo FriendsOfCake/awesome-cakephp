@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/friendsofcake-awesome-cakephp-badge.png)](https://mseep.ai/app/friendsofcake-awesome-cakephp)
+
 # Awesome CakePHP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of CakePHP plugins, resources, and tools.
