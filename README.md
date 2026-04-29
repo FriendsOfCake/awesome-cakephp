@@ -179,7 +179,8 @@ Additional lists you might find useful:
 *Image processing and manipulation libraries.*
 
 - [ADmad/Glide plugin](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
-- [QrCodePlugin](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
+- [file-storage-image-processor](https://github.com/php-collective/file-storage-image-processor) as `intervention/image` wrapper through [FileStorage plugin](https://github.com/dereuromark/cakephp-file-storage).
+- [QrCode plugin](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
 
 ### Libs
 *Useful libraries or tools that don't fit in any of the other categories.*
