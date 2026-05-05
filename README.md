@@ -359,6 +359,8 @@ IDE specific compatibility information and tips can be found [here](https://gith
 
 ### Web Applications
 
+- [Toolbox](https://toolbox.dereuromark.de) - Online toolbox with useful tools for modern CakePHP apps. Powers the awesome CI/linter.
+
 ### CMS and applications built on CakePHP
 
 - [baserCMS](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
