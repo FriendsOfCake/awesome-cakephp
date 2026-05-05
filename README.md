@@ -372,9 +372,10 @@ IDE specific compatibility information and tips can be found [here](https://gith
 - [Fluentd + Grafana Loki demo application](https://github.com/ishanvyas22/cakephp-loki-demo) - A demo application to send CakePHP Docker container logs to [Grafana Loki](https://grafana.com/) via [Fluentd](https://www.fluentd.org/).
 - [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.
 - [Sandbox](https://sandbox.dereuromark.de) - A sandbox CakePHP application with lots of demos and plugin showcasings.
-- [Query Examples](https://github.com/lorenzo/cakephp3-examples) - Advanced query building examples.
+- [TinyAuth demo](https://github.com/dereuromark/cakephp-tinyauth-demo) - Full interactivate auth (TinyAuth incl. Authentication and Authorization core plugins) demo.
+- [Query examples](https://github.com/lorenzo/cakephp3-examples) - Advanced query building examples.
 - [Xeta](https://github.com/XetaIO/Xeta) - A resource to help people starting with CakePHP.
-- [Vue.js Demo App](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + Vue.js single page application skeleton.
+- [Vue.js demo app](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + Vue.js single page application skeleton.
 
 ## Resources
 
