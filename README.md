@@ -226,8 +226,8 @@ Additional lists you might find useful:
 ### Navigation
 *Building navigation structures.*
 
-- [dereuromark/cakephp-menu plugin](https://github.com/dereuromark/cakephp-menu) - Composable menu builder and renderer for nested navigation, active-state matching, and breadcrumbs.
 - [Icings/Menu plugin](https://github.com/icings/menu) - A [KnpMenu](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
+- [Menu plugin](https://github.com/dereuromark/cakephp-menu) - Composable menu builder and renderer for nested navigation, active-state matching, and breadcrumbs - and zero dependencies.
 
 ### Notifications and Real-time Communication
 *Working with notification software.*
