@@ -212,6 +212,7 @@ Additional lists you might find useful:
 - [CakeDC/Enum plugin](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
 - [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
 - [CakeHtmx plugin](https://github.com/zunnu/cake-htmx) - CakePHP integration for [htmx](https://htmx.org/).
+- [CakePHP Claude Skill](https://github.com/cpierce/cakephp-claude-skill) - Claude Code skill for CakePHP development covering conventions, PHPStan compliance, migrations, and upgrade guidance.
 - [Calendar plugin](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
 - [DatabaseBackup plugin](https://github.com/mirko-pagliai/cakephp-database-backup) - A plugin to export, import and manage database backups. Currently, the plugin supports MySQL, PostgreSQL and SQLite databases.
 - [Feedback plugin](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
