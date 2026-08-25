@@ -273,6 +273,7 @@ Additional lists you might find useful:
 - [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - A plugin which allows using [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
 - [MixerApi](https://mixerapi.com) - Streamline development of modern RESTful APIs for your team's CakePHP project.
 - [SwaggerBake plugin](https://github.com/cnizzardini/cakephp-swagger-bake) - This plugin automatically builds OpenAPI from your existing models and routes for display in Swagger and Redoc.
+- [SwaggerUi plugin](https://github.com/orca-services/cakephp-swagger-ui) - A plugin for publishing Swagger UIs based on OpenAPI specification files.
 
 ### Search
 *Plugins and software for indexing and performing search queries on data.*
