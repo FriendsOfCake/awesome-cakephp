@@ -332,6 +332,7 @@ Additional lists you might find useful:
 
 - [CakePHP CodeSniffer rules](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
 - [CakephpFixtureFactories plugin](https://github.com/dereuromark/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
+- [DataValidationTesting plugin](https://github.com/orca-services/cakephp-data-validation-testing) - A plugin to help testing data validation.
 - [FriendsOfCake/Fixturize plugin](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (MySQL only).
 
 ### Third Party APIs
