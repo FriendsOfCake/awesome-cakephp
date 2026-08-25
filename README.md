@@ -215,6 +215,7 @@ Additional lists you might find useful:
 - [CakeHtmx plugin](https://github.com/zunnu/cake-htmx) - CakePHP integration for [htmx](https://htmx.org/).
 - [Calendar plugin](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
 - [DatabaseBackup plugin](https://github.com/mirko-pagliai/cakephp-database-backup) - A plugin to export, import and manage database backups. Currently, the plugin supports MySQL, PostgreSQL and SQLite databases.
+- [FeatureFlags plugin](https://github.com/orca-services/cakephp-feature-flags) - A plugin for managing feature flags in your code.
 - [Feedback plugin](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
 - [Flash plugin](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
 - [Inertia plugin](https://github.com/CakeDC/cakephp-inertia) - Plugin for connecting a Vue 3 app and use an API interface using a middleware.
