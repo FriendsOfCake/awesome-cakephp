@@ -189,6 +189,7 @@ Additional lists you might find useful:
 - [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
 - [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer.
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
+- [Crustum/Inspector plugin](https://github.com/Crustum/inspector) - Detects packages and development approaches in CakePHP projects by scanning Composer and JS lockfiles, filesystem markers, and PHP conventions, with a ProjectScan API and inspector scan JSON command.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 - [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package.
 
