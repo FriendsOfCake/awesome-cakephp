@@ -130,6 +130,7 @@ Additional lists you might find useful:
 ### Console
 *Command-line tools and improvements.*
 
+- [Crustum/PluginManifest plugin](https://github.com/Crustum/PluginManifest) - Standardized way for CakePHP plugins to install and publish assets (config files, migrations, templates, environment variables, bootstrap code) to the main application.
 - [SignalHandler plugin](https://github.com/skie/SignalHandler) - Cross-platform signal handling for CakePHP console commands with zero external dependencies. Supports Linux (pcntl), Windows (native API).
 - [Scheduling plugin](https://github.com/skie/cakephp-scheduling) - The plugin provides task scheduling capabilities with sub-minute precision, allowing you to schedule tasks as frequently as every second, with single crontab entry point. It allows tasks monitoring.
 
