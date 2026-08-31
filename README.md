@@ -234,6 +234,7 @@ Additional lists you might find useful:
 ### Notifications and Real-time Communication
 *Working with notification software.*
 
+- [Crustum/BlazeCast plugin](https://github.com/Crustum/blazecast) - Self-hosted WebSocket server for CakePHP using the Pusher protocol for real-time bidirectional communication.
 - [Crustum/Broadcasting plugin](https://github.com/crustum/broadcasting) - The Broadcasting plugin provides real-time event broadcasting for CakePHP applications using WebSocket connections compatible with the Pusher protocol or Redis pub/sub.
 - [Crustum/Notification plugin](https://github.com/crustum/notification) - The Notification plugin provides support for sending notifications across a variety of delivery channels.
 - [Mercure plugin](https://github.com/josbeir/cakephp-mercure) - Push real-time updates to clients using the Mercure protocol.
