@@ -317,6 +317,7 @@ Additional lists you might find useful:
 
 - [Bake plugin](https://github.com/cakephp/bake) - Provides code generation functionality.
 - [BootstrapUI plugin](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
+- [Crustum/Meta plugin](https://github.com/Crustum/meta) - Fluent API for managing your application's document <head>, with title and meta tags, Open Graph, canonical URLs, robots directives, performance hints, and structured data.
 - [CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 - [Feed plugin](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
 - [LatteView plugin](https://github.com/josbeir/cakephp-latte-view) - A plugin providing Latte template engine integration.
