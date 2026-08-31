@@ -75,6 +75,7 @@ Additional lists you might find useful:
 ### AI Tools
 *Plugins and libraries for integrating artificial intelligence and machine learning tools.*
 
+- [Crustum/Essentia plugin](https://github.com/Crustum/essentia) - Agent-optimized output for PHP tools used in CakePHP projects; detects PHPUnit, Pest, Paratest, PHPStan, Rector, and PHPCS running inside an AI agent and replaces verbose output with compact structured JSON.
 - [Crustum/OpenRouter plugin](https://github.com/crustum/cakephp-open-router) - Integration with OpenRouter service for unified LLM access, supporting multiple AI models with chat completions, streaming, tool calling, and web search.
 - [Synapse plugin](https://github.com/josbeir/cakephp-synapse) - Expose your application functionality via MCP, with built-in tools and documentation search to help you discover and interact with your app's capabilities.
 
