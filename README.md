@@ -280,6 +280,7 @@ Additional lists you might find useful:
 
 - [Cake/Elasticsearch plugin](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
 - [CakeDC/SearchFilter plugin](https://github.com/CakeDC/search-filter) - Powerful and flexible solution for implementing advanced search functionality. Provides a robust set of tools for creating dynamic, user-friendly search interfaces with minimal effort.
+- [Crustum/Explorator plugin](https://github.com/Crustum/explorator) - Driver-based full-text search for CakePHP Tables and Entities (collection, database, Algolia, Meilisearch, Typesense).
 - [PlumSearch plugin](https://github.com/skie/plum_search) - Implements custom, flexible and extendable search strategies. Implements PRG pattern.
 - [Search plugin](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 - [Tags plugin](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records.
