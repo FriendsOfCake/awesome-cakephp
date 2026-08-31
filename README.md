@@ -31,6 +31,7 @@ Additional lists you might find useful:
 	- [Code Analysis](#code-analysis)
     - [Console](#console)
 	- [Debugging](#debugging)
+	- [Monitoring](#monitoring)
 	- [Email](#email)
 	- [File Manipulation](#file-manipulation)
 	- [Filtering and Validation](#filtering-and-validation)
@@ -142,6 +143,11 @@ Additional lists you might find useful:
 - [Execution order](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks.
 - [Sentry plugin](https://github.com/lordsimal/cakephp-sentry) - A plugin to seamlessly integrate Sentry for errors and exceptions.
 - [Setup plugin](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing healthcheck(s), debugging and maintenance tools.
+
+### Monitoring
+*Application monitoring and observability.*
+
+- [Crustum/Rhythm plugin](https://github.com/Crustum/rhythm) - Real-time application performance monitoring for CakePHP 5.x with metrics for HTTP requests, DB queries, queue, exceptions, and cache plus a live dashboard.
 
 ### Email
 *Transports and tools for email handling.*
