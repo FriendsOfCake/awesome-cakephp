@@ -140,6 +140,7 @@ Additional lists you might find useful:
 - [CakephpWhoops plugin](https://github.com/dereuromark/cakephp-whoops) - PHP errors and exceptions for cool kids with [filp/whoops](https://github.com/filp/whoops).
 - [DebugKit plugin](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 - [Execution order](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks.
+- [OrcaServices/Heartbeat plugin](https://github.com/orca-services/cakephp-heartbeat) - A plugin providing an application heartbeat status page with configurable sensors.
 - [Sentry plugin](https://github.com/lordsimal/cakephp-sentry) - A plugin to seamlessly integrate Sentry for errors and exceptions.
 - [Setup plugin](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing healthcheck(s), debugging and maintenance tools.
 
