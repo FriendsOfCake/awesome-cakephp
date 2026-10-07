@@ -106,6 +106,7 @@ Additional lists you might find useful:
 - [Authentication plugin](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
 - [Authorization plugin](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
 - [CakeDC/Users plugin](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
+- [CakePasskeys plugin](https://github.com/dereuromark/cakephp-passkeys) - Passkey (WebAuthn) registration and sign-in, with a JavaScript client and cells for managing passkeys.
 - [CakeVerification plugin](https://github.com/salines/cakephp-verification) - Two-factor verification supporting email OTP, email magic link, SMS OTP, and TOTP (Google Authenticator).
 
 - [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role-based (single/multi) authorization as very light-weight approach.
