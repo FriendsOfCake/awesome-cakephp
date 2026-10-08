@@ -41,6 +41,7 @@ Additional lists you might find useful:
 	- [Markup](#markup)
 	- [Migration](#migration)
 	- [Miscellaneous](#miscellaneous)
+	- [Monitoring](#monitoring)
 	- [Navigation](#navigation)
 	- [Notifications and Real-time Communication](#notifications-and-real-time-communication)
 	- [ORM / Database / Datamapping](#orm--database--datamapping)
@@ -228,6 +229,11 @@ Additional lists you might find useful:
 - [Shim plugin](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 - [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful helpers, behaviors, components, commands, helpers, libs and more.
 - [Workflow plugin](https://github.com/dereuromark/cakephp-workflow) - Batteries-included state machine plugin with PHP 8 attributes, YAML config, audit trails, and visual admin dashboard.
+
+### Monitoring
+*Application monitoring and observability.*
+
+- [Crustum/Rhythm plugin](https://github.com/Crustum/rhythm) - Real-time application performance monitoring for CakePHP 5.x with metrics for HTTP requests, DB queries, queue, exceptions, and cache plus a live dashboard.
 
 ### Navigation
 *Building navigation structures.*
