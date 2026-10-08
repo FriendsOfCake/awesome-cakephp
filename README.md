@@ -345,6 +345,7 @@ Additional lists you might find useful:
 ### Third Party APIs
 *Accessing third party APIs.*
 
+- [Crustum/Saloon plugin](https://github.com/Crustum/saloon) - Integrates Saloon for building elegant HTTP API clients and SDKs, with CakePHP events, Bake generators, testing helpers, and cache/rate-limit bridges.
 
 ## Software
 
