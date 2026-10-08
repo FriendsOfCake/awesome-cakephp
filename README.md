@@ -31,7 +31,6 @@ Additional lists you might find useful:
 	- [Code Analysis](#code-analysis)
     - [Console](#console)
 	- [Debugging](#debugging)
-	- [Monitoring](#monitoring)
 	- [Email](#email)
 	- [File Manipulation](#file-manipulation)
 	- [Filtering and Validation](#filtering-and-validation)
@@ -42,6 +41,7 @@ Additional lists you might find useful:
 	- [Markup](#markup)
 	- [Migration](#migration)
 	- [Miscellaneous](#miscellaneous)
+	- [Monitoring](#monitoring)
 	- [Navigation](#navigation)
 	- [Notifications and Real-time Communication](#notifications-and-real-time-communication)
 	- [ORM / Database / Datamapping](#orm--database--datamapping)
@@ -144,11 +144,6 @@ Additional lists you might find useful:
 - [Sentry plugin](https://github.com/lordsimal/cakephp-sentry) - A plugin to seamlessly integrate Sentry for errors and exceptions.
 - [Setup plugin](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing healthcheck(s), debugging and maintenance tools.
 
-### Monitoring
-*Application monitoring and observability.*
-
-- [Crustum/Rhythm plugin](https://github.com/Crustum/rhythm) - Real-time application performance monitoring for CakePHP 5.x with metrics for HTTP requests, DB queries, queue, exceptions, and cache plus a live dashboard.
-
 ### Email
 *Transports and tools for email handling.*
 
@@ -230,6 +225,11 @@ Additional lists you might find useful:
 - [Shim plugin](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 - [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful helpers, behaviors, components, commands, helpers, libs and more.
 - [Workflow plugin](https://github.com/dereuromark/cakephp-workflow) - Batteries-included state machine plugin with PHP 8 attributes, YAML config, audit trails, and visual admin dashboard.
+
+### Monitoring
+*Application monitoring and observability.*
+
+- [Crustum/Rhythm plugin](https://github.com/Crustum/rhythm) - Real-time application performance monitoring for CakePHP 5.x with metrics for HTTP requests, DB queries, queue, exceptions, and cache plus a live dashboard.
 
 ### Navigation
 *Building navigation structures.*
