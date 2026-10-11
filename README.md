@@ -178,6 +178,7 @@ Additional lists you might find useful:
 
 - [ADmad/I18n plugin](https://github.com/ADmad/cakephp-i18n) - A plugin with I18n related tools.
 - [Cake/Localized plugin](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files.
+- [dereuromark/cakephp-i18n-lint](https://github.com/dereuromark/cakephp-i18n-lint) - Checks POT templates against the code, syncs and lints PO files for plugins and apps, e.g. in CI.
 - [Translate plugin](https://github.com/dereuromark/cakephp-translate) - Translate your translations in the backend with ease.
 
 ### Imagery
