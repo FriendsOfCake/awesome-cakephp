@@ -370,7 +370,6 @@ Additional lists you might find useful:
 - [Docker](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a Docker container environment.
 - [Galley](https://gitlab.com/amayer5125/galley) - A small Docker dev environment for CakePHP development which includes a simple command line utility.
 - [NetBeans](https://github.com/junichi11/cakephp3-netbeans) - This package provides support for CakePHP in NetBeans 8.1+.
-- [Puppet](https://puppetlabs.com/) - A server automation framework and application.
 - [Vagrant](https://developer.hashicorp.com/vagrant) - A portable development environment utility.
 
 IDE specific compatibility information and tips can be found [here](https://github.com/dereuromark/cakephp-ide-helper/wiki#ide-support-and-tips).
