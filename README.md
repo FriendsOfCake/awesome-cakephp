@@ -200,7 +200,7 @@ Additional lists you might find useful:
 ### Markup
 *Syntax highlighting and markup processing.*
 
-- [CakeCarve plugin](https://github.com/markup-carve/cakephp-carve) - Renders and validates Carve markup, with a helper, `.crv` views, an ORM behavior and console commands.
+- [MarkupCarve/CakeCarve plugin](https://github.com/markup-carve/cakephp-carve) - Renders and validates Carve markup, with a helper, `.crv` views, an ORM behavior and console commands.
 - [Markup plugin](https://github.com/dereuromark/cakephp-markup) - Allows to use PHP or JS based syntax highlighting.
 
 ### Migration
